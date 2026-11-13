@@ -34,9 +34,10 @@ const Hero = ({ onDonate }: HeroProps) => {
 
       <Container
         className="relative grid items-center
-          gap-12 py-14 sm:py-20
-          lg:grid-cols-[1.15fr_0.85fr]
-          lg:gap-16 lg:py-24"
+          gap-10 py-14 sm:py-16
+          lg:grid-cols-[1.1fr_0.9fr]
+          lg:gap-16 lg:py-20
+          xl:gap-20"
       >
         {/* Hero content */}
         <div className="min-w-0">
@@ -53,24 +54,24 @@ const Hero = ({ onDonate }: HeroProps) => {
           <h1
             className="font-display text-[2.35rem]
               font-extrabold leading-[1.08]
-              tracking-tight sm:text-5xl
-              lg:text-[3.25rem]"
+              tracking-tight sm:text-[2.8rem]
+              xl:text-[3.25rem]"
           >
             {t("hero.title")}
           </h1>
 
           {/* Description */}
           <p
-            className="mt-6 max-w-2xl text-lg
+            className="mt-6 max-w-xl text-base
               leading-relaxed text-[#FAF9F4]/80
-              sm:text-xl"
+              sm:text-lg"
           >
             {t("hero.sub")}
           </p>
 
           {/* Call-to-action buttons */}
           <div
-            className="mt-9 flex flex-wrap
+            className="mt-8 flex flex-wrap
               items-center gap-3"
           >
             <DonateButton onClick={onDonate} size="lg">
@@ -94,7 +95,7 @@ const Hero = ({ onDonate }: HeroProps) => {
         </div>
 
         {/* Image slider */}
-        <div className="mx-auto w-full min-w-0 max-w-[30rem]">
+        <div className="mx-auto w-full min-w-0">
           <HeroSlider />
         </div>
       </Container>
