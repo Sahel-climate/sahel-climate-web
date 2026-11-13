@@ -1,0 +1,17 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "programmes": "Programmes",
+    "impact": "Impact",
+    "involved": "Get Involved",
+    "partners": "Partners",
+    "news": "News",
+    "contact": "Contact",
+    "donate": "Donate",
+    "language": "Language",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "tagline": "Action Today, Sustainability Tomorrow"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "programmes": "Programlar",
+    "impact": "Etkimiz",
+    "involved": "Bize Katılın",
+    "partners": "Ortaklarımız",
+    "news": "Haberler",
+    "contact": "İletişim",
+    "donate": "Bağış Yap",
+    "language": "Dil",
+    "openMenu": "Menüyü aç",
+    "closeMenu": "Menüyü kapat",
+    "tagline": "Bugün Harekete Geç, Yarını Sürdürülebilir Kıl"
+  }
+}

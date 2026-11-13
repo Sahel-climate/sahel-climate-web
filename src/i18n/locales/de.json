@@ -1,0 +1,17 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "programmes": "Programme",
+    "impact": "Wirkung",
+    "involved": "Mitmachen",
+    "partners": "Partner",
+    "news": "Aktuelles",
+    "contact": "Kontakt",
+    "donate": "Spenden",
+    "language": "Sprache",
+    "openMenu": "Menü öffnen",
+    "closeMenu": "Menü schließen",
+    "tagline": "Heute handeln, morgen nachhaltig leben"
+  }
+}

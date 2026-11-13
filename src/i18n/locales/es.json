@@ -1,0 +1,17 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Nosotros",
+    "programmes": "Programas",
+    "impact": "Impacto",
+    "involved": "Participa",
+    "partners": "Colaboradores",
+    "news": "Noticias",
+    "contact": "Contacto",
+    "donate": "Donar",
+    "language": "Idioma",
+    "openMenu": "Abrir menú",
+    "closeMenu": "Cerrar menú",
+    "tagline": "Acción hoy, sostenibilidad mañana"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "programmes": "Programmes",
+    "impact": "Impact",
+    "involved": "S'impliquer",
+    "partners": "Partenaires",
+    "news": "Actualités",
+    "contact": "Contact",
+    "donate": "Faire un don",
+    "language": "Langue",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu",
+    "tagline": "Agir aujourd'hui, durer demain"
+  }
+}
