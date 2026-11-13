@@ -49,7 +49,7 @@ const Navbar = ({ onDonate }: NavbarProps) => {
     >
       <Container
         className="flex h-16 items-center
-    gap-4 sm:h-[4.5rem]
+    gap-4 sm:h-18
     xl:justify-center xl:gap-20"
       >
         {/* Logo */}
@@ -62,9 +62,9 @@ const Navbar = ({ onDonate }: NavbarProps) => {
           <img
             src={logo}
             alt={siteConfig.name}
-            className="h-10 w-auto max-w-[100px]
+            className="h-10 w-auto max-w-25
               object-contain mix-blend-multiply
-              sm:h-12 sm:max-w-[150px]"
+              sm:h-12 sm:max-w-37.5"
           />
         </a>
 
@@ -72,7 +72,7 @@ const Navbar = ({ onDonate }: NavbarProps) => {
         <nav
           aria-label="Main navigation"
           className="hidden shrink-0 items-center
-    gap-5 xl:flex 2xl:gap-9"
+    gap-5 xl:flex 2xl:gap-16 "
         >
           {navigationLinks.map((link) => (
             <a

@@ -13,5 +13,14 @@
     "openMenu": "Menü öffnen",
     "closeMenu": "Menü schließen",
     "tagline": "Heute handeln, morgen nachhaltig leben"
+  },
+  "hero": {
+    "eyebrow": "Sahel Climate Action · Maroua, Kamerun",
+    "title": "Widerstandsfähige Gemeinschaften im Sahel angesichts des Klimawandels aufbauen",
+    "sub": "Wir bekämpfen extreme Armut, Hunger und die Auswirkungen des Klimawandels im Norden Kameruns durch Ernährungssicherheit, Gesundheit, Hygiene, Kinderschutz und Wiederaufforstung.",
+    "donate": "Jetzt spenden",
+    "programmes": "Unsere Programme",
+    "imagePlaceholder": "Unsere Wirkung in Bildern",
+    "imageAlt": "Gemeinschaftsprojekt von Sahel Climate Action"
   }
 }

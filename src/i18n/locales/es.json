@@ -13,5 +13,14 @@
     "openMenu": "Abrir menú",
     "closeMenu": "Cerrar menú",
     "tagline": "Acción hoy, sostenibilidad mañana"
+  },
+  "hero": {
+    "eyebrow": "Sahel Climate Action · Maroua, Camerún",
+    "title": "Construir comunidades del Sahel resilientes al cambio climático",
+    "sub": "Luchamos contra la pobreza extrema, el hambre y los efectos del cambio climático en el norte de Camerún mediante la seguridad alimentaria, la salud, la higiene, la protección infantil y la reforestación.",
+    "donate": "Dona ahora",
+    "programmes": "Nuestros programas",
+    "imagePlaceholder": "Nuestro impacto en imágenes",
+    "imageAlt": "Proyecto comunitario de Sahel Climate Action"
   }
 }

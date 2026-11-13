@@ -13,5 +13,14 @@
     "openMenu": "Menüyü aç",
     "closeMenu": "Menüyü kapat",
     "tagline": "Bugün Harekete Geç, Yarını Sürdürülebilir Kıl"
+  },
+  "hero": {
+    "eyebrow": "Sahel Climate Action · Maroua, Kamerun",
+    "title": "İklim değişikliğine dirençli Sahel toplulukları inşa etmek",
+    "sub": "Kuzey Kamerun'da gıda güvenliği, sağlık, hijyen, çocukların korunması ve yeniden ağaçlandırma yoluyla aşırı yoksulluk, açlık ve iklim değişikliğinin etkileriyle mücadele ediyoruz.",
+    "donate": "Şimdi bağış yap",
+    "programmes": "Programlarımız",
+    "imagePlaceholder": "Fotoğraflarla etkimiz",
+    "imageAlt": "Sahel Climate Action topluluk projesi"
   }
 }
