@@ -22,5 +22,401 @@
     "programmes": "Nossos programas",
     "imagePlaceholder": "Nosso impacto em imagens",
     "imageAlt": "Projeto comunitário de Sahel Climate Action"
+  },
+
+  "about": {
+    "title": "Uma associação de jovens que se tornou uma organização de combate às alterações climáticas e à pobreza",
+    "intro": "A Sahel Climate Action (SCA) é uma organização sem fins lucrativos que combate a pobreza extrema, os efeitos das alterações climáticas e a desigualdade social no Sahel, com especial atenção aos Camarões. Desenvolvemos programas integrados que ajudam as famílias pobres a tornarem-se mais resilientes, protegendo simultaneamente o ambiente. As comunidades, as autoridades locais e os parceiros técnicos participam connosco na conceção de cada projeto.",
+    "visionT": "Visão",
+    "vision": "Comunidades do Sahel resilientes, inclusivas e prósperas, onde todos possam viver com dignidade, apesar dos desafios climáticos, económicos e sociais.",
+    "missionT": "Missão",
+    "mission": "Melhorar a vida das pessoas vulneráveis através da proteção social, da segurança alimentar, da igualdade de género, da agrofloresta, da restauração dos ecossistemas e da adaptação às alterações climáticas.",
+    "objectivesT": "Os nossos objetivos",
+    "objectives": [
+      "Reforçar a segurança alimentar das famílias vulneráveis.",
+      "Promover boas práticas de higiene.",
+      "Reduzir as doenças transmitidas pela água e as relacionadas com o saneamento.",
+      "Reforçar a resiliência das comunidades."
+    ],
+    "valuesT": "Os nossos valores",
+    "values": [
+      "Solidariedade",
+      "Integridade",
+      "Transparência",
+      "Inclusão social",
+      "Equidade",
+      "Respeito pelo ambiente",
+      "Inovação",
+      "Responsabilidade",
+      "Participação comunitária",
+      "Prestação de contas"
+    ],
+    "historyT": "A nossa história",
+    "history": [
+      {
+        "date": "2026 a 2028",
+        "text": "Plano estratégico trienal que abrange a agricultura, a segurança alimentar, a proteção social, a água, o clima, o género, a reflorestação, os resíduos e o desenvolvimento económico local."
+      },
+      {
+        "date": "{{renamedDate}}",
+        "text": "A associação torna-se Sahel Climate Action, um nome que reflete o trabalho climático que desenvolvia há vários anos."
+      },
+      {
+        "date": "1 de fevereiro de 2012",
+        "text": "Registo como associação em Maroua."
+      },
+      {
+        "date": "13 de dezembro de 2011",
+        "text": "Fundação como Associação de Jovens para a Luta contra a Pobreza no Extremo Norte (Association des Jeunes pour la Lutte contre la Pauvreté dans l’Extrême-Nord - AJELPEN)."
+      }
+    ],
+    "howT": "Como trabalhamos",
+    "how": [
+      "Os projetos partem das necessidades expressas pelas comunidades.",
+      "Os beneficiários participam ativamente e as competências locais são reforçadas.",
+      "Os resultados são acompanhados através de indicadores claros e avaliados anualmente.",
+      "As finanças são transparentes e prestamos contas às pessoas que servimos e aos nossos parceiros.",
+      "Ninguém fica para trás: as mulheres, os jovens, as pessoas deslocadas e as pessoas com deficiência são incluídos."
+    ],
+    "leadersT": "Governação",
+    "leadersIntro": "A SCA é dirigida por uma Assembleia Geral, um Conselho de Administração e uma Direção Executiva, com delegações regionais e comités comunitários.",
+    "officesT": "Os nossos escritórios"
+  },
+
+  "programmes": {
+    "title": "O que fazemos",
+    "intro": "Atualmente, desenvolvemos cinco programas. Escolha um para descobrir quem beneficia dele e o que já alcançou.",
+    "items": [
+      {
+        "id": "food",
+        "title": "Segurança alimentar",
+        "line": "Cereais cultivados, armazenados e revendidos a preço de custo.",
+        "body": "Todos os anos, a SCA cultiva milho, milheto, sorgo, arroz e amendoim em terras agrícolas nas proximidades de Pakete, Pitoa e Wouro Labbo (Garoua), e Congola e Djarengol (Maroua). A colheita é armazenada e depois vendida a preço de custo, sem margem de lucro, durante o período de escassez de junho a setembro, quando as reservas se esgotam e os preços sobem. Parte das receitas financia as nossas atividades de sensibilização e proteção infantil. As mulheres e as jovens participam na produção, no armazenamento e na distribuição.",
+        "facts": [
+          "6.550 agregados familiares em 2023",
+          "6.720 agregados familiares em 2024",
+          "Produção de junho a agosto, distribuição de junho a setembro"
+        ]
+      },
+      {
+        "id": "children",
+        "title": "Proteção infantil",
+        "line": "Uma refeição quente e alguém que escute as crianças que vivem nas ruas.",
+        "body": "Em Garoua e Maroua, as crianças que vivem nas ruas recebem refeições quentes e equilibradas preparadas com alimentos locais, água potável e lanches. As refeições abrem caminho para sessões de higiene, encaminhamento para serviços de saúde, apoio psicossocial e, sempre que possível, o regresso à família ou à escola. As palestras educativas abordam a higiene, os direitos da criança, as drogas e a violência, a prevenção do VIH e da gravidez precoce, a resolução pacífica de conflitos e as competências para a vida.",
+        "facts": [
+          "130 crianças alimentadas diariamente em 2024",
+          "198 crianças em 2025: 125 em Maroua e 73 em Garoua"
+        ]
+      },
+      {
+        "id": "health",
+        "title": "Saúde e sensibilização",
+        "line": "Campanhas de prevenção que alcançam dezenas de milhares de pessoas.",
+        "body": "Através de sessões comunitárias, programas de rádio, cartazes, visitas porta a porta e rastreios voluntários, a SCA divulga mensagens de prevenção nas regiões do Norte e do Extremo Norte. Em 2023, quarenta agentes comunitários receberam formação em comunicação para a mudança social, higiene familiar e monitorização dos riscos para a saúde.",
+        "facts": [
+          "2025: 35.265 pessoas sensibilizadas sobre diabetes, cancro, doenças cardíacas e doenças relacionadas com o ambiente",
+          "2025: 21.646 jovens e adultos sensibilizados sobre tabaco e drogas",
+          "2023: 38.125 raparigas e jovens mulheres sensibilizadas sobre gravidez precoce e VIH/SIDA"
+        ]
+      },
+      {
+        "id": "wash",
+        "title": "Água, higiene e saneamento",
+        "line": "Mãos limpas, água segura e menos surtos de doenças.",
+        "body": "Em 2023, a SCA realizou sessões de higiene nos bairros de baixos rendimentos de Garoua e Maroua sobre lavagem das mãos, utilização de sabão, tratamento da água, gestão de resíduos, manutenção de latrinas e prevenção da cólera. A construção de latrinas e a reabilitação de pontos de água são as próximas atividades previstas.",
+        "facts": [
+          "5.794 agregados familiares alcançados em 2023",
+          "44.054 pessoas alcançadas: 21.664 em Garoua e 22.390 em Maroua"
+        ]
+      },
+      {
+        "id": "climate",
+        "title": "Ação climática",
+        "line": "Soluções práticas para ajudar as famílias agrícolas a enfrentar secas e inundações.",
+        "body": "As nossas campanhas ensinam a conservação da água e do solo, a agricultura climaticamente inteligente, a utilização de sementes resistentes à seca, a agroflorestação e a plantação comunitária de árvores, a recuperação de terras e o alerta precoce para riscos climáticos. Também incentivam ações quotidianas: plantar árvores, gerir resíduos, poupar água e energia e reduzir as queimadas.",
+        "facts": [
+          "2024: 22.034 pessoas alcançadas",
+          "2025: 21.208 pessoas alcançadas, incluindo 1.701 agregados familiares"
+        ]
+      }
+    ],
+    "comingT": "Próximos programas de 2026 a 2028",
+    "coming": [
+      {
+        "title": "Agricultura sustentável",
+        "text": "Formação de agricultores, sementes resistentes à seca, hortas, irrigação gota a gota, composto e cooperativas."
+      },
+      {
+        "title": "Reflorestação",
+        "text": "Viveiros de árvores, plantação, sebes vivas, pomares comunitários e sensibilização nas escolas."
+      },
+      {
+        "title": "Equidade de género",
+        "text": "Liderança feminina e cooperativas de mulheres, formação em empreendedorismo e acesso ao crédito."
+      },
+      {
+        "title": "Gestão de resíduos",
+        "text": "Triagem, compostagem, reciclagem, campanhas de limpeza e pequenas empresas de reciclagem."
+      },
+      {
+        "title": "Desenvolvimento económico local",
+        "text": "Formação profissional, microfinanças, empresas rurais e empreendedorismo juvenil."
+      },
+      {
+        "title": "Proteção social alargada",
+        "text": "Kits escolares, apadrinhamento de crianças vulneráveis e apoio a idosos isolados."
+      }
+    ]
+  },
+
+  "impact": {
+    "title": "Resultados que podemos demonstrar",
+    "intro": "Entre 2023 e 2025, a SCA prestou apoio alimentar a 13.270 agregados familiares em dois anos e realizou campanhas de sensibilização que alcançaram mais de 180.000 pessoas.",
+    "tableT": "Ano a ano",
+    "cols": ["Resultado", "2023", "2024", "2025"],
+    "na": "não reportado",
+    "rows": [
+      [
+        "Agregados familiares que receberam cereais e amendoim",
+        "6.550",
+        "6.720",
+        "não reportado"
+      ],
+      [
+        "Orçamento do programa alimentar (FCFA)",
+        "63.000.000",
+        "68.740.000",
+        "82.037.615"
+      ],
+      [
+        "Crianças em situação de rua que receberam refeições diárias",
+        "não reportado",
+        "130",
+        "198"
+      ],
+      [
+        "Pessoas sensibilizadas sobre higiene e água",
+        "44.054",
+        "não reportado",
+        "não reportado"
+      ],
+      [
+        "Pessoas sensibilizadas sobre prevenção na saúde",
+        "38.125",
+        "não reportado",
+        "56.911"
+      ],
+      [
+        "Pessoas sensibilizadas sobre ação climática",
+        "não reportado",
+        "22.034",
+        "21.208"
+      ],
+      ["Agentes comunitários formados", "40", "não reportado", "não reportado"]
+    ],
+    "chartT": "Pessoas alcançadas pelas campanhas de sensibilização",
+    "chartNote": "Os números são contabilizados por campanha, pelo que algumas pessoas são contadas mais de uma vez.",
+    "chart": [
+      { "year": "2023", "value": 82179 },
+      { "year": "2024", "value": 22034 },
+      { "year": "2025", "value": 78119 }
+    ],
+    "valueT": "Como os fundos são utilizados",
+    "value": [
+      "Programa alimentar 2025: 70% produção, 15% armazenamento e 15% distribuição.",
+      "Campanha de sensibilização 2025: cerca de 174 FCFA por pessoa alcançada.",
+      "Refeições para crianças em situação de rua 2024: 63,7% do orçamento destina-se à compra de alimentos."
+    ],
+    "goalsT": "Os nossos objetivos para 2030",
+    "goals": [
+      ["100.000", "agregados familiares apoiados com alimentos"],
+      ["1.000.000", "árvores plantadas"],
+      ["15.000", "hectares restaurados"],
+      ["12.000", "agricultores formados"],
+      ["15.000", "mulheres apoiadas"],
+      ["15.000", "crianças protegidas"],
+      ["15.000", "crianças com desnutrição tratadas"],
+      ["6.000", "jovens acompanhados para o emprego"],
+      ["5.000", "idosos assistidos"],
+      ["2.500", "latrinas construídas"],
+      ["300", "aldeias sensibilizadas sobre o clima"],
+      ["250", "furos de água realizados"]
+    ],
+    "quotesT": "Nas suas próprias palavras",
+    "quotes": [
+      {
+        "text": "Graças a esta ajuda alimentar, a minha família atravessou a época difícil sem passar fome.",
+        "who": "Beneficiário, Garoua"
+      },
+      {
+        "text": "As sessões de higiene ensinaram-nos a proteger melhor os nossos filhos contra as doenças.",
+        "who": "Beneficiário, Maroua"
+      }
+    ],
+    "lessonsT": "O que aprendemos",
+    "lessons": [
+      "O envolvimento comunitário e o acompanhamento próximo fazem a diferença.",
+      "Os agentes comunitários formados levam a mensagem mais longe.",
+      "A ajuda alimentar funciona melhor em conjunto com a sensibilização sobre saúde e higiene.",
+      "O respeito pela cultura local e uma abordagem sensível ao género melhoram a adesão."
+    ],
+    "challengesT": "As dificuldades",
+    "challenges": "A logística e o aumento dos custos de transporte, os bairros de difícil acesso, os orçamentos limitados, o mau tempo e a baixa adesão de alguns agregados familiares. Respondemos com uma coordenação reforçada com as autoridades locais, voluntários, melhores calendários de distribuição e uma melhor monitorização."
+  },
+  "where": {
+    "title": "Onde trabalhamos",
+    "intro": "Trabalhamos nas cidades de Garoua e Maroua e nas aldeias e bairros circundantes. A maioria dos agregados familiares cultiva milho, milheto, sorgo e amendoim. As suas principais necessidades são alimentação, água segura, cuidados de saúde, escolarização e emprego.",
+    "cities": [
+      {
+        "city": "Garoua",
+        "region": "Norte",
+        "places": [
+          "Pakete",
+          "Boggare",
+          "Djamboutou",
+          "Wouro Labbo",
+          "Falire",
+          "Nakon",
+          "Kanadi",
+          "Miami"
+        ]
+      },
+      {
+        "city": "Maroua",
+        "region": "Extremo Norte",
+        "places": [
+          "Domayo",
+          "Dougoy",
+          "Congola",
+          "Hardé",
+          "Djaregol",
+          "Wouro Tchede"
+        ]
+      }
+    ],
+    "farmT": "Locais agrícolas",
+    "farm": "Pakete, Pitoa e Wouro Labbo perto de Garoua. Congola e Djarengol perto de Maroua."
+  },
+
+  "partners": {
+    "title": "Parceiros",
+    "intro": "Trabalhamos lado a lado com as pessoas e instituições mais próximas do problema. As autoridades locais abrem portas, as organizações comunitárias realizam o trabalho e os parceiros técnicos e financeiros ajudam-nos a crescer.",
+    "types": [
+      "Autoridades administrativas e tradicionais locais",
+      "Municípios de Garoua e Maroua",
+      "Ministérios setoriais e autoridades locais",
+      "Líderes e organizações comunitárias",
+      "Cooperativas agrícolas, associações de mulheres e jovens",
+      "Universidades e centros de investigação",
+      "Agências das Nações Unidas e organizações internacionais",
+      "ONG nacionais e internacionais",
+      "Doadores e setor privado"
+    ],
+    "typesT": "Com quem trabalhamos",
+    "logosT": "Os nossos parceiros",
+    "becomeT": "Trabalhe connosco",
+    "become": [
+      "Financie um programa ou uma região.",
+      "Partilhe conhecimentos especializados em agricultura, água, saúde ou monitorização.",
+      "Faça doações em espécie: sementes, ferramentas, alimentos e kits de higiene.",
+      "Junte-se a nós como patrocinador empresarial ou comunitário."
+    ],
+    "cta": "Torne-se parceiro"
+  },
+
+  "involved": {
+    "title": "Envolva-se",
+    "intro": "O dinheiro é uma forma de ajudar. Estas são as outras.",
+    "items": [
+      {
+        "title": "Seja voluntário",
+        "text": "Participe nas sessões comunitárias, distribuições e atividades de monitorização em Garoua, Maroua ou Ngaoundéré.",
+        "cta": "Disponibilize o seu tempo"
+      },
+      {
+        "title": "Seja nosso parceiro",
+        "text": "As organizações podem financiar, aconselhar ou fazer doações em espécie.",
+        "cta": "Torne-se parceiro"
+      },
+      {
+        "title": "Faça doações em espécie",
+        "text": "Sementes, ferramentas agrícolas, kits de higiene e materiais escolares chegam às famílias.",
+        "cta": "Saiba como"
+      },
+      {
+        "title": "Divulgue o nosso trabalho",
+        "text": "Partilhe os nossos relatórios anuais e acompanhe o nosso trabalho nas redes sociais.",
+        "cta": "Leia os relatórios"
+      }
+    ]
+  },
+
+  "contact": {
+    "title": "Contacte-nos",
+    "intro": "Escreva-nos sobre uma parceria, voluntariado, uma doação ou uma questão. Respondemos dentro de alguns dias úteis.",
+    "name": "O seu nome",
+    "email": "E-mail",
+    "phone": "Telefone (opcional)",
+    "topic": "Assunto",
+    "topics": [
+      "Questão geral",
+      "Parceria",
+      "Voluntariado",
+      "Doação",
+      "Comunicação social"
+    ],
+    "message": "Mensagem",
+    "consent": "Concordo que a SCA utilize estes dados para me responder.",
+    "send": "Enviar mensagem",
+    "sending": "A enviar",
+    "sentT": "Mensagem recebida",
+    "sent": "Obrigado. Responderemos para o endereço de e-mail que nos indicou.",
+    "error": "Não foi possível enviar a mensagem. Verifique a sua ligação e tente novamente, ou contacte-nos diretamente por e-mail.",
+    "again": "Enviar outra mensagem",
+    "officesT": "Os nossos escritórios",
+    "phoneL": "Telefone",
+    "whatsappL": "WhatsApp",
+    "emailL": "E-mail",
+    "hoursL": "Horário",
+    "followT": "Siga-nos"
+  },
+
+  "donate": {
+    "title": "Fazer uma doação",
+    "intro": "Apoie o nosso trabalho com as comunidades do norte dos Camarões. Cada contribuição faz a diferença.",
+    "close": "Fechar janela de doação",
+
+    "howT": "Como doar",
+    "mobile": "Dinheiro móvel",
+    "bank": "Transferência bancária",
+    "card": "Cartão",
+
+    "number": "Número de telefone",
+    "holder": "Titular da conta",
+    "bankName": "Nome do banco",
+    "accountName": "Nome da conta",
+    "accountNumber": "Número da conta",
+    "iban": "IBAN",
+    "swift": "SWIFT / BIC",
+
+    "copy": "Copiar",
+    "copied": "Copiado",
+
+    "cardCta": "Doar com cartão",
+    "cardSoon": "Os pagamentos com cartão ainda não estão disponíveis.",
+    "unavailable": "Este método de pagamento ainda não está disponível. Contacte-nos para mais informações.",
+
+    "reference": "Escolha o montante que pretende doar e confirme os dados do beneficiário antes de enviar a sua doação.",
+    "receipt": "Contacte-nos se precisar de um recibo da sua doação.",
+    "trust": "Obrigado por apoiar a Sahel Climate Action."
+  },
+  "footer": {
+    "tag": "Ação hoje, sustentabilidade amanhã.",
+    "explore": "Explorar",
+    "where": "Onde trabalhamos",
+    "leadership": "Liderança",
+    "reports": "Relatórios anuais",
+    "legal": "[Original legal statement]",
+    "rights": "Todos os direitos reservados."
   }
 }

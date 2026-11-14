@@ -21,23 +21,23 @@ const Hero = ({ onDonate }: HeroProps) => {
       <div
         aria-hidden="true"
         className="pointer-events-none absolute
-          -end-52 -top-52 h-[760px] w-[760px]
+          -inset-e-52 -top-52 h-190 w-190
           rounded-full border border-[#65A30D]/20"
       />
 
       <div
         aria-hidden="true"
         className="pointer-events-none absolute
-          -end-24 -top-24 h-[520px] w-[520px]
+          -inset-e-24 -top-24 h-130 w-130
           rounded-full border border-[#65A30D]/10"
       />
 
       <Container
-        className="relative grid items-center
+        className="relative grid grid-cols-1
           gap-10 py-14 sm:py-16
-          lg:grid-cols-[1.1fr_0.9fr]
-          lg:gap-16 lg:py-20
-          xl:gap-20"
+          lg:grid-cols-[minmax(0,1.15fr)_minmax(0,1fr)]
+          lg:items-start lg:gap-12 lg:py-20
+          xl:gap-16"
       >
         {/* Hero content */}
         <div className="min-w-0">
@@ -45,17 +45,17 @@ const Hero = ({ onDonate }: HeroProps) => {
           <p
             className="mb-5 font-display text-sm
               font-bold tracking-wide
-              text-[#F2B632] sm:text-base"
+              text-millet-500 sm:text-base"
           >
             {t("hero.eyebrow")}
           </p>
 
           {/* Main heading */}
           <h1
-            className="font-display text-[2.35rem]
-              font-extrabold leading-[1.08]
-              tracking-tight sm:text-[2.8rem]
-              xl:text-[3.25rem]"
+            className="font-display
+              text-[clamp(2rem,3.5vw,3.25rem)]
+              font-extrabold leading-[1.12]
+              tracking-tight text-balance"
           >
             {t("hero.title")}
           </h1>
@@ -74,6 +74,7 @@ const Hero = ({ onDonate }: HeroProps) => {
             className="mt-8 flex flex-wrap
               items-center gap-3"
           >
+            {/* Opens the shared Donate Modal */}
             <DonateButton onClick={onDonate} size="lg">
               {t("hero.donate")}
             </DonateButton>
@@ -84,10 +85,11 @@ const Hero = ({ onDonate }: HeroProps) => {
                 justify-center rounded-full
                 border border-[#FAF9F4]/40
                 px-7 py-3.5 font-display
-                text-lg font-bold text-[#FAF9F4]
+                text-base font-bold text-[#FAF9F4]
                 transition-colors duration-200
                 hover:bg-[#FAF9F4]
-                hover:text-[#123D24]"
+                hover:text-[#123D24]
+                sm:text-lg"
             >
               {t("hero.programmes")}
             </a>
@@ -95,7 +97,10 @@ const Hero = ({ onDonate }: HeroProps) => {
         </div>
 
         {/* Image slider */}
-        <div className="mx-auto w-full min-w-0">
+        <div
+          className="mx-auto w-full min-w-0
+            lg:self-start"
+        >
           <HeroSlider />
         </div>
       </Container>

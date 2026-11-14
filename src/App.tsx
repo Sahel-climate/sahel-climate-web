@@ -1,17 +1,48 @@
-import { useTranslation } from "react-i18next";
+import { useState } from "react";
 
 import Navbar from "./components/navbar/Navbar";
 import Hero from "./components/hero/Hero";
-import Container from "./components/common/Container";
+import About from "./components/about/About";
+import Programmes from "./components/programmes/Programmes";
 
-import { navigationLinks } from "./components/navbar/data/navigation";
+import Impact from "./components/impact/Impact";
+import ImpactMore from "./components/impact/ImpactMore";
+import WhereWeWork from "./components/where-we-work/WhereWeWork";
+
+import Partners from "./components/partners/Partners";
+import Involved from "./components/involved/Involved";
+import Contact from "./components/contact/Contact";
+import Footer from "./components/footer/Footer";
+
+// Donate Modal
+import DonateModal from "./components/donate/DonateModal";
+
+import type { ContactTopic } from "./components/contact/types/contact.types";
 
 const App = () => {
-  const { t } = useTranslation();
+  const [contactTopic, setContactTopic] = useState<ContactTopic>("general");
 
+  // Donation modal state
+  const [isDonateOpen, setIsDonateOpen] = useState(false);
+
+  // Open donation modal
   const handleDonate = () => {
-    // Temporary until we build DonateModal
-    alert(t("nav.donate"));
+    setIsDonateOpen(true);
+  };
+
+  // Close donation modal
+  const handleCloseDonate = () => {
+    setIsDonateOpen(false);
+  };
+
+  // Contact section navigation
+  const handleContact = (topic: ContactTopic) => {
+    setContactTopic(topic);
+
+    document.getElementById("contact")?.scrollIntoView({
+      behavior: "auto",
+      block: "start",
+    });
   };
 
   return (
@@ -19,29 +50,29 @@ const App = () => {
       <Navbar onDonate={handleDonate} />
 
       <main>
-        {/* Hero Section */}
         <Hero onDonate={handleDonate} />
 
-        {/* Temporary sections */}
-        {navigationLinks.map((link, index) => (
-          <section
-            key={link.href}
-            id={link.href.slice(1)}
-            className={`min-h-[60vh] py-24 ${
-              index % 2 === 0 ? "bg-[#FAF9F4]" : "bg-[#F3EFE3]"
-            }`}
-          >
-            <Container>
-              <h2
-                className="font-display text-4xl
-                  font-bold text-[#123D24]"
-              >
-                {t(link.label)}
-              </h2>
-            </Container>
-          </section>
-        ))}
+        <About />
+
+        <Programmes />
+
+        <Impact />
+
+        <ImpactMore />
+
+        <WhereWeWork />
+
+        <Partners onBecomePartner={() => handleContact("partnership")} />
+
+        <Involved onDonate={handleDonate} onContact={handleContact} />
+
+        <Contact topic={contactTopic} onTopicChange={setContactTopic} />
       </main>
+
+      <Footer onDonate={handleDonate} />
+
+      {/* One shared donation modal */}
+      <DonateModal open={isDonateOpen} onClose={handleCloseDonate} />
     </div>
   );
 };

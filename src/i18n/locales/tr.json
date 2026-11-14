@@ -22,5 +22,395 @@
     "programmes": "Programlarımız",
     "imagePlaceholder": "Fotoğraflarla etkimiz",
     "imageAlt": "Sahel Climate Action topluluk projesi"
+  },
+
+  "about": {
+    "title": "İklim değişikliği ve yoksullukla mücadele eden bir kuruluşa dönüşen gençlik derneği",
+    "intro": "Sahel Climate Action (SCA), Kamerun'a odaklanarak Sahel bölgesinde aşırı yoksulluk, iklim değişikliğinin etkileri ve sosyal eşitsizlikle mücadele eden kâr amacı gütmeyen bir kuruluştur. Yoksul hanelerin çevreyi korurken daha dirençli olmalarına yardımcı olan bütünleşik programlar yürütüyoruz. Topluluklar, yerel yönetimler ve teknik ortaklar her projeyi bizimle birlikte şekillendirir.",
+    "visionT": "Vizyon",
+    "vision": "İklimsel, ekonomik ve sosyal zorluklara rağmen herkesin onurlu bir yaşam sürebildiği dirençli, kapsayıcı ve refah içinde yaşayan Sahel toplulukları.",
+    "missionT": "Misyon",
+    "mission": "Sosyal koruma, gıda güvenliği, toplumsal cinsiyet eşitliği, tarımsal ormancılık, ekosistem restorasyonu ve iklim değişikliğine uyum yoluyla savunmasız insanların yaşamlarını iyileştirmek.",
+    "objectivesT": "Hedeflerimiz",
+    "objectives": [
+      "Savunmasız hanelerin gıda güvenliğini güçlendirmek.",
+      "İyi hijyen uygulamalarını teşvik etmek.",
+      "Su kaynaklı ve sanitasyonla ilişkili hastalıkları azaltmak.",
+      "Toplulukların dayanıklılığını güçlendirmek."
+    ],
+    "valuesT": "Değerlerimiz",
+    "values": [
+      "Dayanışma",
+      "Dürüstlük",
+      "Şeffaflık",
+      "Sosyal kapsayıcılık",
+      "Hakkaniyet",
+      "Çevreye saygı",
+      "Yenilikçilik",
+      "Sorumluluk",
+      "Toplumsal katılım",
+      "Hesap verebilirlik"
+    ],
+    "historyT": "Tarihçemiz",
+    "history": [
+      {
+        "date": "2026–2028",
+        "text": "Tarım, gıda güvenliği, sosyal koruma, su, iklim, toplumsal cinsiyet, yeniden ağaçlandırma, atık ve yerel ekonomik kalkınmayı kapsayan üç yıllık stratejik plan."
+      },
+      {
+        "date": "{{renamedDate}}",
+        "text": "Dernek, yıllardır yürüttüğü iklim çalışmalarını yansıtan Sahel Climate Action adını alır."
+      },
+      {
+        "date": "1 Şubat 2012",
+        "text": "Maroua'da dernek olarak tescil edildi."
+      },
+      {
+        "date": "13 Aralık 2011",
+        "text": "Uzak Kuzey'de Yoksullukla Mücadele Gençlik Derneği (Association des Jeunes pour la Lutte contre la Pauvreté dans l’Extrême-Nord - AJELPEN) olarak kuruldu."
+      }
+    ],
+    "howT": "Nasıl çalışıyoruz",
+    "how": [
+      "Projeler, toplulukların dile getirdiği ihtiyaçlardan yola çıkar.",
+      "Yararlanıcılar aktif olarak katılır ve yerel beceriler geliştirilir.",
+      "Sonuçlar açık göstergelerle takip edilir ve her yıl değerlendirilir.",
+      "Mali işler şeffaftır; hizmet verdiğimiz insanlara ve ortaklarımıza hesap veririz.",
+      "Kimse geride bırakılmaz: kadınlar, gençler, yerinden edilmiş kişiler ve engelli bireyler sürece dahil edilir."
+    ],
+    "leadersT": "Yönetim",
+    "leadersIntro": "SCA, bölgesel şubeler ve topluluk komiteleriyle birlikte Genel Kurul, Yönetim Kurulu ve İcra Direktörlüğü tarafından yönetilir.",
+    "officesT": "Ofislerimiz"
+  },
+
+  "programmes": {
+    "title": "Neler yapıyoruz",
+    "intro": "Şu anda beş program yürütülüyor. Kime hizmet ettiğini ve neler başardığını görmek için birini seçin.",
+    "items": [
+      {
+        "id": "food",
+        "title": "Gıda güvenliği",
+        "line": "Tahıllar yetiştirilir, depolanır ve maliyet fiyatına satılır.",
+        "body": "SCA her yıl Pakete, Pitoa ve Wouro Labbo (Garoua) ile Congola ve Djarengol (Maroua) çevresindeki tarım arazilerinde mısır, darı, sorgum, pirinç ve yer fıstığı yetiştirir. Hasat depolanır ve stokların tükendiği, fiyatların yükseldiği haziran-eylül arasındaki kıtlık döneminde kâr marjı olmadan maliyet fiyatına satılır. Gelirin bir kısmı farkındalık ve çocuk koruma çalışmalarımızı finanse eder. Kadınlar ve genç kızlar üretim, depolama ve dağıtıma katılır.",
+        "facts": [
+          "2023 yılında 6.550 hane",
+          "2024 yılında 6.720 hane",
+          "Haziran-ağustos döneminde üretim, haziran-eylül döneminde dağıtım"
+        ]
+      },
+      {
+        "id": "children",
+        "title": "Çocukların korunması",
+        "line": "Sokakta yaşayan çocuklar için sıcak bir yemek ve onları dinleyen bir kulak.",
+        "body": "Garoua ve Maroua'da sokakta yaşayan çocuklara yerel gıdalardan hazırlanan sıcak ve dengeli yemekler, temiz su ve atıştırmalıklar sunulur. Yemekler hijyen eğitimlerine, sağlık hizmetlerine yönlendirmeye, psikososyal desteğe ve mümkün olduğunda aileye veya okula dönüşe kapı açar. Eğitici sohbetlerde hijyen, çocuk hakları, uyuşturucu ve şiddet, HIV ve erken gebeliğin önlenmesi, barışçıl çatışma çözümü ve yaşam becerileri ele alınır.",
+        "facts": [
+          "2024 yılında her gün 130 çocuğa yemek verildi",
+          "2025 yılında 198 çocuk: 125'i Maroua'da, 73'ü Garoua'da"
+        ]
+      },
+      {
+        "id": "health",
+        "title": "Sağlık ve farkındalık",
+        "line": "On binlerce insana ulaşan önleme kampanyaları.",
+        "body": "SCA, topluluk toplantıları, radyo programları, afişler, ev ziyaretleri ve gönüllü taramalar aracılığıyla Kuzey ve Uzak Kuzey bölgelerinde önleyici sağlık mesajları yayar. 2023 yılında kırk toplum temsilcisi sosyal değişim iletişimi, aile hijyeni ve sağlık risklerinin izlenmesi konularında eğitildi.",
+        "facts": [
+          "2025: Diyabet, kanser, kalp hastalıkları ve çevresel hastalıklar konusunda 35.265 kişi",
+          "2025: Tütün ve uyuşturucu konusunda 21.646 genç ve yetişkin",
+          "2023: Erken gebelik ve HIV/AIDS konusunda 38.125 kız çocuğu ve genç kadın"
+        ]
+      },
+      {
+        "id": "wash",
+        "title": "Su, hijyen ve sanitasyon",
+        "line": "Temiz eller, güvenli su ve daha az hastalık salgını.",
+        "body": "2023 yılında SCA, Garoua ve Maroua'nın düşük gelirli mahallelerinde el yıkama, sabun kullanımı, su arıtma, atık yönetimi, tuvalet bakımı ve koleranın önlenmesi konularında hijyen eğitimleri düzenledi. Bir sonraki aşamada tuvaletlerin inşası ve su noktalarının iyileştirilmesi planlanıyor.",
+        "facts": [
+          "2023 yılında 5.794 haneye ulaşıldı",
+          "44.054 kişiye ulaşıldı: Garoua'da 21.664, Maroua'da 22.390"
+        ]
+      },
+      {
+        "id": "climate",
+        "title": "İklim eylemi",
+        "line": "Çiftçi ailelerin kuraklık ve sellerle başa çıkması için pratik yöntemler.",
+        "body": "Kampanyalarımız su ve toprak koruma, iklim dostu tarım, kuraklığa dayanıklı tohumlar, tarımsal ormancılık, topluluk temelli ağaç dikimi, arazi restorasyonu ve iklim risklerine yönelik erken uyarı konularını öğretir. Ayrıca ağaç dikme, atıkları yönetme, su ve enerji tasarrufu yapma ve çalı yangınlarını azaltma gibi günlük uygulamaları teşvik eder.",
+        "facts": [
+          "2024: 22.034 kişiye ulaşıldı",
+          "2025: 1.701 hane dahil 21.208 kişiye ulaşıldı"
+        ]
+      }
+    ],
+    "comingT": "2026-2028 döneminde başlayacak programlar",
+    "coming": [
+      {
+        "title": "Sürdürülebilir tarım",
+        "text": "Çiftçi eğitimi, kuraklığa dayanıklı tohumlar, sebze bahçeleri, damla sulama, kompost ve kooperatifler."
+      },
+      {
+        "title": "Yeniden ağaçlandırma",
+        "text": "Fidanlıklar, ağaç dikimi, canlı çitler, topluluk meyve bahçeleri ve okullarda farkındalık."
+      },
+      {
+        "title": "Toplumsal cinsiyet eşitliği",
+        "text": "Kadın liderliği ve kooperatifleri, girişimcilik eğitimi ve krediye erişim."
+      },
+      {
+        "title": "Atık yönetimi",
+        "text": "Atık ayrıştırma, kompostlama, geri dönüşüm, temizlik kampanyaları ve küçük geri dönüşüm işletmeleri."
+      },
+      {
+        "title": "Yerel ekonomik kalkınma",
+        "text": "Mesleki eğitim, mikrofinans, kırsal işletmeler ve genç girişimciliği."
+      },
+      {
+        "title": "Daha geniş sosyal koruma",
+        "text": "Okul malzemeleri, savunmasız çocuklara sponsorluk ve yalnız yaşayan yaşlılara destek."
+      }
+    ]
+  },
+
+  "impact": {
+    "title": "Ortaya koyduğumuz sonuçlar",
+    "intro": "SCA, 2023 ile 2025 arasında iki yıl içinde 13.270 haneye gıda desteği sağladı ve 180.000'den fazla kişiye ulaşan farkındalık kampanyaları yürüttü.",
+    "tableT": "Yıllara göre sonuçlar",
+    "cols": ["Sonuç", "2023", "2024", "2025"],
+    "na": "bildirilmedi",
+    "rows": [
+      [
+        "Tahıl ve yer fıstığı verilen haneler",
+        "6.550",
+        "6.720",
+        "bildirilmedi"
+      ],
+      [
+        "Gıda programı bütçesi (FCFA)",
+        "63.000.000",
+        "68.740.000",
+        "82.037.615"
+      ],
+      [
+        "Günlük yemek verilen sokakta yaşayan çocuklar",
+        "bildirilmedi",
+        "130",
+        "198"
+      ],
+      [
+        "Hijyen ve su konusunda ulaşılan kişiler",
+        "44.054",
+        "bildirilmedi",
+        "bildirilmedi"
+      ],
+      [
+        "Sağlık ve hastalıkların önlenmesi konusunda ulaşılan kişiler",
+        "38.125",
+        "bildirilmedi",
+        "56.911"
+      ],
+      [
+        "İklim eylemi konusunda ulaşılan kişiler",
+        "bildirilmedi",
+        "22.034",
+        "21.208"
+      ],
+      ["Eğitilen toplum temsilcileri", "40", "bildirilmedi", "bildirilmedi"]
+    ],
+    "chartT": "Farkındalık kampanyalarıyla ulaşılan kişiler",
+    "chartNote": "Sayılar kampanya başına hesaplanır, bu nedenle bazı kişiler birden fazla kez sayılır.",
+    "chart": [
+      { "year": "2023", "value": 82179 },
+      { "year": "2024", "value": 22034 },
+      { "year": "2025", "value": 78119 }
+    ],
+    "valueT": "Fonlar nasıl kullanılıyor",
+    "value": [
+      "2025 gıda programı: %70 üretim, %15 depolama, %15 dağıtım.",
+      "2025 farkındalık kampanyası: ulaşılan kişi başına yaklaşık 174 FCFA.",
+      "2024 sokakta yaşayan çocuklara yemek programı: bütçenin %63,7'si gıda alımına ayrılıyor."
+    ],
+    "goalsT": "2030 hedeflerimiz",
+    "goals": [
+      ["100.000", "gıda desteği alan hane"],
+      ["1.000.000", "dikilen ağaç"],
+      ["15.000", "restore edilen hektar"],
+      ["12.000", "eğitilen çiftçi"],
+      ["15.000", "desteklenen kadın"],
+      ["15.000", "koruma altına alınan çocuk"],
+      ["15.000", "yetersiz beslenme nedeniyle tedavi edilen çocuk"],
+      ["6.000", "istihdama geçişte desteklenen genç"],
+      ["5.000", "yardım sağlanan yaşlı"],
+      ["2.500", "inşa edilen tuvalet"],
+      ["300", "iklim konusunda bilinçlendirilen köy"],
+      ["250", "açılan sondaj kuyusu"]
+    ],
+    "quotesT": "Kendi sözleriyle",
+    "quotes": [
+      {
+        "text": "Bu gıda yardımı sayesinde ailem zor dönemi aç kalmadan atlattı.",
+        "who": "Yararlanıcı, Garoua"
+      },
+      {
+        "text": "Hijyen eğitimleri çocuklarımızı hastalıklardan daha iyi korumayı öğretti.",
+        "who": "Yararlanıcı, Maroua"
+      }
+    ],
+    "lessonsT": "Öğrendiklerimiz",
+    "lessons": [
+      "Toplumun katılımı ve yakın takip fark yaratır.",
+      "Eğitilmiş toplum temsilcileri mesajların daha geniş kitlelere ulaşmasını sağlar.",
+      "Gıda yardımı, sağlık ve hijyen farkındalığıyla birlikte daha etkili olur.",
+      "Yerel kültüre saygı ve toplumsal cinsiyete duyarlı yaklaşım katılımı artırır."
+    ],
+    "challengesT": "Karşılaştığımız zorluklar",
+    "challenges": "Lojistik ve artan ulaşım maliyetleri, ulaşılması zor mahalleler, kısıtlı bütçeler, kötü hava koşulları ve bazı hanelerin düşük katılımı. Bunlara yerel yönetimlerle daha güçlü koordinasyon, gönüllüler, daha iyi dağıtım takvimleri ve daha iyi izleme ile yanıt veriyoruz."
+  },
+  "where": {
+    "title": "Nerelerde çalışıyoruz",
+    "intro": "Garoua ve Maroua şehirlerinde ve çevrelerindeki köy ve mahallelerde çalışıyoruz. Hanelerin çoğu mısır, darı, sorgum ve yer fıstığı yetiştiriyor. Başlıca ihtiyaçları gıda, güvenli su, sağlık hizmetleri, eğitim ve istihdamdır.",
+    "cities": [
+      {
+        "city": "Garoua",
+        "region": "Kuzey",
+        "places": [
+          "Pakete",
+          "Boggare",
+          "Djamboutou",
+          "Wouro Labbo",
+          "Falire",
+          "Nakon",
+          "Kanadi",
+          "Miami"
+        ]
+      },
+      {
+        "city": "Maroua",
+        "region": "Uzak Kuzey",
+        "places": [
+          "Domayo",
+          "Dougoy",
+          "Congola",
+          "Hardé",
+          "Djaregol",
+          "Wouro Tchede"
+        ]
+      }
+    ],
+    "farmT": "Tarım alanları",
+    "farm": "Garoua yakınlarında Pakete, Pitoa ve Wouro Labbo. Maroua yakınlarında Congola ve Djarengol."
+  },
+
+  "partners": {
+    "title": "Ortaklarımız",
+    "intro": "Sorunlara en yakın kişiler ve kurumlarla el ele çalışıyoruz. Yerel yönetimler kapıları açıyor, toplum kuruluşları çalışmaları yürütüyor, teknik ve mali ortaklarımız ise büyümemize yardımcı oluyor.",
+    "types": [
+      "Yerel idari ve geleneksel otoriteler",
+      "Garoua ve Maroua belediyeleri",
+      "İlgili bakanlıklar ve yerel yönetimler",
+      "Toplum liderleri ve kuruluşları",
+      "Çiftçi kooperatifleri, kadın ve gençlik dernekleri",
+      "Üniversiteler ve araştırma merkezleri",
+      "Birleşmiş Milletler kuruluşları ve uluslararası kuruluşlar",
+      "Ulusal ve uluslararası sivil toplum kuruluşları",
+      "Bağışçılar ve özel sektör"
+    ],
+    "typesT": "Kimlerle çalışıyoruz",
+    "logosT": "Ortaklarımız",
+    "becomeT": "Bizimle çalışın",
+    "become": [
+      "Bir programı veya bölgeyi finanse edin.",
+      "Tarım, su, sağlık veya izleme alanlarında uzmanlığınızı paylaşın.",
+      "Ayni bağış yapın: tohum, araç gereç, gıda ve hijyen kitleri.",
+      "Kurumsal veya toplumsal sponsor olarak katılın."
+    ],
+    "cta": "Ortağımız olun"
+  },
+
+  "involved": {
+    "title": "Bize katılın",
+    "intro": "Maddi destek, yardım etmenin bir yoludur. İşte diğer yollar.",
+    "items": [
+      {
+        "title": "Gönüllü olun",
+        "text": "Garoua, Maroua veya Ngaoundéré’deki toplum etkinliklerine, dağıtımlara ve izleme çalışmalarına katılın.",
+        "cta": "Zamanınızı ayırın"
+      },
+      {
+        "title": "Bizimle ortak olun",
+        "text": "Kuruluşlar finansman, danışmanlık veya ayni bağış desteği sağlayabilir.",
+        "cta": "Ortağımız olun"
+      },
+      {
+        "title": "Ayni bağış yapın",
+        "text": "Tohumlar, tarım araçları, hijyen kitleri ve okul malzemeleri ailelere ulaştırılır.",
+        "cta": "Nasıl yapabileceğinizi öğrenin"
+      },
+      {
+        "title": "Sesimizi duyurun",
+        "text": "Yıllık raporlarımızı paylaşın ve çalışmalarımızı sosyal medyada takip edin.",
+        "cta": "Raporları okuyun"
+      }
+    ]
+  },
+
+  "contact": {
+    "title": "Bize ulaşın",
+    "intro": "Ortaklık, gönüllülük, bağış veya sorularınız için bize yazın. Birkaç iş günü içinde yanıt veriyoruz.",
+    "name": "Adınız",
+    "email": "E-posta",
+    "phone": "Telefon (isteğe bağlı)",
+    "topic": "Konu",
+    "topics": ["Genel soru", "Ortaklık", "Gönüllülük", "Bağış", "Medya"],
+    "message": "Mesaj",
+    "consent": "SCA’nın bana yanıt vermek için bu bilgileri kullanmasını kabul ediyorum.",
+    "send": "Mesaj gönder",
+    "sending": "Gönderiliyor",
+    "sentT": "Mesaj alındı",
+    "sent": "Teşekkür ederiz. Belirttiğiniz e-posta adresine yanıt vereceğiz.",
+    "error": "Mesaj gönderilemedi. İnternet bağlantınızı kontrol edip tekrar deneyin veya doğrudan e-posta ile bize ulaşın.",
+    "again": "Başka bir mesaj gönder",
+    "officesT": "Ofislerimiz",
+    "phoneL": "Telefon",
+    "whatsappL": "WhatsApp",
+    "emailL": "E-posta",
+    "hoursL": "Çalışma saatleri",
+    "followT": "Bizi takip edin"
+  },
+
+  "donate": {
+    "title": "Bağış yap",
+    "intro": "Kamerun’un kuzeyindeki topluluklarla yürüttüğümüz çalışmaları destekleyin. Her katkı fark yaratır.",
+    "close": "Bağış penceresini kapat",
+
+    "howT": "Nasıl bağış yapılır?",
+    "mobile": "Mobil ödeme",
+    "bank": "Banka havalesi",
+    "card": "Kart",
+
+    "number": "Telefon numarası",
+    "holder": "Hesap sahibi",
+    "bankName": "Banka adı",
+    "accountName": "Hesap adı",
+    "accountNumber": "Hesap numarası",
+    "iban": "IBAN",
+    "swift": "SWIFT / BIC",
+
+    "copy": "Kopyala",
+    "copied": "Kopyalandı",
+
+    "cardCta": "Kartla bağış yap",
+    "cardSoon": "Kartla ödeme henüz kullanılamıyor.",
+    "unavailable": "Bu ödeme yöntemi henüz kullanılamıyor. Daha fazla bilgi için bizimle iletişime geçin.",
+
+    "reference": "Bağış yapmak istediğiniz tutarı seçin ve bağışınızı göndermeden önce alıcı bilgilerini doğrulayın.",
+    "receipt": "Bağışınız için makbuz almak isterseniz bizimle iletişime geçin.",
+    "trust": "Sahel Climate Action’a verdiğiniz destek için teşekkür ederiz."
+  },
+  "footer": {
+    "tag": "Bugün harekete geç, yarın sürdürülebilirlik.",
+    "explore": "Keşfet",
+    "where": "Çalışma bölgelerimiz",
+    "leadership": "Yönetim",
+    "reports": "Yıllık raporlar",
+    "legal": "[Original legal statement]",
+    "rights": "Tüm hakları saklıdır."
   }
 }

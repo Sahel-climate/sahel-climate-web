@@ -22,5 +22,406 @@
     "programmes": "Unsere Programme",
     "imagePlaceholder": "Unsere Wirkung in Bildern",
     "imageAlt": "Gemeinschaftsprojekt von Sahel Climate Action"
+  },
+
+  "about": {
+    "title": "Ein Jugendverein, der sich zu einer Organisation für Klimaschutz und Armutsbekämpfung entwickelt hat",
+    "intro": "Sahel Climate Action (SCA) ist eine gemeinnützige Organisation, die extreme Armut, die Auswirkungen des Klimawandels und soziale Ungleichheit im Sahel bekämpft, mit besonderem Schwerpunkt auf Kamerun. Wir führen integrierte Programme durch, die armen Haushalten helfen, widerstandsfähiger zu werden und gleichzeitig die Umwelt zu schützen. Gemeinschaften, lokale Behörden und technische Partner gestalten jedes Projekt gemeinsam mit uns.",
+    "visionT": "Vision",
+    "vision": "Widerstandsfähige, inklusive und wohlhabende Gemeinschaften im Sahel, in denen alle Menschen trotz klimatischer, wirtschaftlicher und sozialer Herausforderungen ein würdevolles Leben führen können.",
+    "missionT": "Mission",
+    "mission": "Das Leben gefährdeter Menschen durch sozialen Schutz, Ernährungssicherheit, Geschlechtergleichstellung, Agroforstwirtschaft, Wiederherstellung von Ökosystemen und Anpassung an den Klimawandel verbessern.",
+    "objectivesT": "Unsere Ziele",
+    "objectives": [
+      "Die Ernährungssicherheit gefährdeter Haushalte stärken.",
+      "Gute Hygienepraktiken fördern.",
+      "Durch Wasser übertragene und mit der Sanitärversorgung verbundene Krankheiten reduzieren.",
+      "Die Widerstandsfähigkeit der Gemeinschaften stärken."
+    ],
+    "valuesT": "Unsere Werte",
+    "values": [
+      "Solidarität",
+      "Integrität",
+      "Transparenz",
+      "Soziale Inklusion",
+      "Gerechtigkeit",
+      "Respekt vor der Umwelt",
+      "Innovation",
+      "Verantwortung",
+      "Beteiligung der Gemeinschaft",
+      "Rechenschaftspflicht"
+    ],
+    "historyT": "Unsere Geschichte",
+    "history": [
+      {
+        "date": "2026 bis 2028",
+        "text": "Dreijähriger Strategieplan für Landwirtschaft, Ernährungssicherheit, sozialen Schutz, Wasser, Klima, Geschlechterfragen, Wiederaufforstung, Abfall und lokale Wirtschaftsentwicklung."
+      },
+      {
+        "date": "{{renamedDate}}",
+        "text": "Der Verein wird zu Sahel Climate Action, einem Namen, der seine jahrelange Arbeit im Klimaschutz widerspiegelt."
+      },
+      {
+        "date": "1. Februar 2012",
+        "text": "Registrierung als Verein in Maroua."
+      },
+      {
+        "date": "13. Dezember 2011",
+        "text": "Gründung als Jugendverein zur Armutsbekämpfung im Hohen Norden (Association des Jeunes pour la Lutte contre la Pauvreté dans l’Extrême-Nord - AJELPEN)."
+      }
+    ],
+    "howT": "Wie wir arbeiten",
+    "how": [
+      "Die Projekte gehen von den Bedürfnissen aus, die die Gemeinschaften äußern.",
+      "Die Begünstigten beteiligen sich aktiv und lokale Kompetenzen werden aufgebaut.",
+      "Die Ergebnisse werden anhand klarer Indikatoren verfolgt und jährlich überprüft.",
+      "Die Finanzen sind transparent, und wir legen gegenüber den Menschen, denen wir dienen, sowie unseren Partnern Rechenschaft ab.",
+      "Niemand wird zurückgelassen: Frauen, junge Menschen, Vertriebene und Menschen mit Behinderungen werden einbezogen."
+    ],
+    "leadersT": "Leitung",
+    "leadersIntro": "SCA wird von einer Generalversammlung, einem Verwaltungsrat und einer Geschäftsführung geleitet, ergänzt durch regionale Niederlassungen und Gemeinschaftsausschüsse.",
+    "officesT": "Unsere Büros"
+  },
+
+  "programmes": {
+    "title": "Was wir tun",
+    "intro": "Derzeit laufen fünf Programme. Wählen Sie eines aus, um zu erfahren, wem es hilft und was es erreicht hat.",
+    "items": [
+      {
+        "id": "food",
+        "title": "Ernährungssicherheit",
+        "line": "Getreide wird angebaut, gelagert und zum Selbstkostenpreis weiterverkauft.",
+        "body": "Jedes Jahr baut SCA Mais, Hirse, Sorghum, Reis und Erdnüsse auf landwirtschaftlichen Flächen rund um Pakete, Pitoa und Wouro Labbo (Garoua) sowie Congola und Djarengol (Maroua) an. Die Ernte wird gelagert und während der Hungerperiode von Juni bis September, wenn die Vorräte zur Neige gehen und die Preise steigen, ohne Gewinnmarge zum Selbstkostenpreis verkauft. Ein Teil der Einnahmen finanziert unsere Aufklärungs- und Kinderschutzarbeit. Frauen und junge Mädchen beteiligen sich an der Produktion, Lagerung und Verteilung.",
+        "facts": [
+          "6.550 Haushalte im Jahr 2023",
+          "6.720 Haushalte im Jahr 2024",
+          "Produktion von Juni bis August, Verteilung von Juni bis September"
+        ]
+      },
+      {
+        "id": "children",
+        "title": "Kinderschutz",
+        "line": "Eine warme Mahlzeit und ein offenes Ohr für Kinder, die auf der Straße leben.",
+        "body": "In Garoua und Maroua erhalten Kinder, die auf der Straße leben, warme, ausgewogene Mahlzeiten aus lokalen Lebensmitteln, sauberes Wasser und Zwischenmahlzeiten. Die Mahlzeiten eröffnen den Zugang zu Hygieneschulungen, medizinischen Überweisungen, psychosozialer Unterstützung und, wenn möglich, zur Rückkehr in die Familie oder Schule. Aufklärungsgespräche behandeln Hygiene, Kinderrechte, Drogen und Gewalt, die Prävention von HIV und frühen Schwangerschaften, friedliche Konfliktlösung und Lebenskompetenzen.",
+        "facts": [
+          "130 Kinder wurden 2024 täglich mit Mahlzeiten versorgt",
+          "198 Kinder im Jahr 2025: 125 in Maroua, 73 in Garoua"
+        ]
+      },
+      {
+        "id": "health",
+        "title": "Gesundheit und Aufklärung",
+        "line": "Präventionskampagnen, die Zehntausende Menschen erreichen.",
+        "body": "Durch Gemeindeveranstaltungen, Radiosendungen, Plakate, Hausbesuche und freiwillige Vorsorgeuntersuchungen verbreitet SCA Präventionsbotschaften in den Regionen Nord und Hoher Norden. Vierzig Gemeindemultiplikatoren wurden 2023 in Kommunikation für sozialen Wandel, Familienhygiene und der Überwachung von Gesundheitsrisiken geschult.",
+        "facts": [
+          "2025: 35.265 Menschen zu Diabetes, Krebs, Herzerkrankungen und umweltbedingten Erkrankungen aufgeklärt",
+          "2025: 21.646 Jugendliche und Erwachsene zu Tabak und Drogen aufgeklärt",
+          "2023: 38.125 Mädchen und junge Frauen zu frühen Schwangerschaften und HIV/AIDS aufgeklärt"
+        ]
+      },
+      {
+        "id": "wash",
+        "title": "Wasser, Hygiene und Sanitärversorgung",
+        "line": "Saubere Hände, sicheres Wasser und weniger Krankheitsausbrüche.",
+        "body": "Im Jahr 2023 führte SCA in einkommensschwachen Stadtvierteln von Garoua und Maroua Hygieneschulungen zu Händewaschen, Seifennutzung, Wasseraufbereitung, Abfallmanagement, Latrinenpflege und Choleraprävention durch. Als Nächstes sind der Bau von Latrinen und die Sanierung von Wasserstellen geplant.",
+        "facts": [
+          "5.794 Haushalte im Jahr 2023 erreicht",
+          "44.054 Menschen erreicht: 21.664 in Garoua, 22.390 in Maroua"
+        ]
+      },
+      {
+        "id": "climate",
+        "title": "Klimaschutz",
+        "line": "Praktische Lösungen für landwirtschaftliche Familien im Umgang mit Dürren und Überschwemmungen.",
+        "body": "Unsere Kampagnen vermitteln Wasser- und Bodenschutz, klimaintelligente Landwirtschaft, dürreresistentes Saatgut, Agroforstwirtschaft und gemeinschaftliche Baumpflanzungen, Landwiederherstellung und Frühwarnung vor Klimarisiken. Sie fördern auch alltägliche Maßnahmen: Bäume pflanzen, Abfälle bewirtschaften, Wasser und Energie sparen und Buschbrände reduzieren.",
+        "facts": [
+          "2024: 22.034 Menschen erreicht",
+          "2025: 21.208 Menschen erreicht, darunter 1.701 Haushalte"
+        ]
+      }
+    ],
+    "comingT": "Geplant für 2026 bis 2028",
+    "coming": [
+      {
+        "title": "Nachhaltige Landwirtschaft",
+        "text": "Schulungen für Landwirte, dürreresistentes Saatgut, Gemüsegärten, Tröpfchenbewässerung, Kompost und Genossenschaften."
+      },
+      {
+        "title": "Wiederaufforstung",
+        "text": "Baumschulen, Pflanzungen, lebende Hecken, gemeinschaftliche Obstgärten und Aufklärung an Schulen."
+      },
+      {
+        "title": "Geschlechtergerechtigkeit",
+        "text": "Weibliche Führung und Frauengenossenschaften, Schulungen zum Unternehmertum und Zugang zu Krediten."
+      },
+      {
+        "title": "Abfallmanagement",
+        "text": "Mülltrennung, Kompostierung, Recycling, Reinigungsaktionen und kleine Recyclingunternehmen."
+      },
+      {
+        "title": "Lokale Wirtschaftsentwicklung",
+        "text": "Berufsausbildung, Mikrofinanzierung, ländliche Unternehmen und Jugendunternehmertum."
+      },
+      {
+        "title": "Erweiterter Sozialschutz",
+        "text": "Schulmaterialien, Patenschaften für schutzbedürftige Kinder und Unterstützung für alleinstehende ältere Menschen."
+      }
+    ]
+  },
+
+  "impact": {
+    "title": "Ergebnisse, die wir vorweisen können",
+    "intro": "Zwischen 2023 und 2025 unterstützte SCA innerhalb von zwei Jahren 13.270 Haushalte mit Nahrungsmitteln und führte Aufklärungskampagnen durch, die mehr als 180.000 Menschen erreichten.",
+    "tableT": "Jahr für Jahr",
+    "cols": ["Ergebnis", "2023", "2024", "2025"],
+    "na": "nicht angegeben",
+    "rows": [
+      [
+        "Haushalte, die Getreide und Erdnüsse erhielten",
+        "6.550",
+        "6.720",
+        "nicht angegeben"
+      ],
+      [
+        "Budget des Ernährungsprogramms (FCFA)",
+        "63.000.000",
+        "68.740.000",
+        "82.037.615"
+      ],
+      [
+        "Straßenkinder, die täglich Mahlzeiten erhielten",
+        "nicht angegeben",
+        "130",
+        "198"
+      ],
+      [
+        "Menschen, die zu Hygiene und Wasser erreicht wurden",
+        "44.054",
+        "nicht angegeben",
+        "nicht angegeben"
+      ],
+      [
+        "Menschen, die zur Gesundheitsprävention erreicht wurden",
+        "38.125",
+        "nicht angegeben",
+        "56.911"
+      ],
+      [
+        "Menschen, die zum Klimaschutz erreicht wurden",
+        "nicht angegeben",
+        "22.034",
+        "21.208"
+      ],
+      [
+        "Geschulte Gemeindemultiplikatoren",
+        "40",
+        "nicht angegeben",
+        "nicht angegeben"
+      ]
+    ],
+    "chartT": "Durch Aufklärungskampagnen erreichte Menschen",
+    "chartNote": "Die Zahlen werden pro Kampagne erfasst, sodass manche Menschen mehrfach gezählt werden.",
+    "chart": [
+      { "year": "2023", "value": 82179 },
+      { "year": "2024", "value": 22034 },
+      { "year": "2025", "value": 78119 }
+    ],
+    "valueT": "Wofür die Mittel verwendet werden",
+    "value": [
+      "Ernährungsprogramm 2025: 70 % Produktion, 15 % Lagerung, 15 % Verteilung.",
+      "Aufklärungskampagne 2025: etwa 174 FCFA pro erreichter Person.",
+      "Mahlzeiten für Straßenkinder 2024: 63,7 % des Budgets werden für den Kauf von Lebensmitteln verwendet."
+    ],
+    "goalsT": "Unsere Ziele für 2030",
+    "goals": [
+      ["100.000", "Haushalte mit Nahrungsmittelhilfe"],
+      ["1.000.000", "gepflanzte Bäume"],
+      ["15.000", "wiederhergestellte Hektar"],
+      ["12.000", "geschulte Landwirte"],
+      ["15.000", "unterstützte Frauen"],
+      ["15.000", "geschützte Kinder"],
+      ["15.000", "behandelte mangelernährte Kinder"],
+      ["6.000", "beim Berufseinstieg unterstützte junge Menschen"],
+      ["5.000", "unterstützte ältere Menschen"],
+      ["2.500", "gebaute Latrinen"],
+      ["300", "zum Klima sensibilisierte Dörfer"],
+      ["250", "gebohrte Brunnen"]
+    ],
+    "quotesT": "In ihren eigenen Worten",
+    "quotes": [
+      {
+        "text": "Dank dieser Nahrungsmittelhilfe hat meine Familie die schwierige Zeit überstanden, ohne hungern zu müssen.",
+        "who": "Begünstigte Person, Garoua"
+      },
+      {
+        "text": "Die Hygieneschulungen haben uns beigebracht, unsere Kinder besser vor Krankheiten zu schützen.",
+        "who": "Begünstigte Person, Maroua"
+      }
+    ],
+    "lessonsT": "Was wir gelernt haben",
+    "lessons": [
+      "Die Beteiligung der Gemeinschaft und eine enge Begleitung machen den Unterschied.",
+      "Geschulte Gemeindemultiplikatoren tragen die Botschaften weiter.",
+      "Nahrungsmittelhilfe wirkt am besten in Verbindung mit Gesundheits- und Hygieneaufklärung.",
+      "Die Achtung der lokalen Kultur und ein geschlechtersensibler Ansatz verbessern die Akzeptanz."
+    ],
+    "challengesT": "Unsere Herausforderungen",
+    "challenges": "Logistik und steigende Transportkosten, schwer erreichbare Stadtviertel, knappe Budgets, schlechtes Wetter und geringe Beteiligung einiger Haushalte. Wir reagieren mit einer stärkeren Koordination mit lokalen Behörden, Freiwilligen, besseren Verteilungsplänen und einer besseren Überwachung."
+  },
+  "where": {
+    "title": "Wo wir arbeiten",
+    "intro": "Wir arbeiten in den Städten Garoua und Maroua sowie in den umliegenden Dörfern und Stadtvierteln. Die meisten Haushalte bauen Mais, Hirse, Sorghum und Erdnüsse an. Ihre wichtigsten Bedürfnisse sind Nahrungsmittel, sicheres Wasser, Gesundheitsversorgung, Schulbildung und Arbeitsplätze.",
+    "cities": [
+      {
+        "city": "Garoua",
+        "region": "Nord",
+        "places": [
+          "Pakete",
+          "Boggare",
+          "Djamboutou",
+          "Wouro Labbo",
+          "Falire",
+          "Nakon",
+          "Kanadi",
+          "Miami"
+        ]
+      },
+      {
+        "city": "Maroua",
+        "region": "Hoher Norden",
+        "places": [
+          "Domayo",
+          "Dougoy",
+          "Congola",
+          "Hardé",
+          "Djaregol",
+          "Wouro Tchede"
+        ]
+      }
+    ],
+    "farmT": "Landwirtschaftliche Standorte",
+    "farm": "Pakete, Pitoa und Wouro Labbo in der Nähe von Garoua. Congola und Djarengol in der Nähe von Maroua."
+  },
+
+  "partners": {
+    "title": "Partner",
+    "intro": "Wir arbeiten Hand in Hand mit den Menschen und Institutionen, die den Problemen am nächsten stehen. Lokale Behörden öffnen Türen, Gemeinschaftsorganisationen setzen die Arbeit um, und technische sowie finanzielle Partner helfen uns zu wachsen.",
+    "types": [
+      "Lokale Verwaltungsbehörden und traditionelle Autoritäten",
+      "Gemeinden Garoua und Maroua",
+      "Fachministerien und lokale Behörden",
+      "Gemeinschaftsvertreter und lokale Organisationen",
+      "Landwirtschaftliche Genossenschaften, Frauen- und Jugendverbände",
+      "Universitäten und Forschungszentren",
+      "UN-Organisationen und internationale Organisationen",
+      "Nationale und internationale Nichtregierungsorganisationen",
+      "Geldgeber und Privatsektor"
+    ],
+    "typesT": "Mit wem wir zusammenarbeiten",
+    "logosT": "Unsere Partner",
+    "becomeT": "Arbeiten Sie mit uns",
+    "become": [
+      "Finanzieren Sie ein Programm oder eine Region.",
+      "Teilen Sie Ihr Fachwissen in Landwirtschaft, Wasser, Gesundheit oder Monitoring.",
+      "Leisten Sie Sachspenden: Saatgut, Werkzeuge, Lebensmittel und Hygienesets.",
+      "Engagieren Sie sich als Unternehmens- oder Gemeinschaftssponsor."
+    ],
+    "cta": "Partner werden"
+  },
+
+  "involved": {
+    "title": "Mitmachen",
+    "intro": "Geld ist eine Möglichkeit zu helfen. Hier sind weitere.",
+    "items": [
+      {
+        "title": "Freiwillig engagieren",
+        "text": "Nehmen Sie an Gemeinschaftsveranstaltungen, Verteilungen und Monitoring-Aktivitäten in Garoua, Maroua oder Ngaoundéré teil.",
+        "cta": "Schenken Sie Ihre Zeit"
+      },
+      {
+        "title": "Werden Sie unser Partner",
+        "text": "Organisationen können finanzielle Unterstützung, Beratung oder Sachspenden leisten.",
+        "cta": "Partner werden"
+      },
+      {
+        "title": "Sachspenden leisten",
+        "text": "Saatgut, landwirtschaftliche Werkzeuge, Hygienesets und Schulmaterialien kommen den Familien zugute.",
+        "cta": "Erfahren Sie, wie"
+      },
+      {
+        "title": "Unsere Arbeit bekannt machen",
+        "text": "Teilen Sie unsere Jahresberichte und verfolgen Sie unsere Arbeit in den sozialen Medien.",
+        "cta": "Berichte lesen"
+      }
+    ]
+  },
+
+  "contact": {
+    "title": "Kontaktieren Sie uns",
+    "intro": "Schreiben Sie uns zu einer Partnerschaft, freiwilligem Engagement, einer Spende oder einer Frage. Wir antworten innerhalb weniger Werktage.",
+    "name": "Ihr Name",
+    "email": "E-Mail",
+    "phone": "Telefon (optional)",
+    "topic": "Betreff",
+    "topics": [
+      "Allgemeine Frage",
+      "Partnerschaft",
+      "Freiwilliges Engagement",
+      "Spende",
+      "Medien"
+    ],
+    "message": "Nachricht",
+    "consent": "Ich stimme zu, dass SCA diese Angaben verwendet, um mir zu antworten.",
+    "send": "Nachricht senden",
+    "sending": "Wird gesendet",
+    "sentT": "Nachricht erhalten",
+    "sent": "Vielen Dank. Wir antworten an die von Ihnen angegebene E-Mail-Adresse.",
+    "error": "Die Nachricht konnte nicht gesendet werden. Überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut oder schreiben Sie uns direkt per E-Mail.",
+    "again": "Weitere Nachricht senden",
+    "officesT": "Unsere Büros",
+    "phoneL": "Telefon",
+    "whatsappL": "WhatsApp",
+    "emailL": "E-Mail",
+    "hoursL": "Öffnungszeiten",
+    "followT": "Folgen Sie uns"
+  },
+
+  "donate": {
+    "title": "Jetzt spenden",
+    "intro": "Unterstützen Sie unsere Arbeit mit den Gemeinschaften im Norden Kameruns. Jeder Beitrag macht einen Unterschied.",
+    "close": "Spendenfenster schließen",
+
+    "howT": "So können Sie spenden",
+    "mobile": "Mobile Money",
+    "bank": "Banküberweisung",
+    "card": "Karte",
+
+    "number": "Telefonnummer",
+    "holder": "Kontoinhaber",
+    "bankName": "Name der Bank",
+    "accountName": "Kontoname",
+    "accountNumber": "Kontonummer",
+    "iban": "IBAN",
+    "swift": "SWIFT / BIC",
+
+    "copy": "Kopieren",
+    "copied": "Kopiert",
+
+    "cardCta": "Mit Karte spenden",
+    "cardSoon": "Kartenzahlungen sind noch nicht verfügbar.",
+    "unavailable": "Diese Zahlungsmethode ist noch nicht verfügbar. Kontaktieren Sie uns für weitere Informationen.",
+
+    "reference": "Wählen Sie Ihren gewünschten Spendenbetrag und überprüfen Sie die Empfängerdaten, bevor Sie Ihre Spende überweisen.",
+    "receipt": "Kontaktieren Sie uns, wenn Sie eine Spendenquittung benötigen.",
+    "trust": "Vielen Dank für Ihre Unterstützung von Sahel Climate Action."
+  },
+  "footer": {
+    "tag": "Heute handeln, morgen nachhaltig leben.",
+    "explore": "Entdecken",
+    "where": "Wo wir arbeiten",
+    "leadership": "Leitung",
+    "reports": "Jahresberichte",
+    "legal": "[Original legal statement]",
+    "rights": "Alle Rechte vorbehalten."
   }
 }
