@@ -174,14 +174,9 @@
     "intro": "Entre 2023 y 2025, SCA proporcionó ayuda alimentaria a 13.270 hogares en dos años y realizó campañas de sensibilización que llegaron a más de 180.000 personas.",
     "tableT": "Año por año",
     "cols": ["Resultado", "2023", "2024", "2025"],
-    "na": "sin datos",
+    "na": "-",
     "rows": [
-      [
-        "Hogares que recibieron cereales y cacahuetes",
-        "6.550",
-        "6.720",
-        "sin datos"
-      ],
+      ["Hogares que recibieron cereales y cacahuetes", "6.550", "6.720", "_"],
       [
         "Presupuesto del programa alimentario (FCFA)",
         "63.000.000",
@@ -190,29 +185,24 @@
       ],
       [
         "Niños en situación de calle que recibieron comidas diarias",
-        "sin datos",
+        "_",
         "130",
         "198"
       ],
-      [
-        "Personas sensibilizadas sobre higiene y agua",
-        "44.054",
-        "sin datos",
-        "sin datos"
-      ],
+      ["Personas sensibilizadas sobre higiene y agua", "44.054", "_", "_"],
       [
         "Personas sensibilizadas sobre prevención sanitaria",
         "38.125",
-        "sin datos",
+        "_",
         "56.911"
       ],
       [
         "Personas sensibilizadas sobre acción climática",
-        "sin datos",
+        "_",
         "22.034",
         "21.208"
       ],
-      ["Agentes comunitarios formados", "40", "sin datos", "sin datos"]
+      ["Agentes comunitarios formados", "40", "_", "_"]
     ],
     "chartT": "Personas alcanzadas por las campañas de sensibilización",
     "chartNote": "Las cifras se contabilizan por campaña, por lo que algunas personas se cuentan más de una vez.",

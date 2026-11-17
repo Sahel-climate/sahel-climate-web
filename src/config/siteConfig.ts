@@ -1,16 +1,8 @@
-
 import type { Partner } from "../components/partners/types/partners.types";
 import type { ContactConfig } from "../components/contact/types/contact.types";
 import type { DonateConfig } from "../components/donate/types/donate.types";
 
-export type LanguageCode =
-  | "en"
-  | "fr"
-  | "ar"
-  | "tr"
-  | "es"
-  | "pt"
-  | "de";
+export type LanguageCode = "en" | "fr" | "ar" | "tr" | "es" | "pt" | "de";
 
 export interface LeadershipMember {
   name: string;
@@ -119,7 +111,7 @@ const partners: Partner[] = [
 const contact: ContactConfig = {
   phone: "+237 6XX XX XX XX",
   whatsapp: "+237 6XX XX XX XX",
-  email: "contact@your-domain.org",
+  email: "contact@sahelclimateaction.org",
 
   hours: {
     en: "Monday to Friday, 8:00 to 17:00",
@@ -212,11 +204,11 @@ const donate: DonateConfig = {
   ],
 
   bank: {
-    bankName: "",
-    accountName: "",
-    accountNumber: "",
-    iban: "",
-    swift: "",
+    bankName: "UNION BANK OF AFRICA (UBA) CAMEROON",
+    accountName: "Sahel Climate Action",
+    accountNumber: "23031000080",
+    iban: "CM2110033 05223 23031000080 23",
+    swift: "UNAFCMCX",
   },
 
   international: {
@@ -244,6 +236,5 @@ export const siteConfig = {
   contact,
   donate,
 
-  contactFormEndpoint:
-    import.meta.env.VITE_CONTACT_FORM_ENDPOINT || "",
+  contactFormEndpoint: import.meta.env.VITE_CONTACT_FORM_ENDPOINT || "",
 };

@@ -43,7 +43,6 @@ const About = () => {
             {t("about.intro")}
           </p>
         </div>
-
         {/* Vision and Mission */}
         <div className="mt-16 grid gap-12 lg:grid-cols-2 lg:gap-20">
           {/* Vision */}
@@ -68,7 +67,6 @@ const About = () => {
             </p>
           </div>
         </div>
-
         {/* History, Objectives and Values */}
         <div className="mt-20 grid gap-14 lg:grid-cols-2 lg:gap-20">
           {/* History timeline */}
@@ -115,7 +113,6 @@ const About = () => {
             </div>
           </div>
         </div>
-
         {/* How We Work */}
         <div className="mt-20 rounded-[1.75rem] bg-paper-deep p-7 sm:p-10">
           <h3 className="font-display text-2xl font-bold text-forest-900">
@@ -135,9 +132,8 @@ const About = () => {
             ))}
           </ul>
         </div>
-
         {/* Leadership Team */}
-        <AboutLeadership />
+        {/* <AboutLeadership /> */}
       </Container>
     </section>
   );

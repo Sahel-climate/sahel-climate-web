@@ -3,10 +3,10 @@ import { useTranslation } from "react-i18next";
 import Container from "../common/Container";
 import SectionHeading from "../common/SectionHeading";
 
-import PartnerLogos from "./PartnerLogos";
+// import PartnerLogos from "./PartnerLogos";
 import PartnershipCTA from "./PartnershipCTA";
 
-import { siteConfig } from "../../config/siteConfig";
+// import { siteConfig } from "../../config/siteConfig";
 
 import type { PartnersContent } from "./types/partners.types";
 
@@ -59,7 +59,7 @@ const Partners = ({ onBecomePartner }: PartnersProps) => {
         </div>
 
         {/* Partner logos */}
-        <PartnerLogos title={partners.logosT} partners={siteConfig.partners} />
+        {/* <PartnerLogos title={partners.logosT} partners={siteConfig.partners} /> */}
 
         {/* Partnership CTA */}
         <PartnershipCTA

@@ -174,50 +174,35 @@
     "intro": "Zwischen 2023 und 2025 unterstützte SCA innerhalb von zwei Jahren 13.270 Haushalte mit Nahrungsmitteln und führte Aufklärungskampagnen durch, die mehr als 180.000 Menschen erreichten.",
     "tableT": "Jahr für Jahr",
     "cols": ["Ergebnis", "2023", "2024", "2025"],
-    "na": "nicht angegeben",
+    "na": "_",
     "rows": [
-      [
-        "Haushalte, die Getreide und Erdnüsse erhielten",
-        "6.550",
-        "6.720",
-        "nicht angegeben"
-      ],
+      ["Haushalte, die Getreide und Erdnüsse erhielten", "6.550", "6.720", "_"],
       [
         "Budget des Ernährungsprogramms (FCFA)",
         "63.000.000",
         "68.740.000",
         "82.037.615"
       ],
-      [
-        "Straßenkinder, die täglich Mahlzeiten erhielten",
-        "nicht angegeben",
-        "130",
-        "198"
-      ],
+      ["Straßenkinder, die täglich Mahlzeiten erhielten", "_", "130", "198"],
       [
         "Menschen, die zu Hygiene und Wasser erreicht wurden",
         "44.054",
-        "nicht angegeben",
-        "nicht angegeben"
+        "_",
+        "_"
       ],
       [
         "Menschen, die zur Gesundheitsprävention erreicht wurden",
         "38.125",
-        "nicht angegeben",
+        "_",
         "56.911"
       ],
       [
         "Menschen, die zum Klimaschutz erreicht wurden",
-        "nicht angegeben",
+        "_",
         "22.034",
         "21.208"
       ],
-      [
-        "Geschulte Gemeindemultiplikatoren",
-        "40",
-        "nicht angegeben",
-        "nicht angegeben"
-      ]
+      ["Geschulte Gemeindemultiplikatoren", "40", "_", "_"]
     ],
     "chartT": "Durch Aufklärungskampagnen erreichte Menschen",
     "chartNote": "Die Zahlen werden pro Kampagne erfasst, sodass manche Menschen mehrfach gezählt werden.",
