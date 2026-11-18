@@ -4,7 +4,7 @@ import { useTranslation } from "react-i18next";
 import Container from "../common/Container";
 import SectionHeading from "../common/SectionHeading";
 import AboutHistory from "./AboutHistory";
-import AboutLeadership from "./AboutLeadership";
+// import AboutLeadership from "./AboutLeadership";
 
 const About = () => {
   const { t } = useTranslation();
