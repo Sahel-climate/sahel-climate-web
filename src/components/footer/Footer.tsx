@@ -46,7 +46,7 @@ const Footer = ({ onDonate }: FooterProps) => {
 
         {/* Legal information and copyright */}
         <div className="mt-12 border-t border-paper/15 pt-6 text-sm leading-relaxed text-paper/65">
-          <p className="max-w-[80ch]">{footer.legal}</p>
+          {/* <p className="max-w-[80ch]">{footer.legal}</p> */}
 
           <p className="mt-2">
             © {year} {siteConfig.name}. {footer.rights}

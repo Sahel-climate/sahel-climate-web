@@ -62,7 +62,7 @@ const Navbar = ({ onDonate }: NavbarProps) => {
           <img
             src={logo}
             alt={siteConfig.name}
-            className="h-10 w-auto max-w-25
+            className="h-11 w-auto max-w-26
               object-contain mix-blend-multiply
               sm:h-12 sm:max-w-37.5"
           />
