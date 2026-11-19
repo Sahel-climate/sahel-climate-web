@@ -69,7 +69,7 @@ const ContactDetails = ({ content, language }: ContactDetailsProps) => {
 
           <dd>
             <a
-              href={`mailto:${cfg.email}`}
+              href={`mailto:${cfg.email}?subject=${encodeURIComponent("Inquiry from website")}`}
               className="font-display font-semibold text-forest-900 hover:underline"
               dir="ltr"
             >
