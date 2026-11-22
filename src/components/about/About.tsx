@@ -1,4 +1,4 @@
-import { Leaf } from "lucide-react";
+// import { Leaf } from "lucide-react";
 import { useTranslation } from "react-i18next";
 
 import Container from "../common/Container";
@@ -9,9 +9,9 @@ import AboutHistory from "./AboutHistory";
 const About = () => {
   const { t } = useTranslation();
 
-  const objectives = t("about.objectives", {
-    returnObjects: true,
-  }) as string[];
+  // const objectives = t("about.objectives", {
+  //   returnObjects: true,
+  // }) as string[];
 
   const values = t("about.values", {
     returnObjects: true,
@@ -33,7 +33,7 @@ const About = () => {
           <div>
             <SectionHeading
               id="about-heading"
-              className="text-forest-900 lg:!text-[2.25rem]"
+              className="text-forest-900 lg:text-[2.25rem]!"
             >
               {t("about.title")}
             </SectionHeading>
@@ -75,11 +75,11 @@ const About = () => {
           <div className="space-y-12">
             {/* Objectives */}
             <div>
-              <h3 className="font-display text-2xl font-bold text-forest-900">
+              {/* <h3 className="font-display text-2xl font-bold text-forest-900">
                 {t("about.objectivesT")}
-              </h3>
+              </h3> */}
 
-              <ul className="mt-5 space-y-3">
+              {/* <ul className="mt-5 space-y-3">
                 {objectives.map((objective) => (
                   <li key={objective} className="flex gap-3">
                     <Leaf
@@ -91,7 +91,7 @@ const About = () => {
                     <span>{objective}</span>
                   </li>
                 ))}
-              </ul>
+              </ul> */}
             </div>
 
             {/* Values */}

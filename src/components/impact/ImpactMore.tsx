@@ -4,7 +4,7 @@ import Container from "../common/Container";
 
 import ImpactGoals from "./ImpactGoals";
 import ImpactTestimonials from "./ImpactTestimonials";
-import ImpactLessons from "./ImpactLessons";
+// import ImpactLessons from "./ImpactLessons";
 
 import type { ImpactContent } from "./types/impact.types";
 
@@ -25,12 +25,12 @@ const ImpactMore = () => {
         <div className="mt-20 grid gap-14 lg:grid-cols-2 lg:gap-20">
           <ImpactTestimonials title={impact.quotesT} quotes={impact.quotes} />
 
-          <ImpactLessons
+          {/* <ImpactLessons
             title={impact.lessonsT}
             lessons={impact.lessons}
             challengesTitle={impact.challengesT}
             challenges={impact.challenges}
-          />
+          /> */}
         </div>
       </Container>
     </section>

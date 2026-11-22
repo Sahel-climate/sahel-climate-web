@@ -15,29 +15,21 @@
     "tagline": "Acción hoy, sostenibilidad mañana"
   },
   "hero": {
-    "eyebrow": "Sahel Climate Action · Maroua, Camerún",
+    "eyebrow": "Sahel Climate Action · Camerún, África Central",
     "title": "Construir comunidades del Sahel resilientes al cambio climático",
-    "sub": "Luchamos contra la pobreza extrema, el hambre y los efectos del cambio climático en el norte de Camerún mediante la seguridad alimentaria, la salud, la higiene, la protección infantil y la reforestación.",
+    "sub": "Luchamos contra la pobreza extrema, el hambre y los efectos del cambio climático en el norte de Camerún mediante la reforestación, la restauración de tierras, la equidad de género, los programas de protección social y el fortalecimiento de la seguridad alimentaria, la salud, la higiene, el acceso al agua potable y la protección infantil.",
     "donate": "Dona ahora",
     "programmes": "Nuestros programas",
     "imagePlaceholder": "Nuestro impacto en imágenes",
     "imageAlt": "Proyecto comunitario de Sahel Climate Action"
   },
-
   "about": {
-    "title": "Una asociación juvenil que se convirtió en una organización de lucha contra el cambio climático y la pobreza",
-    "intro": "Sahel Climate Action (SCA) es una organización sin ánimo de lucro que lucha contra la pobreza extrema, los efectos del cambio climático y la desigualdad social en el Sahel, con especial atención a Camerún. Desarrollamos programas integrados que ayudan a los hogares pobres a ser más resilientes mientras protegen el medio ambiente. Las comunidades, las autoridades locales y los socios técnicos participan con nosotros en el diseño de cada proyecto.",
+    "title": "Una organización juvenil que se convirtió en una ONG dedicada a los problemas climáticos y la lucha contra la pobreza extrema",
+    "intro": "Sahel Climate Action (SCA) es una organización sin ánimo de lucro que combate la pobreza extrema, los efectos del cambio climático y la desigualdad social en el Sahel, dando prioridad a la protección del medio ambiente. Desarrollamos programas integrados que fortalecen la resiliencia de los hogares más vulnerables frente al cambio climático.",
     "visionT": "Visión",
-    "vision": "Comunidades del Sahel resilientes, inclusivas y prósperas, donde todas las personas puedan vivir con dignidad a pesar de los desafíos climáticos, económicos y sociales.",
+    "vision": "Comunidades del Sahel resilientes, inclusivas y prósperas, donde todas las personas puedan vivir con dignidad a pesar de los desafíos climáticos, económicos y sociales. Promovemos un enfoque basado en el desarrollo sostenible.",
     "missionT": "Misión",
     "mission": "Mejorar la vida de las personas vulnerables mediante la protección social, la seguridad alimentaria, la igualdad de género, la agroforestería, la restauración de los ecosistemas y la adaptación al cambio climático.",
-    "objectivesT": "Nuestros objetivos",
-    "objectives": [
-      "Fortalecer la seguridad alimentaria de los hogares vulnerables.",
-      "Promover buenas prácticas de higiene.",
-      "Reducir las enfermedades transmitidas por el agua y las relacionadas con el saneamiento.",
-      "Fortalecer la resiliencia comunitaria."
-    ],
     "valuesT": "Nuestros valores",
     "values": [
       "Solidaridad",
@@ -49,25 +41,22 @@
       "Innovación",
       "Responsabilidad",
       "Participación comunitaria",
-      "Rendición de cuentas"
+      "Rendición de cuentas",
+      "Sostenibilidad"
     ],
     "historyT": "Nuestra historia",
     "history": [
       {
-        "date": "2026 a 2028",
-        "text": "Plan estratégico trienal que abarca la agricultura, la seguridad alimentaria, la protección social, el agua, el clima, el género, la reforestación, los residuos y el desarrollo económico local."
-      },
-      {
         "date": "{{renamedDate}}",
-        "text": "La asociación se convierte en Sahel Climate Action, un nombre que refleja el trabajo climático que había realizado durante años."
+        "text": "La asociación adopta el nombre de Sahel Climate Action, destacando sus objetivos fundamentales en materia climática y sus logros a lo largo de los años."
       },
       {
         "date": "1 de febrero de 2012",
-        "text": "Registro como asociación en Maroua."
+        "text": "Registrada como asociación en Maroua, Camerún, con el número N°0003/RDA/K22/SAAJP."
       },
       {
         "date": "13 de diciembre de 2011",
-        "text": "Fundación como Asociación de Jóvenes para la Lucha contra la Pobreza en el Extremo Norte (Association des Jeunes pour la Lutte contre la Pauvreté dans l’Extrême-Nord - AJELPEN)."
+        "text": "Fundada como «Association des Jeunes pour la Lutte contre la Pauvreté dans l’Extrême-Nord (AJELPEN)»."
       }
     ],
     "howT": "Cómo trabajamos",
@@ -75,18 +64,27 @@
       "Los proyectos parten de las necesidades expresadas por las comunidades.",
       "Los beneficiarios participan activamente y se fortalecen las capacidades locales.",
       "Los resultados se supervisan mediante indicadores claros y se revisan cada año.",
-      "Las finanzas son transparentes y rendimos cuentas a las personas a las que servimos y a nuestros socios.",
+      "Rendimos cuentas a los beneficiarios y a nuestros socios.",
       "Nadie se queda atrás: se incluye a las mujeres, los jóvenes, las personas desplazadas y las personas con discapacidad."
     ],
     "leadersT": "Gobernanza",
     "leadersIntro": "SCA está dirigida por una Asamblea General, un Consejo de Administración y una Dirección Ejecutiva, con delegaciones regionales y comités comunitarios.",
     "officesT": "Nuestras oficinas"
   },
-
   "programmes": {
     "title": "Lo que hacemos",
     "intro": "Actualmente desarrollamos cinco programas. Selecciona uno para conocer a quién beneficia y qué ha conseguido.",
     "items": [
+      {
+        "id": "climate",
+        "title": "Acción climática",
+        "line": "Soluciones prácticas para que las familias agricultoras afronten las sequías y las inundaciones.",
+        "body": "Nuestras campañas enseñan la conservación del agua y del suelo, la agricultura climáticamente inteligente, el uso de semillas resistentes a la sequía, la agroforestería y la plantación comunitaria de árboles, la recuperación de tierras y la alerta temprana ante riesgos climáticos. También fomentan acciones cotidianas: plantar árboles, gestionar los residuos, ahorrar agua y energía y reducir los incendios de matorrales.",
+        "facts": [
+          "2024: 22.034 personas alcanzadas",
+          "2025: 21.208 personas alcanzadas, incluidos 1.701 hogares"
+        ]
+      },
       {
         "id": "food",
         "title": "Seguridad alimentaria",
@@ -112,7 +110,7 @@
         "id": "health",
         "title": "Salud y sensibilización",
         "line": "Campañas de prevención que llegan a decenas de miles de personas.",
-        "body": "Mediante sesiones comunitarias, programas de radio, carteles, visitas puerta a puerta y pruebas voluntarias de detección, SCA difunde mensajes de prevención en las regiones Norte y Extremo Norte. En 2023, cuarenta agentes comunitarios recibieron formación en comunicación para el cambio social, higiene familiar y vigilancia de riesgos sanitarios.",
+        "body": "Mediante sesiones comunitarias, programas de radio, carteles, visitas puerta a puerta y pruebas voluntarias, SCA difunde mensajes de prevención en las regiones Norte y Extremo Norte. En 2023, recibimos formación en comunicación para el cambio social, higiene familiar y seguimiento de riesgos sanitarios.",
         "facts": [
           "2025: 35.265 personas sensibilizadas sobre diabetes, cáncer, enfermedades cardíacas y enfermedades relacionadas con el medio ambiente",
           "2025: 21.646 jóvenes y adultos sensibilizados sobre el tabaco y las drogas",
@@ -128,26 +126,16 @@
           "5.794 hogares alcanzados en 2023",
           "44.054 personas alcanzadas: 21.664 en Garoua y 22.390 en Maroua"
         ]
-      },
-      {
-        "id": "climate",
-        "title": "Acción climática",
-        "line": "Soluciones prácticas para que las familias agricultoras afronten las sequías y las inundaciones.",
-        "body": "Nuestras campañas enseñan la conservación del agua y del suelo, la agricultura climáticamente inteligente, el uso de semillas resistentes a la sequía, la agroforestería y la plantación comunitaria de árboles, la recuperación de tierras y la alerta temprana ante riesgos climáticos. También fomentan acciones cotidianas: plantar árboles, gestionar los residuos, ahorrar agua y energía y reducir los incendios de matorrales.",
-        "facts": [
-          "2024: 22.034 personas alcanzadas",
-          "2025: 21.208 personas alcanzadas, incluidos 1.701 hogares"
-        ]
       }
     ],
-    "comingT": "Próximamente, de 2026 a 2028",
+    "comingT": "Próximamente, de 2027 a 2029",
     "coming": [
       {
         "title": "Agricultura sostenible",
         "text": "Formación de agricultores, semillas resistentes a la sequía, huertos, riego por goteo, compost y cooperativas."
       },
       {
-        "title": "Reforestación",
+        "title": "Acción climática",
         "text": "Viveros de árboles, plantación, setos vivos, huertos frutales comunitarios y sensibilización escolar."
       },
       {
@@ -168,13 +156,12 @@
       }
     ]
   },
-
   "impact": {
     "title": "Resultados que podemos mostrar",
     "intro": "Entre 2023 y 2025, SCA proporcionó ayuda alimentaria a 13.270 hogares en dos años y realizó campañas de sensibilización que llegaron a más de 180.000 personas.",
     "tableT": "Año por año",
     "cols": ["Resultado", "2023", "2024", "2025"],
-    "na": "-",
+    "na": "_",
     "rows": [
       ["Hogares que recibieron cereales y cacahuetes", "6.550", "6.720", "_"],
       [
@@ -185,7 +172,7 @@
       ],
       [
         "Niños en situación de calle que recibieron comidas diarias",
-        "_",
+        "no comunicado",
         "130",
         "198"
       ],
@@ -198,18 +185,26 @@
       ],
       [
         "Personas sensibilizadas sobre acción climática",
-        "_",
+        "no comunicado",
         "22.034",
         "21.208"
-      ],
-      ["Agentes comunitarios formados", "40", "_", "_"]
+      ]
     ],
     "chartT": "Personas alcanzadas por las campañas de sensibilización",
     "chartNote": "Las cifras se contabilizan por campaña, por lo que algunas personas se cuentan más de una vez.",
     "chart": [
-      { "year": "2023", "value": 82179 },
-      { "year": "2024", "value": 22034 },
-      { "year": "2025", "value": 78119 }
+      {
+        "year": "2023",
+        "value": 82179
+      },
+      {
+        "year": "2024",
+        "value": 22034
+      },
+      {
+        "year": "2025",
+        "value": 78119
+      }
     ],
     "valueT": "Cómo se utilizan los fondos",
     "value": [
@@ -217,7 +212,7 @@
       "Campaña de sensibilización 2025: aproximadamente 174 FCFA por persona alcanzada.",
       "Comidas para niños en situación de calle 2024: el 63,7 % del presupuesto se destina a comprar alimentos."
     ],
-    "goalsT": "Nuestros objetivos para 2030",
+    "goalsT": "Nuestros objetivos para 2029",
     "goals": [
       ["100.000", "hogares beneficiados con ayuda alimentaria"],
       ["1.000.000", "árboles plantados"],
@@ -242,52 +237,8 @@
         "text": "Las sesiones de higiene nos enseñaron a proteger mejor a nuestros hijos contra las enfermedades.",
         "who": "Beneficiario, Maroua"
       }
-    ],
-    "lessonsT": "Lo que hemos aprendido",
-    "lessons": [
-      "La participación comunitaria y el seguimiento cercano marcan la diferencia.",
-      "Los agentes comunitarios formados llevan el mensaje más lejos.",
-      "La ayuda alimentaria funciona mejor junto con la sensibilización sobre salud e higiene.",
-      "Respetar la cultura local y adoptar un enfoque de género mejora la participación."
-    ],
-    "challengesT": "Las dificultades",
-    "challenges": "La logística y el aumento de los costes de transporte, los barrios de difícil acceso, los presupuestos limitados, el mal tiempo y la escasa participación de algunos hogares. Respondemos con una mayor coordinación con las autoridades locales, voluntarios, mejores calendarios de distribución y un mejor seguimiento."
+    ]
   },
-  "where": {
-    "title": "Dónde trabajamos",
-    "intro": "Trabajamos en las ciudades de Garoua y Maroua y en las aldeas y barrios de sus alrededores. La mayoría de los hogares cultivan maíz, mijo, sorgo y cacahuetes. Sus principales necesidades son alimentos, agua segura, atención sanitaria, educación y empleo.",
-    "cities": [
-      {
-        "city": "Garoua",
-        "region": "Norte",
-        "places": [
-          "Pakete",
-          "Boggare",
-          "Djamboutou",
-          "Wouro Labbo",
-          "Falire",
-          "Nakon",
-          "Kanadi",
-          "Miami"
-        ]
-      },
-      {
-        "city": "Maroua",
-        "region": "Extremo Norte",
-        "places": [
-          "Domayo",
-          "Dougoy",
-          "Congola",
-          "Hardé",
-          "Djaregol",
-          "Wouro Tchede"
-        ]
-      }
-    ],
-    "farmT": "Zonas agrícolas",
-    "farm": "Pakete, Pitoa y Wouro Labbo cerca de Garoua. Congola y Djarengol cerca de Maroua."
-  },
-
   "partners": {
     "title": "Socios",
     "intro": "Trabajamos mano a mano con las personas e instituciones más cercanas al problema. Las autoridades locales abren puertas, las organizaciones comunitarias llevan a cabo el trabajo y los socios técnicos y financieros nos ayudan a crecer.",
@@ -313,7 +264,6 @@
     ],
     "cta": "Conviértete en socio"
   },
-
   "involved": {
     "title": "Participa",
     "intro": "El dinero es una forma de ayudar. Estas son las demás.",
@@ -340,7 +290,6 @@
       }
     ]
   },
-
   "contact": {
     "title": "Contáctanos",
     "intro": "Escríbenos sobre una colaboración, voluntariado, una donación o una pregunta. Respondemos en unos pocos días laborables.",
@@ -370,17 +319,14 @@
     "hoursL": "Horario",
     "followT": "Síguenos"
   },
-
   "donate": {
     "title": "Hacer una donación",
     "intro": "Apoya nuestro trabajo con las comunidades del norte de Camerún. Cada contribución marca la diferencia.",
     "close": "Cerrar ventana de donación",
-
     "howT": "Cómo donar",
     "mobile": "Dinero móvil",
     "bank": "Transferencia bancaria",
     "card": "Tarjeta",
-
     "number": "Número de teléfono",
     "holder": "Titular de la cuenta",
     "bankName": "Nombre del banco",
@@ -388,14 +334,11 @@
     "accountNumber": "Número de cuenta",
     "iban": "IBAN",
     "swift": "SWIFT / BIC",
-
     "copy": "Copiar",
     "copied": "Copiado",
-
     "cardCta": "Donar con tarjeta",
     "cardSoon": "Los pagos con tarjeta aún no están disponibles.",
     "unavailable": "Este método de pago aún no está disponible. Contáctanos para obtener más información.",
-
     "reference": "Elige el importe que deseas donar y verifica los datos del beneficiario antes de enviar tu donación.",
     "receipt": "Contáctanos si necesitas un recibo de tu donación.",
     "trust": "Gracias por apoyar a Sahel Climate Action."

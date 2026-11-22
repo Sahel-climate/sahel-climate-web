@@ -15,29 +15,21 @@
     "tagline": "Heute handeln, morgen nachhaltig leben"
   },
   "hero": {
-    "eyebrow": "Sahel Climate Action · Maroua, Kamerun",
+    "eyebrow": "Sahel Climate Action · Kamerun, Zentralafrika",
     "title": "Widerstandsfähige Gemeinschaften im Sahel angesichts des Klimawandels aufbauen",
-    "sub": "Wir bekämpfen extreme Armut, Hunger und die Auswirkungen des Klimawandels im Norden Kameruns durch Ernährungssicherheit, Gesundheit, Hygiene, Kinderschutz und Wiederaufforstung.",
+    "sub": "Wir bekämpfen extreme Armut, Hunger und die Folgen des Klimawandels im Norden Kameruns durch Wiederaufforstung, Wiederherstellung von Landflächen, Geschlechtergerechtigkeit, soziale Sicherungsprogramme sowie die Stärkung von Ernährungssicherheit, Gesundheit, Hygiene, sauberem Wasser und Kinderschutz.",
     "donate": "Jetzt spenden",
     "programmes": "Unsere Programme",
     "imagePlaceholder": "Unsere Wirkung in Bildern",
     "imageAlt": "Gemeinschaftsprojekt von Sahel Climate Action"
   },
-
   "about": {
-    "title": "Ein Jugendverein, der sich zu einer Organisation für Klimaschutz und Armutsbekämpfung entwickelt hat",
-    "intro": "Sahel Climate Action (SCA) ist eine gemeinnützige Organisation, die extreme Armut, die Auswirkungen des Klimawandels und soziale Ungleichheit im Sahel bekämpft, mit besonderem Schwerpunkt auf Kamerun. Wir führen integrierte Programme durch, die armen Haushalten helfen, widerstandsfähiger zu werden und gleichzeitig die Umwelt zu schützen. Gemeinschaften, lokale Behörden und technische Partner gestalten jedes Projekt gemeinsam mit uns.",
+    "title": "Eine Jugendorganisation, die sich zu einer NGO für Klimafragen und die Bekämpfung extremer Armut entwickelt hat",
+    "intro": "Sahel Climate Action (SCA) ist eine gemeinnützige Organisation, die extreme Armut, die Folgen des Klimawandels und soziale Ungleichheit im Sahel bekämpft und dabei dem Umweltschutz Vorrang einräumt. Wir führen integrierte Programme durch, die die Widerstandsfähigkeit besonders gefährdeter Haushalte gegenüber dem Klimawandel stärken.",
     "visionT": "Vision",
-    "vision": "Widerstandsfähige, inklusive und wohlhabende Gemeinschaften im Sahel, in denen alle Menschen trotz klimatischer, wirtschaftlicher und sozialer Herausforderungen ein würdevolles Leben führen können.",
+    "vision": "Widerstandsfähige, inklusive und wohlhabende Gemeinschaften im Sahel, in denen alle Menschen trotz klimatischer, wirtschaftlicher und sozialer Herausforderungen in Würde leben können. Wir fördern einen Ansatz, der auf nachhaltiger Entwicklung beruht.",
     "missionT": "Mission",
     "mission": "Das Leben gefährdeter Menschen durch sozialen Schutz, Ernährungssicherheit, Geschlechtergleichstellung, Agroforstwirtschaft, Wiederherstellung von Ökosystemen und Anpassung an den Klimawandel verbessern.",
-    "objectivesT": "Unsere Ziele",
-    "objectives": [
-      "Die Ernährungssicherheit gefährdeter Haushalte stärken.",
-      "Gute Hygienepraktiken fördern.",
-      "Durch Wasser übertragene und mit der Sanitärversorgung verbundene Krankheiten reduzieren.",
-      "Die Widerstandsfähigkeit der Gemeinschaften stärken."
-    ],
     "valuesT": "Unsere Werte",
     "values": [
       "Solidarität",
@@ -49,25 +41,22 @@
       "Innovation",
       "Verantwortung",
       "Beteiligung der Gemeinschaft",
-      "Rechenschaftspflicht"
+      "Rechenschaftspflicht",
+      "Nachhaltigkeit"
     ],
     "historyT": "Unsere Geschichte",
     "history": [
       {
-        "date": "2026 bis 2028",
-        "text": "Dreijähriger Strategieplan für Landwirtschaft, Ernährungssicherheit, sozialen Schutz, Wasser, Klima, Geschlechterfragen, Wiederaufforstung, Abfall und lokale Wirtschaftsentwicklung."
-      },
-      {
         "date": "{{renamedDate}}",
-        "text": "Der Verein wird zu Sahel Climate Action, einem Namen, der seine jahrelange Arbeit im Klimaschutz widerspiegelt."
+        "text": "Der Verein nimmt den Namen Sahel Climate Action an und unterstreicht damit seine zentralen Klimaziele und die im Laufe der Jahre erzielten Erfolge."
       },
       {
         "date": "1. Februar 2012",
-        "text": "Registrierung als Verein in Maroua."
+        "text": "Als Verein in Maroua, Kamerun, unter der Registrierungsnummer N°0003/RDA/K22/SAAJP eingetragen."
       },
       {
         "date": "13. Dezember 2011",
-        "text": "Gründung als Jugendverein zur Armutsbekämpfung im Hohen Norden (Association des Jeunes pour la Lutte contre la Pauvreté dans l’Extrême-Nord - AJELPEN)."
+        "text": "Gegründet als „Association des Jeunes pour la Lutte contre la Pauvreté dans l’Extrême-Nord (AJELPEN)“."
       }
     ],
     "howT": "Wie wir arbeiten",
@@ -75,18 +64,27 @@
       "Die Projekte gehen von den Bedürfnissen aus, die die Gemeinschaften äußern.",
       "Die Begünstigten beteiligen sich aktiv und lokale Kompetenzen werden aufgebaut.",
       "Die Ergebnisse werden anhand klarer Indikatoren verfolgt und jährlich überprüft.",
-      "Die Finanzen sind transparent, und wir legen gegenüber den Menschen, denen wir dienen, sowie unseren Partnern Rechenschaft ab.",
+      "Wir legen gegenüber den Begünstigten und unseren Partnern Rechenschaft ab.",
       "Niemand wird zurückgelassen: Frauen, junge Menschen, Vertriebene und Menschen mit Behinderungen werden einbezogen."
     ],
     "leadersT": "Leitung",
     "leadersIntro": "SCA wird von einer Generalversammlung, einem Verwaltungsrat und einer Geschäftsführung geleitet, ergänzt durch regionale Niederlassungen und Gemeinschaftsausschüsse.",
     "officesT": "Unsere Büros"
   },
-
   "programmes": {
     "title": "Was wir tun",
     "intro": "Derzeit laufen fünf Programme. Wählen Sie eines aus, um zu erfahren, wem es hilft und was es erreicht hat.",
     "items": [
+      {
+        "id": "climate",
+        "title": "Klimaschutz",
+        "line": "Praktische Lösungen für landwirtschaftliche Familien im Umgang mit Dürren und Überschwemmungen.",
+        "body": "Unsere Kampagnen vermitteln Wasser- und Bodenschutz, klimaintelligente Landwirtschaft, dürreresistentes Saatgut, Agroforstwirtschaft und gemeinschaftliche Baumpflanzungen, Landwiederherstellung und Frühwarnung vor Klimarisiken. Sie fördern auch alltägliche Maßnahmen: Bäume pflanzen, Abfälle bewirtschaften, Wasser und Energie sparen und Buschbrände reduzieren.",
+        "facts": [
+          "2024: 22.034 Menschen erreicht",
+          "2025: 21.208 Menschen erreicht, darunter 1.701 Haushalte"
+        ]
+      },
       {
         "id": "food",
         "title": "Ernährungssicherheit",
@@ -112,7 +110,7 @@
         "id": "health",
         "title": "Gesundheit und Aufklärung",
         "line": "Präventionskampagnen, die Zehntausende Menschen erreichen.",
-        "body": "Durch Gemeindeveranstaltungen, Radiosendungen, Plakate, Hausbesuche und freiwillige Vorsorgeuntersuchungen verbreitet SCA Präventionsbotschaften in den Regionen Nord und Hoher Norden. Vierzig Gemeindemultiplikatoren wurden 2023 in Kommunikation für sozialen Wandel, Familienhygiene und der Überwachung von Gesundheitsrisiken geschult.",
+        "body": "Durch Gemeindeveranstaltungen, Radiosendungen, Plakate, Hausbesuche und freiwillige Untersuchungen verbreitet SCA Präventionsbotschaften in den Regionen Nord und Hoher Norden. Im Jahr 2023 erhielten wir Schulungen in Kommunikation für sozialen Wandel, Familienhygiene und Überwachung von Gesundheitsrisiken.",
         "facts": [
           "2025: 35.265 Menschen zu Diabetes, Krebs, Herzerkrankungen und umweltbedingten Erkrankungen aufgeklärt",
           "2025: 21.646 Jugendliche und Erwachsene zu Tabak und Drogen aufgeklärt",
@@ -128,26 +126,16 @@
           "5.794 Haushalte im Jahr 2023 erreicht",
           "44.054 Menschen erreicht: 21.664 in Garoua, 22.390 in Maroua"
         ]
-      },
-      {
-        "id": "climate",
-        "title": "Klimaschutz",
-        "line": "Praktische Lösungen für landwirtschaftliche Familien im Umgang mit Dürren und Überschwemmungen.",
-        "body": "Unsere Kampagnen vermitteln Wasser- und Bodenschutz, klimaintelligente Landwirtschaft, dürreresistentes Saatgut, Agroforstwirtschaft und gemeinschaftliche Baumpflanzungen, Landwiederherstellung und Frühwarnung vor Klimarisiken. Sie fördern auch alltägliche Maßnahmen: Bäume pflanzen, Abfälle bewirtschaften, Wasser und Energie sparen und Buschbrände reduzieren.",
-        "facts": [
-          "2024: 22.034 Menschen erreicht",
-          "2025: 21.208 Menschen erreicht, darunter 1.701 Haushalte"
-        ]
       }
     ],
-    "comingT": "Geplant für 2026 bis 2028",
+    "comingT": "Geplant für 2027 bis 2029",
     "coming": [
       {
         "title": "Nachhaltige Landwirtschaft",
         "text": "Schulungen für Landwirte, dürreresistentes Saatgut, Gemüsegärten, Tröpfchenbewässerung, Kompost und Genossenschaften."
       },
       {
-        "title": "Wiederaufforstung",
+        "title": "Klimaschutz",
         "text": "Baumschulen, Pflanzungen, lebende Hecken, gemeinschaftliche Obstgärten und Aufklärung an Schulen."
       },
       {
@@ -168,7 +156,6 @@
       }
     ]
   },
-
   "impact": {
     "title": "Ergebnisse, die wir vorweisen können",
     "intro": "Zwischen 2023 und 2025 unterstützte SCA innerhalb von zwei Jahren 13.270 Haushalte mit Nahrungsmitteln und führte Aufklärungskampagnen durch, die mehr als 180.000 Menschen erreichten.",
@@ -183,7 +170,12 @@
         "68.740.000",
         "82.037.615"
       ],
-      ["Straßenkinder, die täglich Mahlzeiten erhielten", "_", "130", "198"],
+      [
+        "Straßenkinder, die täglich Mahlzeiten erhielten",
+        "nicht angegeben",
+        "130",
+        "198"
+      ],
       [
         "Menschen, die zu Hygiene und Wasser erreicht wurden",
         "44.054",
@@ -198,18 +190,26 @@
       ],
       [
         "Menschen, die zum Klimaschutz erreicht wurden",
-        "_",
+        "nicht angegeben",
         "22.034",
         "21.208"
-      ],
-      ["Geschulte Gemeindemultiplikatoren", "40", "_", "_"]
+      ]
     ],
     "chartT": "Durch Aufklärungskampagnen erreichte Menschen",
     "chartNote": "Die Zahlen werden pro Kampagne erfasst, sodass manche Menschen mehrfach gezählt werden.",
     "chart": [
-      { "year": "2023", "value": 82179 },
-      { "year": "2024", "value": 22034 },
-      { "year": "2025", "value": 78119 }
+      {
+        "year": "2023",
+        "value": 82179
+      },
+      {
+        "year": "2024",
+        "value": 22034
+      },
+      {
+        "year": "2025",
+        "value": 78119
+      }
     ],
     "valueT": "Wofür die Mittel verwendet werden",
     "value": [
@@ -217,7 +217,7 @@
       "Aufklärungskampagne 2025: etwa 174 FCFA pro erreichter Person.",
       "Mahlzeiten für Straßenkinder 2024: 63,7 % des Budgets werden für den Kauf von Lebensmitteln verwendet."
     ],
-    "goalsT": "Unsere Ziele für 2030",
+    "goalsT": "Unsere Ziele für 2029",
     "goals": [
       ["100.000", "Haushalte mit Nahrungsmittelhilfe"],
       ["1.000.000", "gepflanzte Bäume"],
@@ -242,52 +242,8 @@
         "text": "Die Hygieneschulungen haben uns beigebracht, unsere Kinder besser vor Krankheiten zu schützen.",
         "who": "Begünstigte Person, Maroua"
       }
-    ],
-    "lessonsT": "Was wir gelernt haben",
-    "lessons": [
-      "Die Beteiligung der Gemeinschaft und eine enge Begleitung machen den Unterschied.",
-      "Geschulte Gemeindemultiplikatoren tragen die Botschaften weiter.",
-      "Nahrungsmittelhilfe wirkt am besten in Verbindung mit Gesundheits- und Hygieneaufklärung.",
-      "Die Achtung der lokalen Kultur und ein geschlechtersensibler Ansatz verbessern die Akzeptanz."
-    ],
-    "challengesT": "Unsere Herausforderungen",
-    "challenges": "Logistik und steigende Transportkosten, schwer erreichbare Stadtviertel, knappe Budgets, schlechtes Wetter und geringe Beteiligung einiger Haushalte. Wir reagieren mit einer stärkeren Koordination mit lokalen Behörden, Freiwilligen, besseren Verteilungsplänen und einer besseren Überwachung."
+    ]
   },
-  "where": {
-    "title": "Wo wir arbeiten",
-    "intro": "Wir arbeiten in den Städten Garoua und Maroua sowie in den umliegenden Dörfern und Stadtvierteln. Die meisten Haushalte bauen Mais, Hirse, Sorghum und Erdnüsse an. Ihre wichtigsten Bedürfnisse sind Nahrungsmittel, sicheres Wasser, Gesundheitsversorgung, Schulbildung und Arbeitsplätze.",
-    "cities": [
-      {
-        "city": "Garoua",
-        "region": "Nord",
-        "places": [
-          "Pakete",
-          "Boggare",
-          "Djamboutou",
-          "Wouro Labbo",
-          "Falire",
-          "Nakon",
-          "Kanadi",
-          "Miami"
-        ]
-      },
-      {
-        "city": "Maroua",
-        "region": "Hoher Norden",
-        "places": [
-          "Domayo",
-          "Dougoy",
-          "Congola",
-          "Hardé",
-          "Djaregol",
-          "Wouro Tchede"
-        ]
-      }
-    ],
-    "farmT": "Landwirtschaftliche Standorte",
-    "farm": "Pakete, Pitoa und Wouro Labbo in der Nähe von Garoua. Congola und Djarengol in der Nähe von Maroua."
-  },
-
   "partners": {
     "title": "Partner",
     "intro": "Wir arbeiten Hand in Hand mit den Menschen und Institutionen, die den Problemen am nächsten stehen. Lokale Behörden öffnen Türen, Gemeinschaftsorganisationen setzen die Arbeit um, und technische sowie finanzielle Partner helfen uns zu wachsen.",
@@ -313,7 +269,6 @@
     ],
     "cta": "Partner werden"
   },
-
   "involved": {
     "title": "Mitmachen",
     "intro": "Geld ist eine Möglichkeit zu helfen. Hier sind weitere.",
@@ -340,7 +295,6 @@
       }
     ]
   },
-
   "contact": {
     "title": "Kontaktieren Sie uns",
     "intro": "Schreiben Sie uns zu einer Partnerschaft, freiwilligem Engagement, einer Spende oder einer Frage. Wir antworten innerhalb weniger Werktage.",
@@ -370,17 +324,14 @@
     "hoursL": "Öffnungszeiten",
     "followT": "Folgen Sie uns"
   },
-
   "donate": {
     "title": "Jetzt spenden",
     "intro": "Unterstützen Sie unsere Arbeit mit den Gemeinschaften im Norden Kameruns. Jeder Beitrag macht einen Unterschied.",
     "close": "Spendenfenster schließen",
-
     "howT": "So können Sie spenden",
     "mobile": "Mobile Money",
     "bank": "Banküberweisung",
     "card": "Karte",
-
     "number": "Telefonnummer",
     "holder": "Kontoinhaber",
     "bankName": "Name der Bank",
@@ -388,14 +339,11 @@
     "accountNumber": "Kontonummer",
     "iban": "IBAN",
     "swift": "SWIFT / BIC",
-
     "copy": "Kopieren",
     "copied": "Kopiert",
-
     "cardCta": "Mit Karte spenden",
     "cardSoon": "Kartenzahlungen sind noch nicht verfügbar.",
     "unavailable": "Diese Zahlungsmethode ist noch nicht verfügbar. Kontaktieren Sie uns für weitere Informationen.",
-
     "reference": "Wählen Sie Ihren gewünschten Spendenbetrag und überprüfen Sie die Empfängerdaten, bevor Sie Ihre Spende überweisen.",
     "receipt": "Kontaktieren Sie uns, wenn Sie eine Spendenquittung benötigen.",
     "trust": "Vielen Dank für Ihre Unterstützung von Sahel Climate Action."

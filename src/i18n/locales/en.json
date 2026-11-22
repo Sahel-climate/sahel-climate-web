@@ -15,9 +15,9 @@
     "tagline": "Action Today, Sustainability Tomorrow"
   },
   "hero": {
-    "eyebrow": "Sahel Climate Action · Maroua, Cameroon",
+    "eyebrow": "Sahel Climate Action · Cameroon, Central Africa",
     "title": "Building Sahelian communities resilient to climate change",
-    "sub": "We fight extreme poverty, hunger and the effects of climate change in northern Cameroon through food security, health, hygiene, child protection and reforestation.",
+    "sub": "We fight extreme poverty, hunger and the effects of climate change in northern Cameroon through reforestation, land restoration, gender equity, social safety net programs, involving broadly strengthend food security, health, hygiene, clean water, and child protection.",
     "donate": "Donate now",
     "programmes": "Our programmes",
     "imagePlaceholder": "Our impact in pictures",
@@ -25,19 +25,13 @@
   },
 
   "about": {
-    "title": "A youth association that grew into a climate and poverty organisation",
-    "intro": "Sahel Climate Action (SCA) is a non-profit organisation fighting extreme poverty, the effects of climate change and social inequality in the Sahel, with a focus on Cameroon. We run integrated programmes that help poor households become more resilient while protecting the environment. Communities, local authorities and technical partners shape every project with us.",
+    "title": "A youth organization that grew into NGO focused on climate issues and extreme poverty fighting ",
+    "intro": "Sahel Climate Action (SCA) is a non-profit organisation fighting extreme poverty, the effects of climate change and social inequality in the Sahel, while giving priority to environment protection. we run integrated programmes that strengthen most vulnerable household's resilience to climate change.",
     "visionT": "Vision",
-    "vision": "Resilient, inclusive and prosperous Sahelian communities where everyone can live with dignity, despite climate, economic and social challenges.",
+    "vision": "Resilient, inclusive and prosperous Sahelian communities where everyone can live with dignity, despite climate, economic and social challenges. we praise Sustainable developement driven approach",
     "missionT": "Mission",
     "mission": "To improve the lives of vulnerable people through social protection, food security, gender equality, agroforestry, ecosystem restoration and climate adaptation.",
-    "objectivesT": "What we set out to do",
-    "objectives": [
-      "Strengthen food security for vulnerable households.",
-      "Promote good hygiene practices.",
-      "Reduce water-borne and sanitation-related disease.",
-      "Strengthen community resilience."
-    ],
+
     "valuesT": "Our values",
     "values": [
       "Solidarity",
@@ -49,25 +43,22 @@
       "Innovation",
       "Responsibility",
       "Community participation",
-      "Accountability"
+      "Accountability",
+      "Sustainability"
     ],
     "historyT": "Our history",
     "history": [
       {
-        "date": "2026 to 2028",
-        "text": "Three-year strategic plan covering agriculture, food security, social protection, water, climate, gender, reforestation, waste and local economic development."
-      },
-      {
         "date": "{{renamedDate}}",
-        "text": "The association becomes Sahel Climate Action, a name that reflects the climate work it had carried out for years."
+        "text": "The association denomination turned to Sahel Climate Action, undelying it core objectives in term of climate as wells its related achievements over years."
       },
       {
         "date": "1 February 2012",
-        "text": "Registered as an association in Maroua."
+        "text": "Registered as an association in Maroua, Cameroon, under N°0003/RDA/K22/SAAJP matriculation"
       },
       {
         "date": "13 December 2011",
-        "text": "Founded as the Association des Jeunes pour la Lutte contre la Pauvreté dans l’Extrême-Nord (AJELPEN)."
+        "text": "Founded as the \"Association des Jeunes pour la Lutte contre la Pauvreté dans l’Extrême-Nord (AJELPEN)\"."
       }
     ],
     "howT": "How we work",
@@ -75,7 +66,7 @@
       "Projects start from needs the communities express.",
       "Beneficiaries take an active part and local skills are built up.",
       "Results are tracked with clear indicators and reviewed every year.",
-      "Finances are open, and we answer to the people we serve and to our partners.",
+      "we report to beneficiaries and  partners.",
       "No one is left behind: women, young people, displaced people and people with disabilities are included."
     ],
     "leadersT": "Leadership",
@@ -87,6 +78,16 @@
     "title": "What we do",
     "intro": "Five programmes run today. Pick one to see who it serves and what it has achieved.",
     "items": [
+      {
+        "id": "climate",
+        "title": "Climate action",
+        "line": "Practical ways for farming families to cope with drought and floods.",
+        "body": "Our campaigns teach water and soil conservation, climate-smart farming, drought-resistant seeds, agroforestry and community tree planting, land recovery, and early warning of climate risks. They also encourage everyday actions: planting trees, managing waste, saving water and energy, and fewer bush fires.",
+        "facts": [
+          "2024: 22,034 people reached",
+          "2025: 21,208 people reached, including 1,701 households"
+        ]
+      },
       {
         "id": "food",
         "title": "Food security",
@@ -112,7 +113,7 @@
         "id": "health",
         "title": "Health and awareness",
         "line": "Prevention campaigns that reach tens of thousands of people.",
-        "body": "Through community sessions, radio shows, posters, door-to-door visits and voluntary screening, SCA spreads prevention messages across the North and Far North regions. Forty community relays were trained in 2023 in social-change communication, family hygiene and health-risk monitoring.",
+        "body": "Through community sessions, radio shows, posters, door-to-door visits and voluntary screening, SCA spreads prevention messages across the North and Far North regions. In 2023, we trained in social-change communication, family hygiene and health-risk monitoring.",
         "facts": [
           "2025: 35,265 people on diabetes, cancer, heart disease and environmental illness",
           "2025: 21,646 young people and adults on tobacco and drugs",
@@ -128,26 +129,16 @@
           "5,794 households reached in 2023",
           "44,054 people reached: 21,664 in Garoua, 22,390 in Maroua"
         ]
-      },
-      {
-        "id": "climate",
-        "title": "Climate action",
-        "line": "Practical ways for farming families to cope with drought and floods.",
-        "body": "Our campaigns teach water and soil conservation, climate-smart farming, drought-resistant seeds, agroforestry and community tree planting, land recovery, and early warning of climate risks. They also encourage everyday actions: planting trees, managing waste, saving water and energy, and fewer bush fires.",
-        "facts": [
-          "2024: 22,034 people reached",
-          "2025: 21,208 people reached, including 1,701 households"
-        ]
       }
     ],
-    "comingT": "Coming in 2026 to 2028",
+    "comingT": "Coming in 2027 to 2029",
     "coming": [
       {
         "title": "Sustainable agriculture",
         "text": "Farmer training, drought-resistant seeds, market gardens, drip irrigation, compost and cooperatives."
       },
       {
-        "title": "Reforestation",
+        "title": "Climate action",
         "text": "Tree nurseries, planting, living hedges, community orchards and school awareness."
       },
       {
@@ -186,8 +177,7 @@
       ["Street children given daily meals", "not reported", "130", "198"],
       ["People reached on hygiene and water", "44,054", "_", "_"],
       ["People reached on health prevention", "38,125", "_", "56,911"],
-      ["People reached on climate action", "not reported", "22,034", "21,208"],
-      ["Community relays trained", "40", "_", "_"]
+      ["People reached on climate action", "not reported", "22,034", "21,208"]
     ],
     "chartT": "People reached by awareness campaigns",
     "chartNote": "Counted per campaign, so some people are counted more than once.",
@@ -202,7 +192,7 @@
       "Awareness campaign 2025: about 174 FCFA per person reached.",
       "Street-children meals 2024: 63.7% of the budget buys food."
     ],
-    "goalsT": "Our goals for 2030",
+    "goalsT": "Our goals for 2029",
     "goals": [
       ["100,000", "households assisted with food"],
       ["1,000,000", "trees planted"],
@@ -227,50 +217,7 @@
         "text": "The hygiene sessions taught us to protect our children better against disease.",
         "who": "Beneficiary, Maroua"
       }
-    ],
-    "lessonsT": "What we have learned",
-    "lessons": [
-      "Community involvement and close follow-up make the difference.",
-      "Trained community relays carry the message further.",
-      "Food aid works best together with health and hygiene awareness.",
-      "Respecting local culture and a gender-aware approach improve uptake."
-    ],
-    "challengesT": "What is hard",
-    "challenges": "Logistics and rising transport costs, hard-to-reach neighbourhoods, tight budgets, bad weather and low buy-in from some households. We answer with stronger coordination with local authorities, volunteers, better delivery calendars and better monitoring."
-  },
-  "where": {
-    "title": "Where we work",
-    "intro": "We work in the cities of Garoua and Maroua and the villages and districts around them. Most households farm maize, millet, sorghum and groundnuts. Their main needs are food, safe water, health care, schooling and jobs.",
-    "cities": [
-      {
-        "city": "Garoua",
-        "region": "North",
-        "places": [
-          "Pakete",
-          "Boggare",
-          "Djamboutou",
-          "Wouro Labbo",
-          "Falire",
-          "Nakon",
-          "Kanadi",
-          "Miami"
-        ]
-      },
-      {
-        "city": "Maroua",
-        "region": "Far North",
-        "places": [
-          "Domayo",
-          "Dougoy",
-          "Congola",
-          "Hardé",
-          "Djaregol",
-          "Wouro Tchede"
-        ]
-      }
-    ],
-    "farmT": "Farm sites",
-    "farm": "Pakete, Pitoa and Wouro Labbo near Garoua. Congola and Djarengol near Maroua."
+    ]
   },
 
   "partners": {

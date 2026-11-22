@@ -7,7 +7,7 @@ import Programmes from "./components/programmes/Programmes";
 
 import Impact from "./components/impact/Impact";
 import ImpactMore from "./components/impact/ImpactMore";
-import WhereWeWork from "./components/where-we-work/WhereWeWork";
+// import WhereWeWork from "./components/where-we-work/WhereWeWork";
 
 import Partners from "./components/partners/Partners";
 import Involved from "./components/involved/Involved";
@@ -55,12 +55,11 @@ const App = () => {
         <About />
 
         <Programmes />
+        <ImpactMore />
 
         <Impact />
 
-        <ImpactMore />
-
-        <WhereWeWork />
+        {/* <WhereWeWork /> */}
 
         <Partners onBecomePartner={() => handleContact("partnership")} />
 

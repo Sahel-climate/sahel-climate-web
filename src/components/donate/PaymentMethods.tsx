@@ -22,13 +22,14 @@ const PaymentMethods = ({ content }: PaymentMethodsProps) => {
     label: string;
   }[] = [
     {
-      key: "mobile",
-      label: d.mobile,
-    },
-    {
       key: "bank",
       label: d.bank,
     },
+    {
+      key: "mobile",
+      label: d.mobile,
+    },
+
     {
       key: "card",
       label: d.card,
