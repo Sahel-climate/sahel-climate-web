@@ -1,7 +1,7 @@
 import DonateButton from "../common/DonateButton";
 import { siteConfig } from "../../config/siteConfig";
 
-import logo from "../../assets/logo.jpg";
+import logo from "../../assets/logo1.jpg";
 
 interface FooterBrandProps {
   tagline: string;
