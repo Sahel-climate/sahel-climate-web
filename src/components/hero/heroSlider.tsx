@@ -58,9 +58,9 @@ const HeroSlider = () => {
   return (
     <div
       className="hero-slider relative
-        h-[260px] w-full overflow-hidden
-        rounded-2xl shadow-xl
-        sm:h-[340px] lg:h-[400px]"
+        h-65 w-full overflow-hidden
+        rounded-xl shadow-xl
+        sm:h-85 lg:h-100"
     >
       <Swiper
         key={`${i18n.dir()}-${reducedMotion}`}
