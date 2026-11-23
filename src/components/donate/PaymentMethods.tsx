@@ -15,7 +15,7 @@ const PaymentMethods = ({ content }: PaymentMethodsProps) => {
 
   const cfg = siteConfig.donate;
 
-  const [tab, setTab] = useState<PaymentMethod>("mobile");
+  const [tab, setTab] = useState<PaymentMethod>("bank");
 
   const tabs: {
     key: PaymentMethod;

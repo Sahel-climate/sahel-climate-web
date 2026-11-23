@@ -165,19 +165,19 @@
     "intro": "Between 2023 and 2025 SCA gave food support to 13,270 households in two years and ran awareness campaigns that reached more than 180,000 people.",
     "tableT": "Year by year",
     "cols": ["Result", "2023", "2024", "2025"],
-    "na": "_",
+    "na": "-",
     "rows": [
-      ["Households given cereals and groundnuts", "6,550", "6,720", "_"],
+      ["Households given cereals and groundnuts", "6,550", "6,720", "-"],
       [
         "Food programme budget (FCFA)",
         "63,000,000",
         "68,740,000",
         "82,037,615"
       ],
-      ["Street children given daily meals", "not reported", "130", "198"],
-      ["People reached on hygiene and water", "44,054", "_", "_"],
-      ["People reached on health prevention", "38,125", "_", "56,911"],
-      ["People reached on climate action", "not reported", "22,034", "21,208"]
+      ["Street children given daily meals", "-", "130", "198"],
+      ["People reached on hygiene and water", "44,054", "-", "-"],
+      ["People reached on health prevention", "38,125", "-", "56,911"],
+      ["People reached on climate action", "-", "22,034", "21,208"]
     ],
     "chartT": "People reached by awareness campaigns",
     "chartNote": "Counted per campaign, so some people are counted more than once.",
@@ -219,7 +219,6 @@
       }
     ]
   },
-
   "partners": {
     "title": "Partners",
     "intro": "We work hand in hand with the people and institutions closest to the problem. Local authorities open doors, community organisations carry the work, and technical and financial partners help us grow.",

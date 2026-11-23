@@ -46,7 +46,7 @@ const CopyRow = ({ label, value, copyLabel, copiedLabel }: CopyRowProps) => {
       <div className="min-w-0">
         <p className="font-display text-xs font-bold text-ink/60">{label}</p>
 
-        <p className="break-words font-display text-lg font-bold text-forest-900">
+        <p className="wrap-break-word font-display text-lg font-bold text-forest-900">
           <bdi>{value}</bdi>
         </p>
       </div>

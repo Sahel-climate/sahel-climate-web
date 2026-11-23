@@ -161,34 +161,24 @@
     "intro": "SCA, 2023 ile 2025 arasında iki yıl içinde 13.270 haneye gıda desteği sağladı ve 180.000'den fazla kişiye ulaşan farkındalık kampanyaları yürüttü.",
     "tableT": "Yıllara göre sonuçlar",
     "cols": ["Sonuç", "2023", "2024", "2025"],
-    "na": "_",
+    "na": "-",
     "rows": [
-      ["Tahıl ve yer fıstığı verilen haneler", "6.550", "6.720", "_"],
+      ["Tahıl ve yer fıstığı verilen haneler", "6.550", "6.720", "-"],
       [
         "Gıda programı bütçesi (FCFA)",
         "63.000.000",
         "68.740.000",
         "82.037.615"
       ],
-      [
-        "Günlük yemek verilen sokakta yaşayan çocuklar",
-        "bildirilmedi",
-        "130",
-        "198"
-      ],
-      ["Hijyen ve su konusunda ulaşılan kişiler", "44.054", "_", "_"],
+      ["Günlük yemek verilen sokakta yaşayan çocuklar", "-", "130", "198"],
+      ["Hijyen ve su konusunda ulaşılan kişiler", "44.054", "-", "-"],
       [
         "Sağlık ve hastalıkların önlenmesi konusunda ulaşılan kişiler",
         "38.125",
-        "_",
+        "-",
         "56.911"
       ],
-      [
-        "İklim eylemi konusunda ulaşılan kişiler",
-        "bildirilmedi",
-        "22.034",
-        "21.208"
-      ]
+      ["İklim eylemi konusunda ulaşılan kişiler", "-", "22.034", "21.208"]
     ],
     "chartT": "Farkındalık kampanyalarıyla ulaşılan kişiler",
     "chartNote": "Sayılar kampanya başına hesaplanır, bu nedenle bazı kişiler birden fazla kez sayılır.",

@@ -161,13 +161,13 @@
     "intro": "Entre 2023 e 2025, a SCA prestou apoio alimentar a 13.270 agregados familiares em dois anos e realizou campanhas de sensibilização que alcançaram mais de 180.000 pessoas.",
     "tableT": "Ano a ano",
     "cols": ["Resultado", "2023", "2024", "2025"],
-    "na": "_",
+    "na": "-",
     "rows": [
       [
         "Agregados familiares que receberam cereais e amendoim",
         "6.550",
         "6.720",
-        "_"
+        "-"
       ],
       [
         "Orçamento do programa alimentar (FCFA)",
@@ -177,23 +177,18 @@
       ],
       [
         "Crianças em situação de rua que receberam refeições diárias",
-        "não comunicado",
+        "-",
         "130",
         "198"
       ],
-      ["Pessoas sensibilizadas sobre higiene e água", "44.054", "_", "_"],
+      ["Pessoas sensibilizadas sobre higiene e água", "44.054", "-", "-"],
       [
         "Pessoas sensibilizadas sobre prevenção na saúde",
         "38.125",
-        "_",
+        "-",
         "56.911"
       ],
-      [
-        "Pessoas sensibilizadas sobre ação climática",
-        "não comunicado",
-        "22.034",
-        "21.208"
-      ]
+      ["Pessoas sensibilizadas sobre ação climática", "-", "22.034", "21.208"]
     ],
     "chartT": "Pessoas alcançadas pelas campanhas de sensibilização",
     "chartNote": "Os números são contabilizados por campanha, pelo que algumas pessoas são contadas mais de uma vez.",

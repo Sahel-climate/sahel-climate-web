@@ -161,13 +161,13 @@
     "intro": "Entre 2023 et 2025, SCA a apporté une aide alimentaire à 13 270 ménages en deux ans et mené des campagnes de sensibilisation qui ont touché plus de 180 000 personnes.",
     "tableT": "Année par année",
     "cols": ["Résultat", "2023", "2024", "2025"],
-    "na": "_",
+    "na": "-",
     "rows": [
       [
         "Ménages ayant reçu des céréales et des arachides",
         "6 550",
         "6 720",
-        "_"
+        "-"
       ],
       [
         "Budget du programme alimentaire (FCFA)",
@@ -177,23 +177,18 @@
       ],
       [
         "Enfants en situation de rue recevant des repas quotidiens",
-        "non renseigné",
+        "-",
         "130",
         "198"
       ],
-      ["Personnes sensibilisées à l’hygiène et à l’eau", "44 054", "_", "_"],
+      ["Personnes sensibilisées à l’hygiène et à l’eau", "44 054", "-", "-"],
       [
         "Personnes sensibilisées à la prévention sanitaire",
         "38 125",
-        "_",
+        "-",
         "56 911"
       ],
-      [
-        "Personnes sensibilisées à l’action climatique",
-        "non renseigné",
-        "22 034",
-        "21 208"
-      ]
+      ["Personnes sensibilisées à l’action climatique", "-", "22 034", "21 208"]
     ],
     "chartT": "Personnes touchées par les campagnes de sensibilisation",
     "chartNote": "Les chiffres sont comptabilisés par campagne. Certaines personnes sont donc comptées plusieurs fois.",
