@@ -47,7 +47,7 @@ const FooterBrand = ({ tagline, onDonate }: FooterBrandProps) => {
           <img
             src={logo}
             alt={siteConfig.name}
-            className="block h-auto w-full object-contain"
+            className="block h-auto w-full object-contain rounded-full"
           />
         </div>
 
