@@ -15,9 +15,9 @@
     "tagline": "Action Today, Sustainability Tomorrow"
   },
   "hero": {
-    "eyebrow": "Sahel Climate Action · Cameroon, Central Africa",
+    "eyebrow": "Sahel Climate Action(NGO) · Cameroon, Central Africa",
     "title": "Building Sahelian communities resilient to climate change",
-    "sub": "We fight extreme poverty, hunger and the effects of climate change in northern Cameroon through reforestation, land restoration, gender equity, social safety net programs, involving broadly strengthend food security, health, hygiene, clean water, and child protection.",
+    "sub": "We fight extreme poverty, hunger and the effects of climate change in northern Cameroon through reforestation, land restoration, gender equity, social safety net programs involving broadly strengthened food security, health, hygiene, clean water, and child protection.",
     "donate": "Donate now",
     "programmes": "Our programmes",
     "imagePlaceholder": "Our impact in pictures",
@@ -25,7 +25,7 @@
   },
 
   "about": {
-    "title": "A youth organization that grew into NGO focused on climate issues and extreme poverty fighting ",
+    "title": "A youth organization that grew up  into NGO focused on climate issues and extreme poverty fighting ",
     "intro": "Sahel Climate Action (SCA) is a non-profit organisation fighting extreme poverty, the effects of climate change and social inequality in the Sahel, while giving priority to environment protection. we run integrated programmes that strengthen most vulnerable household's resilience to climate change.",
     "visionT": "Vision",
     "vision": "Resilient, inclusive and prosperous Sahelian communities where everyone can live with dignity, despite climate, economic and social challenges. we praise Sustainable developement driven approach",
@@ -165,19 +165,13 @@
     "intro": "Between 2023 and 2025 SCA gave food support to 13,270 households in two years and ran awareness campaigns that reached more than 180,000 people.",
     "tableT": "Year by year",
     "cols": ["Result", "2023", "2024", "2025"],
-    "na": "-",
+    "na": "_",
     "rows": [
-      ["Households given cereals and groundnuts", "6,550", "6,720", "-"],
-      [
-        "Food programme budget (FCFA)",
-        "63,000,000",
-        "68,740,000",
-        "82,037,615"
-      ],
-      ["Street children given daily meals", "-", "130", "198"],
-      ["People reached on hygiene and water", "44,054", "-", "-"],
-      ["People reached on health prevention", "38,125", "-", "56,911"],
-      ["People reached on climate action", "-", "22,034", "21,208"]
+      ["Households given cereals and groundnuts", "6,550", "6,720", "_"],
+      ["Street children given daily meals", "_", "130", "198"],
+      ["People reached on hygiene and water", "44,054", "_", "_"],
+      ["People reached on health prevention", "38,125", "_", "56,911"],
+      ["People reached on climate action", "_", "22,034", "21,208"]
     ],
     "chartT": "People reached by awareness campaigns",
     "chartNote": "Counted per campaign, so some people are counted more than once.",
@@ -186,12 +180,7 @@
       { "year": "2024", "value": 22034 },
       { "year": "2025", "value": 78119 }
     ],
-    "valueT": "Where the money goes",
-    "value": [
-      "Food programme 2025: 70% production, 15% storage, 15% distribution.",
-      "Awareness campaign 2025: about 174 FCFA per person reached.",
-      "Street-children meals 2024: 63.7% of the budget buys food."
-    ],
+
     "goalsT": "Our goals for 2029",
     "goals": [
       ["100,000", "households assisted with food"],

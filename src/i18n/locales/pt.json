@@ -15,7 +15,7 @@
     "tagline": "Ação hoje, sustentabilidade amanhã"
   },
   "hero": {
-    "eyebrow": "Sahel Climate Action · Camarões, África Central",
+    "eyebrow": "Sahel Climate Action(ONG) · Camarões, África Central",
     "title": "Construir comunidades do Sahel resilientes às alterações climáticas",
     "sub": "Combatemos a pobreza extrema, a fome e os efeitos das alterações climáticas no norte dos Camarões através da reflorestação, recuperação de terras, equidade de género, programas de proteção social e do reforço da segurança alimentar, da saúde, da higiene, do acesso a água potável e da proteção infantil.",
     "donate": "Doe agora",
@@ -156,62 +156,43 @@
       }
     ]
   },
+
   "impact": {
     "title": "Resultados que podemos demonstrar",
     "intro": "Entre 2023 e 2025, a SCA prestou apoio alimentar a 13.270 agregados familiares em dois anos e realizou campanhas de sensibilização que alcançaram mais de 180.000 pessoas.",
     "tableT": "Ano a ano",
     "cols": ["Resultado", "2023", "2024", "2025"],
-    "na": "-",
+    "na": "_",
     "rows": [
       [
         "Agregados familiares que receberam cereais e amendoim",
         "6.550",
         "6.720",
-        "-"
-      ],
-      [
-        "Orçamento do programa alimentar (FCFA)",
-        "63.000.000",
-        "68.740.000",
-        "82.037.615"
+        "_"
       ],
       [
         "Crianças em situação de rua que receberam refeições diárias",
-        "-",
+        "_",
         "130",
         "198"
       ],
-      ["Pessoas sensibilizadas sobre higiene e água", "44.054", "-", "-"],
+      ["Pessoas sensibilizadas sobre higiene e água", "44.054", "_", "_"],
       [
         "Pessoas sensibilizadas sobre prevenção na saúde",
         "38.125",
-        "-",
+        "_",
         "56.911"
       ],
-      ["Pessoas sensibilizadas sobre ação climática", "-", "22.034", "21.208"]
+      ["Pessoas sensibilizadas sobre ação climática", "_", "22.034", "21.208"]
     ],
     "chartT": "Pessoas alcançadas pelas campanhas de sensibilização",
     "chartNote": "Os números são contabilizados por campanha, pelo que algumas pessoas são contadas mais de uma vez.",
     "chart": [
-      {
-        "year": "2023",
-        "value": 82179
-      },
-      {
-        "year": "2024",
-        "value": 22034
-      },
-      {
-        "year": "2025",
-        "value": 78119
-      }
+      { "year": "2023", "value": 82179 },
+      { "year": "2024", "value": 22034 },
+      { "year": "2025", "value": 78119 }
     ],
-    "valueT": "Como os fundos são utilizados",
-    "value": [
-      "Programa alimentar 2025: 70% produção, 15% armazenamento e 15% distribuição.",
-      "Campanha de sensibilização 2025: cerca de 174 FCFA por pessoa alcançada.",
-      "Refeições para crianças em situação de rua 2024: 63,7% do orçamento destina-se à compra de alimentos."
-    ],
+
     "goalsT": "Os nossos objetivos para 2029",
     "goals": [
       ["100.000", "agregados familiares apoiados com alimentos"],

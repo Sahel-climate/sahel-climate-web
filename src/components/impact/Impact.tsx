@@ -51,17 +51,17 @@ const Impact = () => {
             />
 
             {/* Where the money goes */}
-            <h3 className="mt-12 font-display text-xl font-bold text-millet-500">
+            {/* <h3 className="mt-12 font-display text-xl font-bold text-millet-500">
               {impact.valueT}
-            </h3>
+            </h3> */}
 
-            <ul className="mt-4 space-y-3 leading-snug text-paper/90">
+            {/* <ul className="mt-4 space-y-3 leading-snug text-paper/90">
               {impact.value.map((item) => (
                 <li key={item} className="border-s-2 border-leaf-500 ps-4">
                   {item}
                 </li>
               ))}
-            </ul>
+            </ul> */}
           </div>
         </div>
       </Container>

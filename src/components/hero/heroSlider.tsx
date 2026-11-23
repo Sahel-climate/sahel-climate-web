@@ -36,11 +36,11 @@ const HeroSlider = () => {
   if (heroImages.length === 0) {
     return (
       <div
-        className="flex h-[260px] w-full
+        className="flex h-65 w-full
           items-center justify-center
           rounded-2xl border border-white/15
-          bg-white/5 sm:h-[340px]
-          lg:h-[400px]"
+          bg-white/5 sm:h-85
+          lg:h-110"
       >
         <div className="px-6 text-center text-white/60">
           <ImageIcon size={48} strokeWidth={1.2} className="mx-auto mb-4" />

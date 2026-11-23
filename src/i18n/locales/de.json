@@ -15,7 +15,7 @@
     "tagline": "Heute handeln, morgen nachhaltig leben"
   },
   "hero": {
-    "eyebrow": "Sahel Climate Action · Kamerun, Zentralafrika",
+    "eyebrow": "Sahel Climate Action(NGO) · Kamerun, Zentralafrika",
     "title": "Widerstandsfähige Gemeinschaften im Sahel angesichts des Klimawandels aufbauen",
     "sub": "Wir bekämpfen extreme Armut, Hunger und die Folgen des Klimawandels im Norden Kameruns durch Wiederaufforstung, Wiederherstellung von Landflächen, Geschlechtergerechtigkeit, soziale Sicherungsprogramme sowie die Stärkung von Ernährungssicherheit, Gesundheit, Hygiene, sauberem Wasser und Kinderschutz.",
     "donate": "Jetzt spenden",
@@ -156,57 +156,38 @@
       }
     ]
   },
+
   "impact": {
     "title": "Ergebnisse, die wir vorweisen können",
     "intro": "Zwischen 2023 und 2025 unterstützte SCA innerhalb von zwei Jahren 13.270 Haushalte mit Nahrungsmitteln und führte Aufklärungskampagnen durch, die mehr als 180.000 Menschen erreichten.",
     "tableT": "Jahr für Jahr",
     "cols": ["Ergebnis", "2023", "2024", "2025"],
-    "na": "-",
+    "na": "_",
     "rows": [
-      ["Haushalte, die Getreide und Erdnüsse erhielten", "6.550", "6.720", "-"],
-      [
-        "Budget des Ernährungsprogramms (FCFA)",
-        "63.000.000",
-        "68.740.000",
-        "82.037.615"
-      ],
-      ["Straßenkinder, die täglich Mahlzeiten erhielten", "-", "130", "198"],
+      ["Haushalte, die Getreide und Erdnüsse erhielten", "6.550", "6.720", "_"],
+      ["Straßenkinder, die täglich Mahlzeiten erhielten", "_", "130", "198"],
       [
         "Menschen, die zu Hygiene und Wasser erreicht wurden",
         "44.054",
-        "-",
-        "-"
+        "_",
+        "_"
       ],
       [
         "Menschen, die zur Gesundheitsprävention erreicht wurden",
         "38.125",
-        "-",
+        "_",
         "56.911"
       ],
-      ["Menschen, die zum Klimaschutz erreicht wurden", "-", "22.034", "21.208"]
+      ["Menschen, die zum Klimaschutz erreicht wurden", "_", "22.034", "21.208"]
     ],
     "chartT": "Durch Aufklärungskampagnen erreichte Menschen",
     "chartNote": "Die Zahlen werden pro Kampagne erfasst, sodass manche Menschen mehrfach gezählt werden.",
     "chart": [
-      {
-        "year": "2023",
-        "value": 82179
-      },
-      {
-        "year": "2024",
-        "value": 22034
-      },
-      {
-        "year": "2025",
-        "value": 78119
-      }
+      { "year": "2023", "value": 82179 },
+      { "year": "2024", "value": 22034 },
+      { "year": "2025", "value": 78119 }
     ],
-    "valueT": "Wofür die Mittel verwendet werden",
-    "value": [
-      "Ernährungsprogramm 2025: 70 % Produktion, 15 % Lagerung, 15 % Verteilung.",
-      "Aufklärungskampagne 2025: etwa 174 FCFA pro erreichter Person.",
-      "Mahlzeiten für Straßenkinder 2024: 63,7 % des Budgets werden für den Kauf von Lebensmitteln verwendet."
-    ],
+
     "goalsT": "Unsere Ziele für 2029",
     "goals": [
       ["100.000", "Haushalte mit Nahrungsmittelhilfe"],
@@ -229,7 +210,7 @@
         "who": "Begünstigte Person, Garoua"
       },
       {
-        "text": "Die Hygieneschulungen haben uns beigebracht, unsere Kinder besser vor Krankheiten zu schützen.",
+        "text": "Die Hygieneschulungen haben uns beigracht, unsere Kinder besser vor Krankheiten zu schützen.",
         "who": "Begünstigte Person, Maroua"
       }
     ]

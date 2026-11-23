@@ -82,7 +82,7 @@ const Hero = ({ onDonate }: HeroProps) => {
             <a
               href="#programmes"
               className="inline-flex items-center
-                justify-center rounded-full
+                justify-center rounded-full 
                 border border-[#FAF9F4]/40
                 px-7 py-3.5 font-display
                 text-base font-bold text-[#FAF9F4]
@@ -99,7 +99,7 @@ const Hero = ({ onDonate }: HeroProps) => {
         {/* Image slider */}
         <div
           className="mx-auto w-full min-w-0
-            lg:self-start"
+            lg:self-start object-contain "
         >
           <HeroSlider />
         </div>

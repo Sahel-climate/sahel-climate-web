@@ -15,7 +15,7 @@
     "tagline": "Bugün Harekete Geç, Yarını Sürdürülebilir Kıl"
   },
   "hero": {
-    "eyebrow": "Sahel Climate Action · Kamerun, Orta Afrika",
+    "eyebrow": "Sahel Climate Action(STK) · Kamerun, Orta Afrika",
     "title": "İklim değişikliğine dirençli Sahel toplulukları inşa etmek",
     "sub": "Kuzey Kamerun’da aşırı yoksulluk, açlık ve iklim değişikliğinin etkileriyle yeniden ağaçlandırma, arazi restorasyonu, toplumsal cinsiyet eşitliği, sosyal koruma programları ve gıda güvenliği, sağlık, hijyen, temiz su ile çocuk koruma çalışmalarını güçlendirerek mücadele ediyoruz.",
     "donate": "Şimdi bağış yap",
@@ -156,52 +156,33 @@
       }
     ]
   },
+
   "impact": {
     "title": "Ortaya koyduğumuz sonuçlar",
     "intro": "SCA, 2023 ile 2025 arasında iki yıl içinde 13.270 haneye gıda desteği sağladı ve 180.000'den fazla kişiye ulaşan farkındalık kampanyaları yürüttü.",
     "tableT": "Yıllara göre sonuçlar",
     "cols": ["Sonuç", "2023", "2024", "2025"],
-    "na": "-",
+    "na": "_",
     "rows": [
-      ["Tahıl ve yer fıstığı verilen haneler", "6.550", "6.720", "-"],
-      [
-        "Gıda programı bütçesi (FCFA)",
-        "63.000.000",
-        "68.740.000",
-        "82.037.615"
-      ],
-      ["Günlük yemek verilen sokakta yaşayan çocuklar", "-", "130", "198"],
-      ["Hijyen ve su konusunda ulaşılan kişiler", "44.054", "-", "-"],
+      ["Tahıl ve yer fıstığı verilen haneler", "6.550", "6.720", "_"],
+      ["Günlük yemek verilen sokakta yaşayan çocuklar", "_", "130", "198"],
+      ["Hijyen ve su konusunda ulaşılan kişiler", "44.054", "_", "_"],
       [
         "Sağlık ve hastalıkların önlenmesi konusunda ulaşılan kişiler",
         "38.125",
-        "-",
+        "_",
         "56.911"
       ],
-      ["İklim eylemi konusunda ulaşılan kişiler", "-", "22.034", "21.208"]
+      ["İklim eylemi konusunda ulaşılan kişiler", "_", "22.034", "21.208"]
     ],
     "chartT": "Farkındalık kampanyalarıyla ulaşılan kişiler",
     "chartNote": "Sayılar kampanya başına hesaplanır, bu nedenle bazı kişiler birden fazla kez sayılır.",
     "chart": [
-      {
-        "year": "2023",
-        "value": 82179
-      },
-      {
-        "year": "2024",
-        "value": 22034
-      },
-      {
-        "year": "2025",
-        "value": 78119
-      }
+      { "year": "2023", "value": 82179 },
+      { "year": "2024", "value": 22034 },
+      { "year": "2025", "value": 78119 }
     ],
-    "valueT": "Fonlar nasıl kullanılıyor",
-    "value": [
-      "2025 gıda programı: %70 üretim, %15 depolama, %15 dağıtım.",
-      "2025 farkındalık kampanyası: ulaşılan kişi başına yaklaşık 174 FCFA.",
-      "2024 sokakta yaşayan çocuklara yemek programı: bütçenin %63,7'si gıda alımına ayrılıyor."
-    ],
+
     "goalsT": "2029 hedeflerimiz",
     "goals": [
       ["100.000", "gıda desteği alan hane"],
