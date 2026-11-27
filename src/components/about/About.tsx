@@ -4,6 +4,7 @@ import { useTranslation } from "react-i18next";
 import Container from "../common/Container";
 import SectionHeading from "../common/SectionHeading";
 import AboutHistory from "./AboutHistory";
+import { Leaf } from "lucide-react";
 // import AboutLeadership from "./AboutLeadership";
 
 const About = () => {
@@ -14,6 +15,10 @@ const About = () => {
   // }) as string[];
 
   const values = t("about.values", {
+    returnObjects: true,
+  }) as string[];
+
+  const mission = t("about.mission", {
     returnObjects: true,
   }) as string[];
 
@@ -62,8 +67,19 @@ const About = () => {
               {t("about.missionT")}
             </h3>
 
-            <p className="mt-3 max-w-[48ch] font-body text-[1.35rem] leading-snug text-forest-900 sm:text-2xl">
-              {t("about.mission")}
+            <p className="mt-3 max-w-[48ch] font-body text-[1.35rem] leading-snug text-forest-900 sm:text-xl">
+              {mission.map((item) => (
+                <li key={item} className="flex gap-3 mb-4">
+                  <Leaf
+                    size={20}
+                    className="mt-1.5 shrink-0 text-leaf-500"
+                    aria-hidden="true"
+                  />
+
+                  <span>{item}</span>
+                </li>
+              ))}
+              {/* {t("about.mission")} */}
             </p>
           </div>
         </div>

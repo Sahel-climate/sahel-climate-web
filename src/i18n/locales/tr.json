@@ -15,9 +15,9 @@
     "tagline": "Bugün Harekete Geç, Yarını Sürdürülebilir Kıl"
   },
   "hero": {
-    "eyebrow": "Sahel Climate Action(STK) · Kamerun, Orta Afrika",
+    "eyebrow": "Sahel Climate Action · Kamerun, Orta Afrika",
     "title": "İklim değişikliğine dirençli Sahel toplulukları inşa etmek",
-    "sub": "Kuzey Kamerun’da aşırı yoksulluk, açlık ve iklim değişikliğinin etkileriyle yeniden ağaçlandırma, arazi restorasyonu, toplumsal cinsiyet eşitliği, sosyal koruma programları ve gıda güvenliği, sağlık, hijyen, temiz su ile çocuk koruma çalışmalarını güçlendirerek mücadele ediyoruz.",
+    "sub": "Kuzey Kamerun’da aşırı yoksulluk, açlık ve iklim değişikliğinin etkileriyle yeniden ağaçlandırma, arazi restorasyonu, toplumsal cinsiyet hakkaniyeti, sosyal koruma programları ve gıda güvenliği, sağlık, hijyen, temiz su ile çocuk koruma çalışmalarını güçlendirerek mücadele ediyoruz.",
     "donate": "Şimdi bağış yap",
     "programmes": "Programlarımız",
     "imagePlaceholder": "Fotoğraflarla etkimiz",
@@ -29,7 +29,10 @@
     "visionT": "Vizyon",
     "vision": "İklimsel, ekonomik ve sosyal zorluklara rağmen herkesin onurlu bir yaşam sürebildiği dirençli, kapsayıcı ve refah içindeki Sahel toplulukları. Sürdürülebilir kalkınmaya dayalı bir yaklaşımı savunuyoruz.",
     "missionT": "Misyon",
-    "mission": "Sosyal koruma, gıda güvenliği, toplumsal cinsiyet eşitliği, tarımsal ormancılık, ekosistem restorasyonu ve iklim değişikliğine uyum yoluyla savunmasız insanların yaşamlarını iyileştirmek.",
+    "mission": [
+      "Sosyal koruma, gıda güvenliği, toplumsal cinsiyet eşitliği, tarımsal ormancılık, ekosistem restorasyonu ve iklim değişikliğine uyum yoluyla savunmasız insanların yaşamlarını iyileştirmek.",
+      "Sahel’in dünyanın en yoksul bölgelerinden biri olduğu göz önünde bulundurularak, iklim değişikliği karşısında en savunmasız toplumsal grupların dayanıklılığını artırmak."
+    ],
     "valuesT": "Değerlerimiz",
     "values": [
       "Dayanışma",
@@ -156,7 +159,6 @@
       }
     ]
   },
-
   "impact": {
     "title": "Ortaya koyduğumuz sonuçlar",
     "intro": "SCA, 2023 ile 2025 arasında iki yıl içinde 13.270 haneye gıda desteği sağladı ve 180.000'den fazla kişiye ulaşan farkındalık kampanyaları yürüttü.",
@@ -178,11 +180,19 @@
     "chartT": "Farkındalık kampanyalarıyla ulaşılan kişiler",
     "chartNote": "Sayılar kampanya başına hesaplanır, bu nedenle bazı kişiler birden fazla kez sayılır.",
     "chart": [
-      { "year": "2023", "value": 82179 },
-      { "year": "2024", "value": 22034 },
-      { "year": "2025", "value": 78119 }
+      {
+        "year": "2023",
+        "value": 82179
+      },
+      {
+        "year": "2024",
+        "value": 22034
+      },
+      {
+        "year": "2025",
+        "value": 78119
+      }
     ],
-
     "goalsT": "2029 hedeflerimiz",
     "goals": [
       ["100.000", "gıda desteği alan hane"],

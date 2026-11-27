@@ -15,7 +15,7 @@
     "tagline": "Acción hoy, sostenibilidad mañana"
   },
   "hero": {
-    "eyebrow": "Sahel Climate Action(ONG) · Camerún, África Central",
+    "eyebrow": "Sahel Climate Action · Camerún, África Central",
     "title": "Construir comunidades del Sahel resilientes al cambio climático",
     "sub": "Luchamos contra la pobreza extrema, el hambre y los efectos del cambio climático en el norte de Camerún mediante la reforestación, la restauración de tierras, la equidad de género, los programas de protección social y el fortalecimiento de la seguridad alimentaria, la salud, la higiene, el acceso al agua potable y la protección infantil.",
     "donate": "Dona ahora",
@@ -29,7 +29,10 @@
     "visionT": "Visión",
     "vision": "Comunidades del Sahel resilientes, inclusivas y prósperas, donde todas las personas puedan vivir con dignidad a pesar de los desafíos climáticos, económicos y sociales. Promovemos un enfoque basado en el desarrollo sostenible.",
     "missionT": "Misión",
-    "mission": "Mejorar la vida de las personas vulnerables mediante la protección social, la seguridad alimentaria, la igualdad de género, la agroforestería, la restauración de los ecosistemas y la adaptación al cambio climático.",
+    "mission": [
+      "Mejorar la vida de las personas vulnerables mediante la protección social, la seguridad alimentaria, la igualdad de género, la agroforestería, la restauración de los ecosistemas y la adaptación al cambio climático.",
+      "Mejorar la resiliencia de los grupos sociales más vulnerables frente al cambio climático, dado que el Sahel es una de las regiones más pobres del mundo."
+    ],
     "valuesT": "Nuestros valores",
     "values": [
       "Solidaridad",
@@ -156,7 +159,6 @@
       }
     ]
   },
-
   "impact": {
     "title": "Resultados que podemos mostrar",
     "intro": "Entre 2023 y 2025, SCA proporcionó ayuda alimentaria a 13.270 hogares en dos años y realizó campañas de sensibilización que llegaron a más de 180.000 personas.",
@@ -188,11 +190,19 @@
     "chartT": "Personas alcanzadas por las campañas de sensibilización",
     "chartNote": "Las cifras se contabilizan por campaña, por lo que algunas personas se cuentan más de una vez.",
     "chart": [
-      { "year": "2023", "value": 82179 },
-      { "year": "2024", "value": 22034 },
-      { "year": "2025", "value": 78119 }
+      {
+        "year": "2023",
+        "value": 82179
+      },
+      {
+        "year": "2024",
+        "value": 22034
+      },
+      {
+        "year": "2025",
+        "value": 78119
+      }
     ],
-
     "goalsT": "Nuestros objetivos para 2029",
     "goals": [
       ["100.000", "hogares beneficiados con ayuda alimentaria"],

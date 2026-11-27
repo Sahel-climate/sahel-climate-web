@@ -15,7 +15,7 @@
     "tagline": "Action Today, Sustainability Tomorrow"
   },
   "hero": {
-    "eyebrow": "Sahel Climate Action(NGO) · Cameroon, Central Africa",
+    "eyebrow": "Sahel Climate Action · Cameroon, Central Africa",
     "title": "Building Sahelian communities resilient to climate change",
     "sub": "We fight extreme poverty, hunger and the effects of climate change in northern Cameroon through reforestation, land restoration, gender equity, social safety net programs involving broadly strengthened food security, health, hygiene, clean water, and child protection.",
     "donate": "Donate now",
@@ -25,12 +25,15 @@
   },
 
   "about": {
-    "title": "A youth organization that grew up  into NGO focused on climate issues and extreme poverty fighting ",
+    "title": "A youth organization that grew up  into NGO focusing on climate issues and extreme poverty fighting ",
     "intro": "Sahel Climate Action (SCA) is a non-profit organisation fighting extreme poverty, the effects of climate change and social inequality in the Sahel, while giving priority to environment protection. we run integrated programmes that strengthen most vulnerable household's resilience to climate change.",
     "visionT": "Vision",
     "vision": "Resilient, inclusive and prosperous Sahelian communities where everyone can live with dignity, despite climate, economic and social challenges. we praise Sustainable developement driven approach",
     "missionT": "Mission",
-    "mission": "To improve the lives of vulnerable people through social protection, food security, gender equality, agroforestry, ecosystem restoration and climate adaptation.",
+    "mission": [
+      "To improve the lives of vulnerable people through social protection, food security, gender equality, agroforestry, ecosystem restoration and climate adaptation.",
+      "To improve the resilience of the most vulnerable social groups in the context of climate change, given that the Sahel is one of the world's poorest regions."
+    ],
 
     "valuesT": "Our values",
     "values": [

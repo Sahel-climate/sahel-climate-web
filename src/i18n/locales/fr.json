@@ -15,10 +15,10 @@
     "tagline": "Agir aujourd'hui, durer demain"
   },
   "hero": {
-    "eyebrow": "Sahel Climate Action(ONG) · Cameroun, Afrique centrale",
+    "eyebrow": "Sahel Climate Action · Cameroun, Afrique centrale",
     "title": "Construire des communautés sahéliennes résilientes face au changement climatique",
     "sub": "Nous luttons contre l’extrême pauvreté, la faim et les effets du changement climatique dans le nord du Cameroun grâce au reboisement, à la restauration des terres, à l’équité de genre, aux programmes de protection sociale, ainsi qu’au renforcement de la sécurité alimentaire, de la santé, de l’hygiène, de l’accès à l’eau potable et de la protection de l’enfance.",
-    "donate": "Faire un don",
+    "donate": "Faire un don maintenant",
     "programmes": "Nos programmes",
     "imagePlaceholder": "Notre impact en images",
     "imageAlt": "Projet communautaire de Sahel Climate Action"
@@ -29,7 +29,10 @@
     "visionT": "Vision",
     "vision": "Des communautés sahéliennes résilientes, inclusives et prospères, où chacun peut vivre dignement malgré les défis climatiques, économiques et sociaux. Nous privilégions une approche fondée sur le développement durable.",
     "missionT": "Mission",
-    "mission": "Améliorer les conditions de vie des personnes vulnérables grâce à la protection sociale, à la sécurité alimentaire, à l'égalité de genre, à l'agroforesterie, à la restauration des écosystèmes et à l'adaptation au changement climatique.",
+    "mission": [
+      "Améliorer les conditions de vie des personnes vulnérables grâce à la protection sociale, à la sécurité alimentaire, à l'égalité de genre, à l'agroforesterie, à la restauration des écosystèmes et à l'adaptation au changement climatique.",
+      "Renforcer la résilience des groupes sociaux les plus vulnérables face au changement climatique, étant donné que le Sahel est l’une des régions les plus pauvres du monde."
+    ],
     "valuesT": "Nos valeurs",
     "values": [
       "Solidarité",
@@ -156,7 +159,6 @@
       }
     ]
   },
-
   "impact": {
     "title": "Des résultats concrets",
     "intro": "Entre 2023 et 2025, SCA a apporté une aide alimentaire à 13 270 ménages en deux ans et mené des campagnes de sensibilisation qui ont touché plus de 180 000 personnes.",
@@ -188,11 +190,19 @@
     "chartT": "Personnes touchées par les campagnes de sensibilisation",
     "chartNote": "Les chiffres sont comptabilisés par campagne. Certaines personnes sont donc comptées plusieurs fois.",
     "chart": [
-      { "year": "2023", "value": 82179 },
-      { "year": "2024", "value": 22034 },
-      { "year": "2025", "value": 78119 }
+      {
+        "year": "2023",
+        "value": 82179
+      },
+      {
+        "year": "2024",
+        "value": 22034
+      },
+      {
+        "year": "2025",
+        "value": 78119
+      }
     ],
-
     "goalsT": "Nos objectifs pour 2029",
     "goals": [
       ["100 000", "ménages bénéficiant d’une aide alimentaire"],
@@ -239,7 +249,7 @@
     "becomeT": "Travailler avec nous",
     "become": [
       "Financer un programme ou une région.",
-      "Partager votre expertise en agriculture, eau, santé ou suivi-évaluation.",
+      "Partager votre expertise en agriculture, eau, santé ou suivi.",
       "Faire des dons en nature : semences, outils, aliments, kits d’hygiène.",
       "Devenir sponsor en tant qu’entreprise ou organisation communautaire."
     ],

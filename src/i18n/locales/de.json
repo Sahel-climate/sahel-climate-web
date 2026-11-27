@@ -15,7 +15,7 @@
     "tagline": "Heute handeln, morgen nachhaltig leben"
   },
   "hero": {
-    "eyebrow": "Sahel Climate Action(NGO) · Kamerun, Zentralafrika",
+    "eyebrow": "Sahel Climate Action · Kamerun, Zentralafrika",
     "title": "Widerstandsfähige Gemeinschaften im Sahel angesichts des Klimawandels aufbauen",
     "sub": "Wir bekämpfen extreme Armut, Hunger und die Folgen des Klimawandels im Norden Kameruns durch Wiederaufforstung, Wiederherstellung von Landflächen, Geschlechtergerechtigkeit, soziale Sicherungsprogramme sowie die Stärkung von Ernährungssicherheit, Gesundheit, Hygiene, sauberem Wasser und Kinderschutz.",
     "donate": "Jetzt spenden",
@@ -29,7 +29,10 @@
     "visionT": "Vision",
     "vision": "Widerstandsfähige, inklusive und wohlhabende Gemeinschaften im Sahel, in denen alle Menschen trotz klimatischer, wirtschaftlicher und sozialer Herausforderungen in Würde leben können. Wir fördern einen Ansatz, der auf nachhaltiger Entwicklung beruht.",
     "missionT": "Mission",
-    "mission": "Das Leben gefährdeter Menschen durch sozialen Schutz, Ernährungssicherheit, Geschlechtergleichstellung, Agroforstwirtschaft, Wiederherstellung von Ökosystemen und Anpassung an den Klimawandel verbessern.",
+    "mission": [
+      "Das Leben gefährdeter Menschen durch sozialen Schutz, Ernährungssicherheit, Geschlechtergleichstellung, Agroforstwirtschaft, Wiederherstellung von Ökosystemen und Anpassung an den Klimawandel verbessern.",
+      "Die Widerstandsfähigkeit der am stärksten gefährdeten sozialen Gruppen angesichts des Klimawandels stärken, da der Sahel eine der ärmsten Regionen der Welt ist."
+    ],
     "valuesT": "Unsere Werte",
     "values": [
       "Solidarität",
@@ -156,7 +159,6 @@
       }
     ]
   },
-
   "impact": {
     "title": "Ergebnisse, die wir vorweisen können",
     "intro": "Zwischen 2023 und 2025 unterstützte SCA innerhalb von zwei Jahren 13.270 Haushalte mit Nahrungsmitteln und führte Aufklärungskampagnen durch, die mehr als 180.000 Menschen erreichten.",
@@ -183,11 +185,19 @@
     "chartT": "Durch Aufklärungskampagnen erreichte Menschen",
     "chartNote": "Die Zahlen werden pro Kampagne erfasst, sodass manche Menschen mehrfach gezählt werden.",
     "chart": [
-      { "year": "2023", "value": 82179 },
-      { "year": "2024", "value": 22034 },
-      { "year": "2025", "value": 78119 }
+      {
+        "year": "2023",
+        "value": 82179
+      },
+      {
+        "year": "2024",
+        "value": 22034
+      },
+      {
+        "year": "2025",
+        "value": 78119
+      }
     ],
-
     "goalsT": "Unsere Ziele für 2029",
     "goals": [
       ["100.000", "Haushalte mit Nahrungsmittelhilfe"],
