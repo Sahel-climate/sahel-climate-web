@@ -8,6 +8,7 @@ import LanguageSwitcher from "./LanguageSwitcher";
 
 import { navigationLinks } from "./data/navigation";
 import { siteConfig } from "../../config/siteConfig";
+import TopBar from "./TopBar";
 
 import logo from "../../assets/logo.jpg";
 
@@ -47,6 +48,7 @@ const Navbar = ({ onDonate }: NavbarProps) => {
         border-b border-[#123D24]/10
         bg-[#FAF9F4]/95 backdrop-blur"
     >
+      <TopBar />
       <Container
         className="flex h-16 items-center
     gap-4 sm:h-18

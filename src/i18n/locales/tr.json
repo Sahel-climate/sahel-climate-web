@@ -1,4 +1,10 @@
 {
+  "topbar": {
+    "ngo": "STK Sahel Climate Action",
+    "place": "Kamerun, Orta Afrika",
+    "regions": "Kuzey ve Uzak Kuzey"
+  },
+
   "nav": {
     "home": "Ana Sayfa",
     "about": "Hakkımızda",

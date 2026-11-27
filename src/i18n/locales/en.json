@@ -1,4 +1,10 @@
 {
+  "topbar": {
+    "ngo": "NGO Sahel Climate Action",
+    "place": "Cameroon, Central Africa",
+    "regions": "North & Far North"
+  },
+
   "nav": {
     "home": "Home",
     "about": "About",
