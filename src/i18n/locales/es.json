@@ -4,7 +4,6 @@
     "place": "Camerún, África Central",
     "regions": "Norte y Extremo Norte"
   },
-
   "nav": {
     "home": "Inicio",
     "about": "Nosotros",
@@ -57,7 +56,7 @@
     "history": [
       {
         "date": "{{renamedDate}}",
-        "text": "La asociación adopta el nombre de Sahel Climate Action, destacando sus objetivos fundamentales en materia climática y sus logros a lo largo de los años."
+        "text": "La asociación adopta el nombre de Sahel Climate Action, destacando sus objetivos fundamentales en materia climática y los logros alcanzados en este ámbito a lo largo de los años."
       },
       {
         "date": "1 de febrero de 2012",
@@ -98,7 +97,7 @@
         "id": "food",
         "title": "Seguridad alimentaria",
         "line": "Cereales cultivados, almacenados y revendidos a precio de coste.",
-        "body": "Cada año, SCA cultiva maíz, mijo, sorgo, arroz y cacahuetes en tierras agrícolas alrededor de Pakete, Pitoa y Wouro Labbo (Garoua), y Congola y Djarengol (Maroua). La cosecha se almacena y luego se vende a precio de coste, sin margen de beneficio, durante el periodo de escasez de junio a septiembre, cuando se agotan las reservas y suben los precios. Parte de los ingresos financia nuestras actividades de sensibilización y protección infantil. Las mujeres y las jóvenes participan en la producción, el almacenamiento y la distribución.",
+        "body": "Cada año, SCA cultiva maíz, mijo, sorgo, arroz y cacahuetes en tierras agrícolas. La cosecha se almacena y luego se vende a precio de coste, sin margen de beneficio, durante el periodo de escasez de junio a septiembre, cuando se agotan las reservas y suben los precios. Parte de los ingresos financia nuestras actividades de sensibilización y protección infantil. Las mujeres y las jóvenes participan en la producción, el almacenamiento y la distribución.",
         "facts": [
           "6.550 hogares en 2023",
           "6.720 hogares en 2024",
@@ -133,19 +132,19 @@
         "body": "En 2023, SCA organizó sesiones de higiene en barrios de bajos ingresos de Garoua y Maroua sobre el lavado de manos, el uso de jabón, el tratamiento del agua, la gestión de residuos, el mantenimiento de letrinas y la prevención del cólera. Las próximas actividades previstas son la construcción de letrinas y la rehabilitación de puntos de agua.",
         "facts": [
           "5.794 hogares alcanzados en 2023",
-          "44.054 personas alcanzadas: 21.664 en Garoua y 22.390 en Maroua"
+          "44.054 personas alcanzadas"
         ]
       }
     ],
-    "comingT": "Próximamente, de 2027 a 2029",
+    "comingT": "Próximamente, de 2027 a 2030",
     "coming": [
+      {
+        "title": "Acción climática",
+        "text": "Viveros de árboles, plantación de árboles, setos vivos, huertos frutales comunitarios y sensibilización escolar, así como actividades de sensibilización y educación, en consonancia con nuestros objetivos climáticos para 2030."
+      },
       {
         "title": "Agricultura sostenible",
         "text": "Formación de agricultores, semillas resistentes a la sequía, huertos, riego por goteo, compost y cooperativas."
-      },
-      {
-        "title": "Acción climática",
-        "text": "Viveros de árboles, plantación, setos vivos, huertos frutales comunitarios y sensibilización escolar."
       },
       {
         "title": "Equidad de género",
@@ -196,32 +195,23 @@
     "chartT": "Personas alcanzadas por las campañas de sensibilización",
     "chartNote": "Las cifras se contabilizan por campaña, por lo que algunas personas se cuentan más de una vez.",
     "chart": [
-      {
-        "year": "2023",
-        "value": 82179
-      },
-      {
-        "year": "2024",
-        "value": 22034
-      },
-      {
-        "year": "2025",
-        "value": 78119
-      }
+      { "year": "2023", "value": 82179 },
+      { "year": "2024", "value": 22034 },
+      { "year": "2025", "value": 78119 }
     ],
-    "goalsT": "Nuestros objetivos para 2029",
+    "goalsT": "Nuestros objetivos estratégicos de aquí a 2030",
     "goals": [
-      ["100.000", "hogares beneficiados con ayuda alimentaria"],
-      ["1.000.000", "árboles plantados"],
-      ["15.000", "hectáreas restauradas"],
-      ["12.000", "agricultores formados"],
-      ["15.000", "mujeres apoyadas"],
-      ["15.000", "niños protegidos"],
-      ["15.000", "niños con desnutrición tratados"],
+      ["100.000", "hogares que reciben ayuda alimentaria"],
+      ["3.000.000", "árboles plantados"],
+      ["15.000", "hectáreas de tierras restauradas"],
+      ["12.000", "agricultores que se benefician de la formación"],
+      ["15.000", "mujeres que reciben apoyo"],
+      ["15.000", "niños que se benefician de servicios de protección"],
+      ["15.000", "niños con desnutrición que reciben tratamiento"],
       ["6.000", "jóvenes acompañados hacia el empleo"],
-      ["5.000", "personas mayores asistidas"],
-      ["2.500", "letrinas construidas"],
-      ["300", "aldeas sensibilizadas sobre el clima"],
+      ["5.000", "personas mayores que reciben asistencia"],
+      ["5.000", "letrinas construidas"],
+      ["300", "aldeas alcanzadas por campañas de sensibilización climática"],
       ["250", "pozos perforados"]
     ],
     "quotesT": "En sus propias palabras",

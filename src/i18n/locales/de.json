@@ -4,7 +4,6 @@
     "place": "Kamerun, Zentralafrika",
     "regions": "Nord und Hoher Norden"
   },
-
   "nav": {
     "home": "Startseite",
     "about": "Über uns",
@@ -57,7 +56,7 @@
     "history": [
       {
         "date": "{{renamedDate}}",
-        "text": "Der Verein nimmt den Namen Sahel Climate Action an und unterstreicht damit seine zentralen Klimaziele und die im Laufe der Jahre erzielten Erfolge."
+        "text": "Der Verein nimmt den Namen Sahel Climate Action an und unterstreicht damit seine zentralen Klimaziele sowie die in diesem Bereich im Laufe der Jahre erzielten Erfolge."
       },
       {
         "date": "1. Februar 2012",
@@ -98,7 +97,7 @@
         "id": "food",
         "title": "Ernährungssicherheit",
         "line": "Getreide wird angebaut, gelagert und zum Selbstkostenpreis weiterverkauft.",
-        "body": "Jedes Jahr baut SCA Mais, Hirse, Sorghum, Reis und Erdnüsse auf landwirtschaftlichen Flächen rund um Pakete, Pitoa und Wouro Labbo (Garoua) sowie Congola und Djarengol (Maroua) an. Die Ernte wird gelagert und während der Hungerperiode von Juni bis September, wenn die Vorräte zur Neige gehen und die Preise steigen, ohne Gewinnmarge zum Selbstkostenpreis verkauft. Ein Teil der Einnahmen finanziert unsere Aufklärungs- und Kinderschutzarbeit. Frauen und junge Mädchen beteiligen sich an der Produktion, Lagerung und Verteilung.",
+        "body": "Jedes Jahr baut SCA Mais, Hirse, Sorghum, Reis und Erdnüsse auf landwirtschaftlichen Flächen an. Die Ernte wird gelagert und während der Hungerperiode von Juni bis September, wenn die Vorräte zur Neige gehen und die Preise steigen, ohne Gewinnmarge zum Selbstkostenpreis verkauft. Ein Teil der Einnahmen finanziert unsere Aufklärungs- und Kinderschutzarbeit. Frauen und junge Mädchen beteiligen sich an der Produktion, Lagerung und Verteilung.",
         "facts": [
           "6.550 Haushalte im Jahr 2023",
           "6.720 Haushalte im Jahr 2024",
@@ -133,19 +132,19 @@
         "body": "Im Jahr 2023 führte SCA in einkommensschwachen Stadtvierteln von Garoua und Maroua Hygieneschulungen zu Händewaschen, Seifennutzung, Wasseraufbereitung, Abfallmanagement, Latrinenpflege und Choleraprävention durch. Als Nächstes sind der Bau von Latrinen und die Sanierung von Wasserstellen geplant.",
         "facts": [
           "5.794 Haushalte im Jahr 2023 erreicht",
-          "44.054 Menschen erreicht: 21.664 in Garoua, 22.390 in Maroua"
+          "44.054 Menschen erreicht"
         ]
       }
     ],
-    "comingT": "Geplant für 2027 bis 2029",
+    "comingT": "Geplant für 2027 bis 2030",
     "coming": [
+      {
+        "title": "Klimaschutz",
+        "text": "Baumschulen, Baumpflanzungen, lebende Hecken, gemeinschaftliche Obstgärten und Aufklärung an Schulen sowie weitere Sensibilisierungs- und Bildungsmaßnahmen im Einklang mit unseren Klimazielen bis 2030."
+      },
       {
         "title": "Nachhaltige Landwirtschaft",
         "text": "Schulungen für Landwirte, dürreresistentes Saatgut, Gemüsegärten, Tröpfchenbewässerung, Kompost und Genossenschaften."
-      },
-      {
-        "title": "Klimaschutz",
-        "text": "Baumschulen, Pflanzungen, lebende Hecken, gemeinschaftliche Obstgärten und Aufklärung an Schulen."
       },
       {
         "title": "Geschlechtergerechtigkeit",
@@ -161,7 +160,7 @@
       },
       {
         "title": "Erweiterter Sozialschutz",
-        "text": "Schulmaterialien, Patenschaften für schutzbedürftige Kinder und Unterstützung für alleinstehende ältere Menschen."
+        "text": "Schulmaterialien, Patenschaften für schutzbedürftige Kinder und Unterstützung für ältere Menschen, die in sozialer Isolation leben."
       }
     ]
   },
@@ -191,32 +190,26 @@
     "chartT": "Durch Aufklärungskampagnen erreichte Menschen",
     "chartNote": "Die Zahlen werden pro Kampagne erfasst, sodass manche Menschen mehrfach gezählt werden.",
     "chart": [
-      {
-        "year": "2023",
-        "value": 82179
-      },
-      {
-        "year": "2024",
-        "value": 22034
-      },
-      {
-        "year": "2025",
-        "value": 78119
-      }
+      { "year": "2023", "value": 82179 },
+      { "year": "2024", "value": 22034 },
+      { "year": "2025", "value": 78119 }
     ],
-    "goalsT": "Unsere Ziele für 2029",
+    "goalsT": "Unsere strategischen Ziele bis 2030",
     "goals": [
       ["100.000", "Haushalte mit Nahrungsmittelhilfe"],
-      ["1.000.000", "gepflanzte Bäume"],
-      ["15.000", "wiederhergestellte Hektar"],
-      ["12.000", "geschulte Landwirte"],
-      ["15.000", "unterstützte Frauen"],
-      ["15.000", "geschützte Kinder"],
-      ["15.000", "behandelte mangelernährte Kinder"],
-      ["6.000", "beim Berufseinstieg unterstützte junge Menschen"],
-      ["5.000", "unterstützte ältere Menschen"],
-      ["2.500", "gebaute Latrinen"],
-      ["300", "zum Klima sensibilisierte Dörfer"],
+      ["3.000.000", "gepflanzte Bäume"],
+      ["15.000", "Hektar wiederhergestellter Landflächen"],
+      ["12.000", "Landwirte, die von Schulungen profitieren"],
+      ["15.000", "Frauen, die Unterstützung erhalten"],
+      ["15.000", "Kinder, die von Kinderschutzmaßnahmen profitieren"],
+      ["15.000", "mangelernährte Kinder, die eine Behandlung erhalten"],
+      [
+        "6.000",
+        "junge Menschen, die auf dem Weg in die Arbeitswelt unterstützt werden"
+      ],
+      ["5.000", "ältere Menschen, die Unterstützung erhalten"],
+      ["5.000", "gebaute Latrinen"],
+      ["300", "durch Klimaaufklärungskampagnen erreichte Dörfer"],
       ["250", "gebohrte Brunnen"]
     ],
     "quotesT": "In ihren eigenen Worten",
@@ -226,7 +219,7 @@
         "who": "Begünstigte Person, Garoua"
       },
       {
-        "text": "Die Hygieneschulungen haben uns beigracht, unsere Kinder besser vor Krankheiten zu schützen.",
+        "text": "Die Hygieneschulungen haben uns beigebracht, unsere Kinder besser vor Krankheiten zu schützen.",
         "who": "Begünstigte Person, Maroua"
       }
     ]

@@ -4,7 +4,6 @@
     "place": "Kamerun, Orta Afrika",
     "regions": "Kuzey ve Uzak Kuzey"
   },
-
   "nav": {
     "home": "Ana Sayfa",
     "about": "Hakkımızda",
@@ -57,7 +56,7 @@
     "history": [
       {
         "date": "{{renamedDate}}",
-        "text": "Dernek, iklim alanındaki temel hedeflerini ve yıllar içinde elde ettiği başarıları vurgulamak için Sahel Climate Action adını aldı."
+        "text": "Dernek, iklim alanındaki temel hedeflerini ve bu alanda yıllar içinde elde ettiği başarıları vurgulamak için Sahel Climate Action adını aldı."
       },
       {
         "date": "1 Şubat 2012",
@@ -98,7 +97,7 @@
         "id": "food",
         "title": "Gıda güvenliği",
         "line": "Tahıllar yetiştirilir, depolanır ve maliyet fiyatına satılır.",
-        "body": "SCA her yıl Pakete, Pitoa ve Wouro Labbo (Garoua) ile Congola ve Djarengol (Maroua) çevresindeki tarım arazilerinde mısır, darı, sorgum, pirinç ve yer fıstığı yetiştirir. Hasat depolanır ve stokların tükendiği, fiyatların yükseldiği haziran-eylül arasındaki kıtlık döneminde kâr marjı olmadan maliyet fiyatına satılır. Gelirin bir kısmı farkındalık ve çocuk koruma çalışmalarımızı finanse eder. Kadınlar ve genç kızlar üretim, depolama ve dağıtıma katılır.",
+        "body": "SCA her yıl tarım arazilerinde mısır, darı, sorgum, pirinç ve yer fıstığı yetiştirir. Hasat depolanır ve stokların tükendiği, fiyatların yükseldiği haziran-eylül arasındaki kıtlık döneminde kâr marjı olmadan maliyet fiyatına satılır. Gelirin bir kısmı farkındalık ve çocuk koruma çalışmalarımızı finanse eder. Kadınlar ve genç kızlar üretim, depolama ve dağıtıma katılır.",
         "facts": [
           "2023 yılında 6.550 hane",
           "2024 yılında 6.720 hane",
@@ -133,22 +132,22 @@
         "body": "2023 yılında SCA, Garoua ve Maroua'nın düşük gelirli mahallelerinde el yıkama, sabun kullanımı, su arıtma, atık yönetimi, tuvalet bakımı ve koleranın önlenmesi konularında hijyen eğitimleri düzenledi. Bir sonraki aşamada tuvaletlerin inşası ve su noktalarının iyileştirilmesi planlanıyor.",
         "facts": [
           "2023 yılında 5.794 haneye ulaşıldı",
-          "44.054 kişiye ulaşıldı: Garoua'da 21.664, Maroua'da 22.390"
+          "44.054 kişiye ulaşıldı"
         ]
       }
     ],
-    "comingT": "2027–2029 döneminde başlayacak programlar",
+    "comingT": "2027–2030 döneminde başlayacak programlar",
     "coming": [
+      {
+        "title": "İklim eylemi",
+        "text": "Fidanlıklar, ağaç dikimi, canlı çitler, topluluk meyve bahçeleri ve okullarda farkındalık çalışmalarının yanı sıra, 2030 iklim hedeflerimiz doğrultusunda bilinçlendirme ve eğitim faaliyetleri."
+      },
       {
         "title": "Sürdürülebilir tarım",
         "text": "Çiftçi eğitimi, kuraklığa dayanıklı tohumlar, sebze bahçeleri, damla sulama, kompost ve kooperatifler."
       },
       {
-        "title": "İklim eylemi",
-        "text": "Fidanlıklar, ağaç dikimi, canlı çitler, topluluk meyve bahçeleri ve okullarda farkındalık."
-      },
-      {
-        "title": "Toplumsal cinsiyet eşitliği",
+        "title": "Toplumsal cinsiyet hakkaniyeti",
         "text": "Kadın liderliği ve kooperatifleri, girişimcilik eğitimi ve krediye erişim."
       },
       {
@@ -160,8 +159,8 @@
         "text": "Mesleki eğitim, mikrofinans, kırsal işletmeler ve genç girişimciliği."
       },
       {
-        "title": "Daha geniş sosyal koruma",
-        "text": "Okul malzemeleri, savunmasız çocuklara sponsorluk ve yalnız yaşayan yaşlılara destek."
+        "title": "Genişletilmiş sosyal koruma",
+        "text": "Okul malzemeleri, savunmasız çocuklara sponsorluk ve sosyal izolasyon yaşayan yaşlılara destek."
       }
     ]
   },
@@ -199,19 +198,19 @@
         "value": 78119
       }
     ],
-    "goalsT": "2029 hedeflerimiz",
+    "goalsT": "2030 yılına kadar ulaşmayı hedeflediğimiz stratejik hedefler",
     "goals": [
       ["100.000", "gıda desteği alan hane"],
-      ["1.000.000", "dikilen ağaç"],
-      ["15.000", "restore edilen hektar"],
-      ["12.000", "eğitilen çiftçi"],
-      ["15.000", "desteklenen kadın"],
-      ["15.000", "koruma altına alınan çocuk"],
-      ["15.000", "yetersiz beslenme nedeniyle tedavi edilen çocuk"],
+      ["3.000.000", "dikilen ağaç"],
+      ["15.000", "hektar restore edilen arazi"],
+      ["12.000", "eğitimden yararlanan çiftçi"],
+      ["15.000", "destek alan kadın"],
+      ["15.000", "koruma hizmetlerinden yararlanan çocuk"],
+      ["15.000", "yetersiz beslenme nedeniyle tedavi gören çocuk"],
       ["6.000", "istihdama geçişte desteklenen genç"],
-      ["5.000", "yardım sağlanan yaşlı"],
-      ["2.500", "inşa edilen tuvalet"],
-      ["300", "iklim konusunda bilinçlendirilen köy"],
+      ["5.000", "yardım alan yaşlı"],
+      ["5.000", "inşa edilen tuvalet"],
+      ["300", "iklim farkındalığı kampanyalarıyla ulaşılan köy"],
       ["250", "açılan sondaj kuyusu"]
     ],
     "quotesT": "Kendi sözleriyle",

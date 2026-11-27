@@ -32,7 +32,7 @@
 
   "about": {
     "title": "A youth organization that grew up  into NGO focusing on climate issues and extreme poverty fighting ",
-    "intro": "Sahel Climate Action (SCA) is a non-profit organisation fighting extreme poverty, the effects of climate change and social inequality in the Sahel, while giving priority to environment protection. we run integrated programmes that strengthen most vulnerable household's resilience to climate change.",
+    "intro": "Sahel Climate Action (SCA) is a non-profit organisation fighting extreme poverty, the effects of climate change and social inequality in the Sahel, while giving priority to environment protection. we run integrated programmes that strengthen most vulnerable households resilience to climate change.",
     "visionT": "Vision",
     "vision": "Resilient, inclusive and prosperous Sahelian communities where everyone can live with dignity, despite climate, economic and social challenges. we praise Sustainable developement driven approach",
     "missionT": "Mission",
@@ -59,7 +59,7 @@
     "history": [
       {
         "date": "{{renamedDate}}",
-        "text": "The association denomination turned to Sahel Climate Action, undelying it core objectives in term of climate as wells its related achievements over years."
+        "text": "The association denomination turned to Sahel Climate Action, undelying it core objectives in term of climate as wells as its related achievements over years."
       },
       {
         "date": "1 February 2012",
@@ -101,7 +101,7 @@
         "id": "food",
         "title": "Food security",
         "line": "Grain grown, stored and resold at cost.",
-        "body": "Each year SCA grows maize, millet, sorghum, rice and groundnuts on farmland around Pakete, Pitoa and Wouro Labbo (Garoua) and Congola and Djarengol (Maroua). The harvest is stored, then sold at cost price, with no profit margin, during the June to September lean season when stocks run out and prices climb. Part of the proceeds funds our awareness and child-protection work. Women and young girls take part in production, storage and distribution.",
+        "body": "Each year SCA grows maize, millet, sorghum, rice and groundnuts on farmlands. The harvest is stored, then sold at cost price, with no profit margin, during the June to September lean season when stocks run out and prices climb. Part of the proceeds funds our awareness and child-protection work. Women and young girls take part in production, storage and distribution.",
         "facts": [
           "6,550 households in 2023",
           "6,720 households in 2024",
@@ -134,22 +134,20 @@
         "title": "Water, hygiene and sanitation",
         "line": "Clean hands, safe water, fewer disease outbreaks.",
         "body": "In 2023 SCA held hygiene sessions in low-income districts of Garoua and Maroua on handwashing, soap use, water treatment, waste management, latrine upkeep and cholera prevention. Building latrines and rehabilitating water points are planned next.",
-        "facts": [
-          "5,794 households reached in 2023",
-          "44,054 people reached: 21,664 in Garoua, 22,390 in Maroua"
-        ]
+        "facts": ["5,794 households reached in 2023", "44,054 people reached"]
       }
     ],
-    "comingT": "Coming in 2027 to 2029",
+    "comingT": "Coming in 2027 to 2030",
     "coming": [
+      {
+        "title": "Climate action",
+        "text": "Tree nurseries, planting, living hedges, community orchards and school awareness. sensitization, education, synchronize with the part of our 2030 goals."
+      },
       {
         "title": "Sustainable agriculture",
         "text": "Farmer training, drought-resistant seeds, market gardens, drip irrigation, compost and cooperatives."
       },
-      {
-        "title": "Climate action",
-        "text": "Tree nurseries, planting, living hedges, community orchards and school awareness."
-      },
+
       {
         "title": "Gender equity",
         "text": "Women’s leadership and cooperatives, entrepreneurship training, access to credit."
@@ -190,19 +188,19 @@
       { "year": "2025", "value": 78119 }
     ],
 
-    "goalsT": "Our goals for 2029",
+    "goalsT": "Our strategic targets by 2030",
     "goals": [
-      ["100,000", "households assisted with food"],
-      ["1,000,000", "trees planted"],
-      ["15,000", "hectares restored"],
-      ["12,000", "farmers trained"],
-      ["15,000", "women supported"],
-      ["15,000", "children protected"],
-      ["15,000", "malnourished children treated"],
-      ["6,000", "young people accompanied into work"],
-      ["5,000", "elderly people assisted"],
-      ["2,500", "latrines built"],
-      ["300", "villages sensitised on climate"],
+      ["100,000", "households receiving food assistance"],
+      ["3,000,000", "trees planted"],
+      ["15,000", "hectares of restored land"],
+      ["12,000", "farmers benefiting from training"],
+      ["15,000", "women receiving support"],
+      ["15,000", "children benefiting from protection services"],
+      ["15,000", "malnourished children receiving treatment"],
+      ["6,000", "young people supported towards employment"],
+      ["5,000", "elderly people receiving assistance"],
+      ["5,000", "latrines constructed"],
+      ["300", "villages reached through climate awareness campaigns"],
       ["250", "boreholes drilled"]
     ],
     "quotesT": "In their words",

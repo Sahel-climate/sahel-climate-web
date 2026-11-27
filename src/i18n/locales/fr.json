@@ -4,7 +4,6 @@
     "place": "Cameroun, Afrique centrale",
     "regions": "Nord et Extrême-Nord"
   },
-
   "nav": {
     "home": "Accueil",
     "about": "À propos",
@@ -57,7 +56,7 @@
     "history": [
       {
         "date": "{{renamedDate}}",
-        "text": "L’association prend le nom de Sahel Climate Action, mettant en avant ses objectifs fondamentaux en matière de climat ainsi que ses réalisations au fil des années."
+        "text": "L’association prend le nom de Sahel Climate Action, mettant en avant ses objectifs fondamentaux en matière de climat ainsi que ses réalisations dans ce domaine au fil des années."
       },
       {
         "date": "1er février 2012",
@@ -98,7 +97,7 @@
         "id": "food",
         "title": "Sécurité alimentaire",
         "line": "Des céréales cultivées, stockées et revendues au prix coûtant.",
-        "body": "Chaque année, SCA cultive du maïs, du mil, du sorgho, du riz et des arachides sur des terres agricoles autour de Pakete, Pitoa et Wouro Labbo (Garoua), ainsi que de Congola et Djarengol (Maroua). Les récoltes sont stockées, puis vendues au prix coûtant, sans marge bénéficiaire, pendant la période de soudure de juin à septembre, lorsque les stocks s’épuisent et que les prix augmentent. Une partie des recettes finance nos activités de sensibilisation et de protection de l’enfance. Les femmes et les jeunes filles participent à la production, au stockage et à la distribution.",
+        "body": "Chaque année, SCA cultive du maïs, du mil, du sorgho, du riz et des arachides sur des terres agricoles. Les récoltes sont stockées, puis vendues au prix coûtant, sans marge bénéficiaire, pendant la période de soudure de juin à septembre, lorsque les stocks s’épuisent et que les prix augmentent. Une partie des recettes finance nos activités de sensibilisation et de protection de l’enfance. Les femmes et les jeunes filles participent à la production, au stockage et à la distribution.",
         "facts": [
           "6 550 ménages en 2023",
           "6 720 ménages en 2024",
@@ -131,21 +130,18 @@
         "title": "Eau, hygiène et assainissement",
         "line": "Des mains propres, une eau potable et moins d’épidémies.",
         "body": "En 2023, SCA a organisé des séances d’hygiène dans les quartiers à faibles revenus de Garoua et de Maroua sur le lavage des mains, l’utilisation du savon, le traitement de l’eau, la gestion des déchets, l’entretien des latrines et la prévention du choléra. La construction de latrines et la réhabilitation des points d’eau sont les prochaines activités prévues.",
-        "facts": [
-          "5 794 ménages touchés en 2023",
-          "44 054 personnes touchées : 21 664 à Garoua, 22 390 à Maroua"
-        ]
+        "facts": ["5 794 ménages touchés en 2023", "44 054 personnes touchées"]
       }
     ],
-    "comingT": "À venir de 2027 à 2029",
+    "comingT": "À venir de 2027 à 2030",
     "coming": [
+      {
+        "title": "Action climatique",
+        "text": "Pépinières, plantations, haies vives, vergers communautaires, sensibilisation en milieu scolaire, sensibilisation et éducation, en cohérence avec les objectifs climatiques que nous nous sommes fixés pour 2030."
+      },
       {
         "title": "Agriculture durable",
         "text": "Formation des agriculteurs, semences résistantes à la sécheresse, cultures maraîchères, irrigation goutte-à-goutte, compost et coopératives."
-      },
-      {
-        "title": "Action climatique",
-        "text": "Pépinières, plantations, haies vives, vergers communautaires et sensibilisation en milieu scolaire."
       },
       {
         "title": "Équité de genre",
@@ -196,32 +192,26 @@
     "chartT": "Personnes touchées par les campagnes de sensibilisation",
     "chartNote": "Les chiffres sont comptabilisés par campagne. Certaines personnes sont donc comptées plusieurs fois.",
     "chart": [
-      {
-        "year": "2023",
-        "value": 82179
-      },
-      {
-        "year": "2024",
-        "value": 22034
-      },
-      {
-        "year": "2025",
-        "value": 78119
-      }
+      { "year": "2023", "value": 82179 },
+      { "year": "2024", "value": 22034 },
+      { "year": "2025", "value": 78119 }
     ],
-    "goalsT": "Nos objectifs pour 2029",
+    "goalsT": "Nos objectifs stratégiques à l’horizon 2030",
     "goals": [
       ["100 000", "ménages bénéficiant d’une aide alimentaire"],
-      ["1 000 000", "arbres plantés"],
-      ["15 000", "hectares restaurés"],
-      ["12 000", "agriculteurs formés"],
-      ["15 000", "femmes accompagnées"],
-      ["15 000", "enfants protégés"],
-      ["15 000", "enfants malnutris pris en charge"],
+      ["3 000 000", "arbres plantés"],
+      ["15 000", "hectares de terres restaurées"],
+      ["12 000", "agriculteurs bénéficiant de formations"],
+      ["15 000", "femmes bénéficiant d’un accompagnement"],
+      ["15 000", "enfants bénéficiant de services de protection"],
+      ["15 000", "enfants malnutris bénéficiant d’un traitement"],
       ["6 000", "jeunes accompagnés vers l’emploi"],
-      ["5 000", "personnes âgées assistées"],
-      ["2 500", "latrines construites"],
-      ["300", "villages sensibilisés au climat"],
+      ["5 000", "personnes âgées bénéficiant d’une assistance"],
+      ["5 000", "latrines construites"],
+      [
+        "300",
+        "villages touchés par des campagnes de sensibilisation au climat"
+      ],
       ["250", "forages réalisés"]
     ],
     "quotesT": "Ils témoignent",

@@ -4,7 +4,6 @@
     "place": "Camarões, África Central",
     "regions": "Norte e Extremo Norte"
   },
-
   "nav": {
     "home": "Início",
     "about": "Sobre nós",
@@ -57,7 +56,7 @@
     "history": [
       {
         "date": "{{renamedDate}}",
-        "text": "A associação passa a chamar-se Sahel Climate Action, destacando os seus objetivos fundamentais na área climática e as conquistas alcançadas ao longo dos anos."
+        "text": "A associação passa a chamar-se Sahel Climate Action, destacando os seus objetivos fundamentais na área climática e as realizações alcançadas neste domínio ao longo dos anos."
       },
       {
         "date": "1 de fevereiro de 2012",
@@ -98,7 +97,7 @@
         "id": "food",
         "title": "Segurança alimentar",
         "line": "Cereais cultivados, armazenados e revendidos a preço de custo.",
-        "body": "Todos os anos, a SCA cultiva milho, milheto, sorgo, arroz e amendoim em terras agrícolas nas proximidades de Pakete, Pitoa e Wouro Labbo (Garoua), e Congola e Djarengol (Maroua). A colheita é armazenada e depois vendida a preço de custo, sem margem de lucro, durante o período de escassez de junho a setembro, quando as reservas se esgotam e os preços sobem. Parte das receitas financia as nossas atividades de sensibilização e proteção infantil. As mulheres e as jovens participam na produção, no armazenamento e na distribuição.",
+        "body": "Todos os anos, a SCA cultiva milho, milheto, sorgo, arroz e amendoim em terras agrícolas. A colheita é armazenada e depois vendida a preço de custo, sem margem de lucro, durante o período de escassez de junho a setembro, quando as reservas se esgotam e os preços sobem. Parte das receitas financia as nossas atividades de sensibilização e proteção infantil. As mulheres e as jovens participam na produção, no armazenamento e na distribuição.",
         "facts": [
           "6.550 agregados familiares em 2023",
           "6.720 agregados familiares em 2024",
@@ -133,19 +132,19 @@
         "body": "Em 2023, a SCA realizou sessões de higiene nos bairros de baixos rendimentos de Garoua e Maroua sobre lavagem das mãos, utilização de sabão, tratamento da água, gestão de resíduos, manutenção de latrinas e prevenção da cólera. A construção de latrinas e a reabilitação de pontos de água são as próximas atividades previstas.",
         "facts": [
           "5.794 agregados familiares alcançados em 2023",
-          "44.054 pessoas alcançadas: 21.664 em Garoua e 22.390 em Maroua"
+          "44.054 pessoas alcançadas"
         ]
       }
     ],
-    "comingT": "Próximos programas de 2027 a 2029",
+    "comingT": "Próximos programas de 2027 a 2030",
     "coming": [
+      {
+        "title": "Ação climática",
+        "text": "Viveiros de árvores, plantação de árvores, sebes vivas, pomares comunitários e sensibilização nas escolas, bem como atividades de sensibilização e educação, em consonância com os nossos objetivos climáticos para 2030."
+      },
       {
         "title": "Agricultura sustentável",
         "text": "Formação de agricultores, sementes resistentes à seca, hortas, irrigação gota a gota, composto e cooperativas."
-      },
-      {
-        "title": "Ação climática",
-        "text": "Viveiros de árvores, plantação, sebes vivas, pomares comunitários e sensibilização nas escolas."
       },
       {
         "title": "Equidade de género",
@@ -209,19 +208,19 @@
         "value": 78119
       }
     ],
-    "goalsT": "Os nossos objetivos para 2029",
+    "goalsT": "Os nossos objetivos estratégicos até 2030",
     "goals": [
-      ["100.000", "agregados familiares apoiados com alimentos"],
-      ["1.000.000", "árvores plantadas"],
-      ["15.000", "hectares restaurados"],
-      ["12.000", "agricultores formados"],
-      ["15.000", "mulheres apoiadas"],
-      ["15.000", "crianças protegidas"],
-      ["15.000", "crianças com desnutrição tratadas"],
-      ["6.000", "jovens acompanhados para o emprego"],
-      ["5.000", "idosos assistidos"],
-      ["2.500", "latrinas construídas"],
-      ["300", "aldeias sensibilizadas sobre o clima"],
+      ["100.000", "agregados familiares que recebem apoio alimentar"],
+      ["3.000.000", "árvores plantadas"],
+      ["15.000", "hectares de terras restauradas"],
+      ["12.000", "agricultores que beneficiam de formação"],
+      ["15.000", "mulheres que recebem apoio"],
+      ["15.000", "crianças que beneficiam de serviços de proteção"],
+      ["15.000", "crianças com desnutrição que recebem tratamento"],
+      ["6.000", "jovens acompanhados na integração no mercado de trabalho"],
+      ["5.000", "pessoas idosas que recebem assistência"],
+      ["5.000", "latrinas construídas"],
+      ["300", "aldeias alcançadas por campanhas de sensibilização climática"],
       ["250", "furos de água realizados"]
     ],
     "quotesT": "Nas suas próprias palavras",
