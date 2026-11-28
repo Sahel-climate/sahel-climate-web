@@ -9,7 +9,7 @@
     "about": "Sobre nós",
     "programmes": "Programas",
     "impact": "Impacto",
-    "involved": "Participe",
+    "involved": "Envolva-se",
     "partners": "Parceiros",
     "news": "Notícias",
     "contact": "Contacto",
@@ -22,21 +22,21 @@
   "hero": {
     "eyebrow": "Sahel Climate Action · Camarões, África Central",
     "title": "Construir comunidades do Sahel resilientes às alterações climáticas",
-    "sub": "Combatemos a pobreza extrema, a fome e os efeitos das alterações climáticas no norte dos Camarões através da reflorestação, recuperação de terras, equidade de género, programas de proteção social e do reforço da segurança alimentar, da saúde, da higiene, do acesso a água potável e da proteção infantil.",
+    "sub": "Combatemos a pobreza extrema, a fome e os efeitos das alterações climáticas nos Camarões através da reflorestação, da recuperação de terras, da equidade de género e de programas de proteção social que integram o reforço da segurança alimentar, da saúde, da higiene, do acesso à água potável e da proteção infantil.",
     "donate": "Doe agora",
-    "programmes": "Nossos programas",
-    "imagePlaceholder": "Nosso impacto em imagens",
-    "imageAlt": "Projeto comunitário de Sahel Climate Action"
+    "programmes": "Os nossos programas",
+    "imagePlaceholder": "O nosso impacto em imagens",
+    "imageAlt": "Projeto comunitário da Sahel Climate Action"
   },
   "about": {
-    "title": "Uma organização juvenil que se tornou uma ONG dedicada às questões climáticas e ao combate à pobreza extrema",
+    "title": "Uma organização juvenil que evoluiu para uma ONG dedicada à ação climática e ao combate à pobreza extrema",
     "intro": "A Sahel Climate Action (SCA) é uma organização sem fins lucrativos que combate a pobreza extrema, os efeitos das alterações climáticas e a desigualdade social no Sahel, dando prioridade à proteção do ambiente. Desenvolvemos programas integrados que reforçam a resiliência dos agregados familiares mais vulneráveis às alterações climáticas.",
     "visionT": "Visão",
     "vision": "Comunidades do Sahel resilientes, inclusivas e prósperas, onde todos possam viver com dignidade apesar dos desafios climáticos, económicos e sociais. Promovemos uma abordagem orientada para o desenvolvimento sustentável.",
     "missionT": "Missão",
     "mission": [
-      "Implementar ações climáticas adequadas através da reflorestação, da recuperação de terras e da sensibilização.",
-      "Reforçar a resiliência dos grupos sociais mais vulneráveis face às alterações climáticas, dado que o Sahel é uma das regiões mais pobres do mundo."
+      "Implementar ações climáticas adequadas através da reflorestação, da recuperação de terras, da sensibilização e da educação.",
+      "Reforçar a resiliência dos grupos sociais e das comunidades mais vulneráveis face às alterações climáticas, dado que o Sahel é uma das regiões mais pobres do mundo."
     ],
     "valuesT": "Os nossos valores",
     "values": [
@@ -73,7 +73,7 @@
       "Os beneficiários participam ativamente e as competências locais são reforçadas.",
       "Os resultados são acompanhados através de indicadores claros e avaliados anualmente.",
       "Prestamos contas aos beneficiários e aos parceiros.",
-      "Ninguém fica para trás: as mulheres, os jovens, as pessoas deslocadas e as pessoas com deficiência são incluídos."
+      "Ninguém fica para trás: incluímos mulheres, jovens, crianças, pessoas idosas, pessoas deslocadas e pessoas com deficiência."
     ],
     "leadersT": "Governação",
     "leadersIntro": "A SCA é dirigida por uma Assembleia Geral, um Conselho de Administração e uma Direção Executiva, com delegações regionais e comités comunitários.",
@@ -86,8 +86,8 @@
       {
         "id": "climate",
         "title": "Ação climática",
-        "line": "Soluções práticas para ajudar as famílias agrícolas a enfrentar secas e inundações.",
-        "body": "As nossas campanhas ensinam a conservação da água e do solo, a agricultura climaticamente inteligente, a utilização de sementes resistentes à seca, a agroflorestação e a plantação comunitária de árvores, a recuperação de terras e o alerta precoce para riscos climáticos. Também incentivam ações quotidianas: plantar árvores, gerir resíduos, poupar água e energia e reduzir as queimadas.",
+        "line": "Soluções práticas para adaptar a agricultura e ajudar as famílias a enfrentar secas e inundações.",
+        "body": "As nossas campanhas ensinam a conservação da água e do solo, a agricultura climaticamente inteligente, a utilização de sementes resistentes à seca, a agroflorestação, a plantação comunitária de árvores, a recuperação de terras e o alerta precoce para riscos climáticos. Também incentivam ações quotidianas: plantar árvores, gerir resíduos, poupar água e energia e reduzir as queimadas.",
         "facts": [
           "2024: 22.034 pessoas alcançadas",
           "2025: 21.208 pessoas alcançadas, incluindo 1.701 agregados familiares"
@@ -97,7 +97,7 @@
         "id": "food",
         "title": "Segurança alimentar",
         "line": "Cereais cultivados, armazenados e revendidos a preço de custo.",
-        "body": "Todos os anos, a SCA cultiva milho, milheto, sorgo, arroz e amendoim em terras agrícolas. A colheita é armazenada e depois vendida a preço de custo, sem margem de lucro, durante o período de escassez de junho a setembro, quando as reservas se esgotam e os preços sobem. Parte das receitas financia as nossas atividades de sensibilização e proteção infantil. As mulheres e as jovens participam na produção, no armazenamento e na distribuição.",
+        "body": "Todos os anos, a SCA cultiva milho, milheto, sorgo, arroz e amendoim em terras agrícolas. A colheita é armazenada e depois vendida a preço de custo, sem margem de lucro, durante o período de escassez de junho a setembro, quando as reservas se esgotam e os preços sobem. Este processo é acompanhado pelas nossas atividades de sensibilização e proteção infantil. As mulheres e as jovens participam na produção, no armazenamento e na distribuição.",
         "facts": [
           "6.550 agregados familiares em 2023",
           "6.720 agregados familiares em 2024",
@@ -108,7 +108,7 @@
         "id": "children",
         "title": "Proteção infantil",
         "line": "Uma refeição quente e alguém que escute as crianças que vivem nas ruas.",
-        "body": "Em Garoua e Maroua, as crianças que vivem nas ruas recebem refeições quentes e equilibradas preparadas com alimentos locais, água potável e lanches. As refeições abrem caminho para sessões de higiene, encaminhamento para serviços de saúde, apoio psicossocial e, sempre que possível, o regresso à família ou à escola. As palestras educativas abordam a higiene, os direitos da criança, as drogas e a violência, a prevenção do VIH e da gravidez precoce, a resolução pacífica de conflitos e as competências para a vida.",
+        "body": "Em Garoua e Maroua, as crianças que vivem nas ruas recebem refeições quentes e equilibradas preparadas com alimentos locais, água potável e lanches. As refeições abrem caminho para sessões de higiene, encaminhamento para serviços de saúde, apoio psicossocial e, sempre que possível, o regresso à família ou à escola. As sessões educativas abordam a higiene, os direitos da criança, as drogas e a violência, a prevenção do VIH e da gravidez precoce, a resolução pacífica de conflitos e as competências para a vida.",
         "facts": [
           "130 crianças alimentadas diariamente em 2024",
           "198 crianças em 2025: 125 em Maroua e 73 em Garoua"
@@ -140,11 +140,11 @@
     "coming": [
       {
         "title": "Ação climática",
-        "text": "Viveiros de árvores, plantação de árvores, sebes vivas, pomares comunitários e sensibilização nas escolas, bem como atividades de sensibilização e educação, em consonância com os nossos objetivos climáticos para 2030."
+        "text": "Viveiros de árvores, plantação de árvores, sebes vivas, pomares comunitários e sensibilização nas escolas, bem como atividades de sensibilização e educação, em consonância com parte dos nossos objetivos para 2030."
       },
       {
         "title": "Agricultura sustentável",
-        "text": "Formação de agricultores, sementes resistentes à seca, hortas, irrigação gota a gota, composto e cooperativas."
+        "text": "Formação de agricultores, sementes resistentes à seca, produção hortícola, rega gota a gota, composto e cooperativas."
       },
       {
         "title": "Equidade de género",
@@ -160,7 +160,7 @@
       },
       {
         "title": "Proteção social alargada",
-        "text": "Kits escolares, apadrinhamento de crianças vulneráveis e apoio a idosos isolados."
+        "text": "Kits escolares, apadrinhamento de crianças vulneráveis e apoio a pessoas idosas isoladas."
       }
     ]
   },
@@ -195,18 +195,9 @@
     "chartT": "Pessoas alcançadas pelas campanhas de sensibilização",
     "chartNote": "Os números são contabilizados por campanha, pelo que algumas pessoas são contadas mais de uma vez.",
     "chart": [
-      {
-        "year": "2023",
-        "value": 82179
-      },
-      {
-        "year": "2024",
-        "value": 22034
-      },
-      {
-        "year": "2025",
-        "value": 78119
-      }
+      { "year": "2023", "value": 82179 },
+      { "year": "2024", "value": 22034 },
+      { "year": "2025", "value": 78119 }
     ],
     "goalsT": "Os nossos objetivos estratégicos até 2030",
     "goals": [
@@ -217,7 +208,7 @@
       ["15.000", "mulheres que recebem apoio"],
       ["15.000", "crianças que beneficiam de serviços de proteção"],
       ["15.000", "crianças com desnutrição que recebem tratamento"],
-      ["6.000", "jovens acompanhados na integração no mercado de trabalho"],
+      ["6.000", "jovens apoiados no acesso ao emprego"],
       ["5.000", "pessoas idosas que recebem assistência"],
       ["5.000", "latrinas construídas"],
       ["300", "aldeias alcançadas por campanhas de sensibilização climática"],
@@ -262,7 +253,7 @@
   },
   "involved": {
     "title": "Envolva-se",
-    "intro": "O dinheiro é uma forma de ajudar. Estas são as outras.",
+    "intro": "O dinheiro é uma forma de ajudar. Existem outras formas de contribuir.",
     "items": [
       {
         "title": "Seja voluntário",
@@ -276,7 +267,7 @@
       },
       {
         "title": "Faça doações em espécie",
-        "text": "Sementes, ferramentas agrícolas, kits de higiene e materiais escolares chegam às famílias.",
+        "text": "Sementes, ferramentas agrícolas, kits de higiene e kits escolares chegam às famílias.",
         "cta": "Saiba como"
       },
       {
@@ -320,7 +311,7 @@
     "intro": "Apoie o nosso trabalho com as comunidades do norte dos Camarões. Cada contribuição faz a diferença.",
     "close": "Fechar janela de doação",
     "howT": "Como doar",
-    "mobile": "Dinheiro móvel",
+    "mobile": "Mobile Money",
     "bank": "Transferência bancária",
     "card": "Cartão",
     "number": "Número de telefone",
@@ -343,9 +334,9 @@
     "tag": "Ação hoje, sustentabilidade amanhã.",
     "explore": "Explorar",
     "where": "Onde trabalhamos",
-    "leadership": "Liderança",
+    "leadership": "Governação",
     "reports": "Relatórios anuais",
-    "legal": "[Original legal statement]",
+    "legal": "[Declaração legal original]",
     "rights": "Todos os direitos reservados."
   }
 }

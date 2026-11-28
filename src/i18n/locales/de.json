@@ -21,22 +21,22 @@
   },
   "hero": {
     "eyebrow": "Sahel Climate Action · Kamerun, Zentralafrika",
-    "title": "Widerstandsfähige Gemeinschaften im Sahel angesichts des Klimawandels aufbauen",
-    "sub": "Wir bekämpfen extreme Armut, Hunger und die Folgen des Klimawandels im Norden Kameruns durch Wiederaufforstung, Wiederherstellung von Landflächen, Geschlechtergerechtigkeit, soziale Sicherungsprogramme sowie die Stärkung von Ernährungssicherheit, Gesundheit, Hygiene, sauberem Wasser und Kinderschutz.",
+    "title": "Klimaresiliente Gemeinschaften im Sahel aufbauen",
+    "sub": "Wir bekämpfen extreme Armut, Hunger und die Folgen des Klimawandels in Kamerun durch Wiederaufforstung, Wiederherstellung von Landflächen, Geschlechtergerechtigkeit und soziale Sicherungsprogramme, die Ernährungssicherheit, Gesundheit, Hygiene, den Zugang zu sauberem Wasser und den Kinderschutz stärken.",
     "donate": "Jetzt spenden",
     "programmes": "Unsere Programme",
     "imagePlaceholder": "Unsere Wirkung in Bildern",
     "imageAlt": "Gemeinschaftsprojekt von Sahel Climate Action"
   },
   "about": {
-    "title": "Eine Jugendorganisation, die sich zu einer NGO für Klimafragen und die Bekämpfung extremer Armut entwickelt hat",
+    "title": "Eine Jugendorganisation, die sich zu einer NGO für Klimaschutz und die Bekämpfung extremer Armut entwickelt hat",
     "intro": "Sahel Climate Action (SCA) ist eine gemeinnützige Organisation, die extreme Armut, die Folgen des Klimawandels und soziale Ungleichheit im Sahel bekämpft und dabei dem Umweltschutz Vorrang einräumt. Wir führen integrierte Programme durch, die die Widerstandsfähigkeit besonders gefährdeter Haushalte gegenüber dem Klimawandel stärken.",
     "visionT": "Vision",
     "vision": "Widerstandsfähige, inklusive und wohlhabende Gemeinschaften im Sahel, in denen alle Menschen trotz klimatischer, wirtschaftlicher und sozialer Herausforderungen in Würde leben können. Wir fördern einen Ansatz, der auf nachhaltiger Entwicklung beruht.",
     "missionT": "Mission",
     "mission": [
-      "Geeignete Klimaschutzmaßnahmen durch Wiederaufforstung, Landrestaurierung und Sensibilisierung umsetzen.",
-      "Die Widerstandsfähigkeit der am stärksten gefährdeten sozialen Gruppen angesichts des Klimawandels stärken, da der Sahel eine der ärmsten Regionen der Welt ist."
+      "Geeignete Klimaschutzmaßnahmen durch Wiederaufforstung, Wiederherstellung von Landflächen, Sensibilisierung und Bildung umsetzen.",
+      "Die Widerstandsfähigkeit der am stärksten gefährdeten sozialen Gruppen und Gemeinschaften gegenüber dem Klimawandel stärken, da der Sahel eine der ärmsten Regionen der Welt ist."
     ],
     "valuesT": "Unsere Werte",
     "values": [
@@ -73,7 +73,7 @@
       "Die Begünstigten beteiligen sich aktiv und lokale Kompetenzen werden aufgebaut.",
       "Die Ergebnisse werden anhand klarer Indikatoren verfolgt und jährlich überprüft.",
       "Wir legen gegenüber den Begünstigten und unseren Partnern Rechenschaft ab.",
-      "Niemand wird zurückgelassen: Frauen, junge Menschen, Vertriebene und Menschen mit Behinderungen werden einbezogen."
+      "Niemand wird zurückgelassen: Frauen, junge Menschen, Kinder, ältere Menschen, Vertriebene und Menschen mit Behinderungen werden einbezogen."
     ],
     "leadersT": "Leitung",
     "leadersIntro": "SCA wird von einer Generalversammlung, einem Verwaltungsrat und einer Geschäftsführung geleitet, ergänzt durch regionale Niederlassungen und Gemeinschaftsausschüsse.",
@@ -81,13 +81,13 @@
   },
   "programmes": {
     "title": "Was wir tun",
-    "intro": "Derzeit laufen fünf Programme. Wählen Sie eines aus, um zu erfahren, wem es hilft und was es erreicht hat.",
+    "intro": "Derzeit führen wir fünf Programme durch. Wählen Sie eines aus, um zu erfahren, wem es zugutekommt und was bisher erreicht wurde.",
     "items": [
       {
         "id": "climate",
         "title": "Klimaschutz",
-        "line": "Praktische Lösungen für landwirtschaftliche Familien im Umgang mit Dürren und Überschwemmungen.",
-        "body": "Unsere Kampagnen vermitteln Wasser- und Bodenschutz, klimaintelligente Landwirtschaft, dürreresistentes Saatgut, Agroforstwirtschaft und gemeinschaftliche Baumpflanzungen, Landwiederherstellung und Frühwarnung vor Klimarisiken. Sie fördern auch alltägliche Maßnahmen: Bäume pflanzen, Abfälle bewirtschaften, Wasser und Energie sparen und Buschbrände reduzieren.",
+        "line": "Praktische Lösungen zur Anpassung der Landwirtschaft an den Klimawandel und zur Unterstützung von Familien im Umgang mit Dürren und Überschwemmungen.",
+        "body": "Unsere Kampagnen vermitteln Kenntnisse über Wasser- und Bodenschutz, klimaintelligente Landwirtschaft, dürreresistentes Saatgut, Agroforstwirtschaft, gemeinschaftliche Baumpflanzungen, die Wiederherstellung von Landflächen und Frühwarnsysteme für Klimarisiken. Sie fördern auch alltägliche Maßnahmen: Bäume pflanzen, Abfälle bewirtschaften, Wasser und Energie sparen und Buschbrände reduzieren.",
         "facts": [
           "2024: 22.034 Menschen erreicht",
           "2025: 21.208 Menschen erreicht, darunter 1.701 Haushalte"
@@ -97,7 +97,7 @@
         "id": "food",
         "title": "Ernährungssicherheit",
         "line": "Getreide wird angebaut, gelagert und zum Selbstkostenpreis weiterverkauft.",
-        "body": "Jedes Jahr baut SCA Mais, Hirse, Sorghum, Reis und Erdnüsse auf landwirtschaftlichen Flächen an. Die Ernte wird gelagert und während der Hungerperiode von Juni bis September, wenn die Vorräte zur Neige gehen und die Preise steigen, ohne Gewinnmarge zum Selbstkostenpreis verkauft. Ein Teil der Einnahmen finanziert unsere Aufklärungs- und Kinderschutzarbeit. Frauen und junge Mädchen beteiligen sich an der Produktion, Lagerung und Verteilung.",
+        "body": "Jedes Jahr baut SCA Mais, Hirse, Sorghum, Reis und Erdnüsse auf landwirtschaftlichen Flächen an. Die Ernte wird gelagert und während der Hungerperiode von Juni bis September, wenn die Vorräte zur Neige gehen und die Preise steigen, ohne Gewinnmarge zum Selbstkostenpreis verkauft. Dieser Prozess wird von unseren Sensibilisierungs- und Kinderschutzmaßnahmen begleitet. Frauen und junge Mädchen beteiligen sich an der Produktion, Lagerung und Verteilung.",
         "facts": [
           "6.550 Haushalte im Jahr 2023",
           "6.720 Haushalte im Jahr 2024",
@@ -108,7 +108,7 @@
         "id": "children",
         "title": "Kinderschutz",
         "line": "Eine warme Mahlzeit und ein offenes Ohr für Kinder, die auf der Straße leben.",
-        "body": "In Garoua und Maroua erhalten Kinder, die auf der Straße leben, warme, ausgewogene Mahlzeiten aus lokalen Lebensmitteln, sauberes Wasser und Zwischenmahlzeiten. Die Mahlzeiten eröffnen den Zugang zu Hygieneschulungen, medizinischen Überweisungen, psychosozialer Unterstützung und, wenn möglich, zur Rückkehr in die Familie oder Schule. Aufklärungsgespräche behandeln Hygiene, Kinderrechte, Drogen und Gewalt, die Prävention von HIV und frühen Schwangerschaften, friedliche Konfliktlösung und Lebenskompetenzen.",
+        "body": "In Garoua und Maroua erhalten Kinder, die auf der Straße leben, warme, ausgewogene Mahlzeiten aus lokalen Lebensmitteln, sauberes Wasser und Zwischenmahlzeiten. Die Mahlzeiten eröffnen den Zugang zu Hygieneschulungen, medizinischer Versorgung durch Weitervermittlung, psychosozialer Unterstützung und, wenn möglich, zur Rückkehr in die Familie oder Schule. Aufklärungsgespräche behandeln Hygiene, Kinderrechte, Drogen und Gewalt, die Prävention von HIV und frühen Schwangerschaften, friedliche Konfliktlösung und Lebenskompetenzen.",
         "facts": [
           "130 Kinder wurden 2024 täglich mit Mahlzeiten versorgt",
           "198 Kinder im Jahr 2025: 125 in Maroua, 73 in Garoua"
@@ -136,19 +136,19 @@
         ]
       }
     ],
-    "comingT": "Geplant für 2027 bis 2030",
+    "comingT": "Geplante Programme für 2027 bis 2030",
     "coming": [
       {
         "title": "Klimaschutz",
-        "text": "Baumschulen, Baumpflanzungen, lebende Hecken, gemeinschaftliche Obstgärten und Aufklärung an Schulen sowie weitere Sensibilisierungs- und Bildungsmaßnahmen im Einklang mit unseren Klimazielen bis 2030."
+        "text": "Baumschulen, Baumpflanzungen, lebende Hecken, gemeinschaftliche Obstgärten, Aufklärung an Schulen sowie Sensibilisierungs- und Bildungsmaßnahmen im Einklang mit einem Teil unserer Ziele bis 2030."
       },
       {
         "title": "Nachhaltige Landwirtschaft",
-        "text": "Schulungen für Landwirte, dürreresistentes Saatgut, Gemüsegärten, Tröpfchenbewässerung, Kompost und Genossenschaften."
+        "text": "Schulungen für Landwirte, dürreresistentes Saatgut, Gemüseanbau, Tröpfchenbewässerung, Kompost und Genossenschaften."
       },
       {
         "title": "Geschlechtergerechtigkeit",
-        "text": "Weibliche Führung und Frauengenossenschaften, Schulungen zum Unternehmertum und Zugang zu Krediten."
+        "text": "Förderung von Frauen in Führungspositionen, Frauengenossenschaften, Schulungen zum Unternehmertum und Zugang zu Krediten."
       },
       {
         "title": "Abfallmanagement",
@@ -156,11 +156,11 @@
       },
       {
         "title": "Lokale Wirtschaftsentwicklung",
-        "text": "Berufsausbildung, Mikrofinanzierung, ländliche Unternehmen und Jugendunternehmertum."
+        "text": "Berufsausbildung, Mikrofinanzierung, ländliche Unternehmen und Förderung des Unternehmertums junger Menschen."
       },
       {
         "title": "Erweiterter Sozialschutz",
-        "text": "Schulmaterialien, Patenschaften für schutzbedürftige Kinder und Unterstützung für ältere Menschen, die in sozialer Isolation leben."
+        "text": "Schulmaterialsets, Patenschaften für schutzbedürftige Kinder und Unterstützung für ältere Menschen, die in sozialer Isolation leben."
       }
     ]
   },
@@ -172,27 +172,46 @@
     "na": "_",
     "rows": [
       ["Haushalte, die Getreide und Erdnüsse erhielten", "6.550", "6.720", "_"],
-      ["Straßenkinder, die täglich Mahlzeiten erhielten", "_", "130", "198"],
       [
-        "Menschen, die zu Hygiene und Wasser erreicht wurden",
+        "Auf der Straße lebende Kinder, die täglich Mahlzeiten erhielten",
+        "_",
+        "130",
+        "198"
+      ],
+      [
+        "Menschen, die zu Hygiene und Wasser aufgeklärt wurden",
         "44.054",
         "_",
         "_"
       ],
       [
-        "Menschen, die zur Gesundheitsprävention erreicht wurden",
+        "Menschen, die zur Gesundheitsprävention aufgeklärt wurden",
         "38.125",
         "_",
         "56.911"
       ],
-      ["Menschen, die zum Klimaschutz erreicht wurden", "_", "22.034", "21.208"]
+      [
+        "Menschen, die zu Klimaschutzmaßnahmen aufgeklärt wurden",
+        "_",
+        "22.034",
+        "21.208"
+      ]
     ],
     "chartT": "Durch Aufklärungskampagnen erreichte Menschen",
     "chartNote": "Die Zahlen werden pro Kampagne erfasst, sodass manche Menschen mehrfach gezählt werden.",
     "chart": [
-      { "year": "2023", "value": 82179 },
-      { "year": "2024", "value": 22034 },
-      { "year": "2025", "value": 78119 }
+      {
+        "year": "2023",
+        "value": 82179
+      },
+      {
+        "year": "2024",
+        "value": 22034
+      },
+      {
+        "year": "2025",
+        "value": 78119
+      }
     ],
     "goalsT": "Unsere strategischen Ziele bis 2030",
     "goals": [
@@ -205,7 +224,7 @@
       ["15.000", "mangelernährte Kinder, die eine Behandlung erhalten"],
       [
         "6.000",
-        "junge Menschen, die auf dem Weg in die Arbeitswelt unterstützt werden"
+        "junge Menschen, die beim Zugang zur Beschäftigung unterstützt werden"
       ],
       ["5.000", "ältere Menschen, die Unterstützung erhalten"],
       ["5.000", "gebaute Latrinen"],
@@ -226,7 +245,7 @@
   },
   "partners": {
     "title": "Partner",
-    "intro": "Wir arbeiten Hand in Hand mit den Menschen und Institutionen, die den Problemen am nächsten stehen. Lokale Behörden öffnen Türen, Gemeinschaftsorganisationen setzen die Arbeit um, und technische sowie finanzielle Partner helfen uns zu wachsen.",
+    "intro": "Wir arbeiten Hand in Hand mit den Menschen und Institutionen, die dem Problem am nächsten stehen. Lokale Behörden öffnen Türen, Gemeinschaftsorganisationen setzen die Arbeit um, und technische sowie finanzielle Partner helfen uns zu wachsen.",
     "types": [
       "Lokale Verwaltungsbehörden und traditionelle Autoritäten",
       "Gemeinden Garoua und Maroua",
@@ -251,7 +270,7 @@
   },
   "involved": {
     "title": "Mitmachen",
-    "intro": "Geld ist eine Möglichkeit zu helfen. Hier sind weitere.",
+    "intro": "Finanzielle Unterstützung ist eine Möglichkeit zu helfen. Es gibt auch andere Möglichkeiten, einen Beitrag zu leisten.",
     "items": [
       {
         "title": "Freiwillig engagieren",
@@ -265,7 +284,7 @@
       },
       {
         "title": "Sachspenden leisten",
-        "text": "Saatgut, landwirtschaftliche Werkzeuge, Hygienesets und Schulmaterialien kommen den Familien zugute.",
+        "text": "Saatgut, landwirtschaftliche Werkzeuge, Hygienesets und Schulmaterialsets werden an Familien verteilt.",
         "cta": "Erfahren Sie, wie"
       },
       {
@@ -334,7 +353,7 @@
     "where": "Wo wir arbeiten",
     "leadership": "Leitung",
     "reports": "Jahresberichte",
-    "legal": "[Original legal statement]",
+    "legal": "[Ursprünglicher Rechtshinweis]",
     "rights": "Alle Rechte vorbehalten."
   }
 }

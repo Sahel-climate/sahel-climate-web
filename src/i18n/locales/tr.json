@@ -17,26 +17,26 @@
     "language": "Dil",
     "openMenu": "Menüyü aç",
     "closeMenu": "Menüyü kapat",
-    "tagline": "Bugün Harekete Geç, Yarını Sürdürülebilir Kıl"
+    "tagline": "Bugün eylem, yarın sürdürülebilirlik"
   },
   "hero": {
     "eyebrow": "Sahel Climate Action · Kamerun, Orta Afrika",
     "title": "İklim değişikliğine dirençli Sahel toplulukları inşa etmek",
-    "sub": "Kuzey Kamerun’da aşırı yoksulluk, açlık ve iklim değişikliğinin etkileriyle yeniden ağaçlandırma, arazi restorasyonu, toplumsal cinsiyet hakkaniyeti, sosyal koruma programları ve gıda güvenliği, sağlık, hijyen, temiz su ile çocuk koruma çalışmalarını güçlendirerek mücadele ediyoruz.",
+    "sub": "Kamerun’da aşırı yoksulluk, açlık ve iklim değişikliğinin etkileriyle yeniden ağaçlandırma, arazi restorasyonu, toplumsal cinsiyet hakkaniyeti ve gıda güvenliği, sağlık, hijyen, temiz suya erişim ve çocukların korunmasını güçlendiren sosyal koruma programları aracılığıyla mücadele ediyoruz.",
     "donate": "Şimdi bağış yap",
     "programmes": "Programlarımız",
     "imagePlaceholder": "Fotoğraflarla etkimiz",
     "imageAlt": "Sahel Climate Action topluluk projesi"
   },
   "about": {
-    "title": "İklim sorunlarına ve aşırı yoksullukla mücadeleye odaklanan bir STK’ya dönüşen gençlik örgütü",
+    "title": "İklim eylemine ve aşırı yoksullukla mücadeleye odaklanan bir STK’ya dönüşen gençlik örgütü",
     "intro": "Sahel Climate Action (SCA), Sahel bölgesinde aşırı yoksulluk, iklim değişikliğinin etkileri ve sosyal eşitsizlikle mücadele ederken çevrenin korunmasına öncelik veren kâr amacı gütmeyen bir kuruluştur. İklim değişikliği karşısında en savunmasız hanelerin dayanıklılığını artıran bütünleşik programlar yürütüyoruz.",
     "visionT": "Vizyon",
     "vision": "İklimsel, ekonomik ve sosyal zorluklara rağmen herkesin onurlu bir yaşam sürebildiği dirençli, kapsayıcı ve refah içindeki Sahel toplulukları. Sürdürülebilir kalkınmaya dayalı bir yaklaşımı savunuyoruz.",
     "missionT": "Misyon",
     "mission": [
-      "Yeniden ağaçlandırma, arazi restorasyonu ve farkındalık çalışmaları yoluyla uygun iklim eylemlerini hayata geçirmek.",
-      "Sahel’in dünyanın en yoksul bölgelerinden biri olduğu göz önünde bulundurularak, iklim değişikliği karşısında en savunmasız toplumsal grupların dayanıklılığını artırmak."
+      "Yeniden ağaçlandırma, arazi restorasyonu, farkındalık çalışmaları ve eğitim yoluyla uygun iklim eylemlerini hayata geçirmek.",
+      "Sahel’in dünyanın en yoksul bölgelerinden biri olduğu göz önünde bulundurularak, iklim değişikliği karşısında en savunmasız toplumsal grupların ve toplulukların dayanıklılığını artırmak."
     ],
     "valuesT": "Değerlerimiz",
     "values": [
@@ -73,7 +73,7 @@
       "Yararlanıcılar aktif olarak katılır ve yerel beceriler geliştirilir.",
       "Sonuçlar açık göstergelerle takip edilir ve her yıl değerlendirilir.",
       "Yararlanıcılara ve ortaklarımıza hesap veririz.",
-      "Kimse geride bırakılmaz: kadınlar, gençler, yerinden edilmiş kişiler ve engelli bireyler sürece dahil edilir."
+      "Kimse geride bırakılmaz: kadınlar, gençler, çocuklar, yaşlılar, yerinden edilmiş kişiler ve engelli bireyler sürece dahil edilir."
     ],
     "leadersT": "Yönetim",
     "leadersIntro": "SCA, bölgesel şubeler ve topluluk komiteleriyle birlikte Genel Kurul, Yönetim Kurulu ve İcra Direktörlüğü tarafından yönetilir.",
@@ -81,13 +81,13 @@
   },
   "programmes": {
     "title": "Neler yapıyoruz",
-    "intro": "Şu anda beş program yürütülüyor. Kime hizmet ettiğini ve neler başardığını görmek için birini seçin.",
+    "intro": "Şu anda beş program yürütüyoruz. Kime hizmet ettiğini ve neler başardığını görmek için birini seçin.",
     "items": [
       {
         "id": "climate",
         "title": "İklim eylemi",
-        "line": "Çiftçi ailelerin kuraklık ve sellerle başa çıkması için pratik yöntemler.",
-        "body": "Kampanyalarımız su ve toprak koruma, iklim dostu tarım, kuraklığa dayanıklı tohumlar, tarımsal ormancılık, topluluk temelli ağaç dikimi, arazi restorasyonu ve iklim risklerine yönelik erken uyarı konularını öğretir. Ayrıca ağaç dikme, atıkları yönetme, su ve enerji tasarrufu yapma ve çalı yangınlarını azaltma gibi günlük uygulamaları teşvik eder.",
+        "line": "Tarımı iklim koşullarına uyarlamak ve ailelerin kuraklık ve sellerle başa çıkmalarına yardımcı olmak için pratik çözümler.",
+        "body": "Kampanyalarımız su ve toprak koruma, iklim akıllı tarım, kuraklığa dayanıklı tohumlar, tarımsal ormancılık, topluluk temelli ağaç dikimi, arazi restorasyonu ve iklim risklerine yönelik erken uyarı konularında eğitim verir. Ayrıca ağaç dikme, atıkları yönetme, su ve enerji tasarrufu yapma ve çalı yangınlarını azaltma gibi günlük uygulamaları teşvik eder.",
         "facts": [
           "2024: 22.034 kişiye ulaşıldı",
           "2025: 1.701 hane dahil 21.208 kişiye ulaşıldı"
@@ -97,7 +97,7 @@
         "id": "food",
         "title": "Gıda güvenliği",
         "line": "Tahıllar yetiştirilir, depolanır ve maliyet fiyatına satılır.",
-        "body": "SCA her yıl tarım arazilerinde mısır, darı, sorgum, pirinç ve yer fıstığı yetiştirir. Hasat depolanır ve stokların tükendiği, fiyatların yükseldiği haziran-eylül arasındaki kıtlık döneminde kâr marjı olmadan maliyet fiyatına satılır. Gelirin bir kısmı farkındalık ve çocuk koruma çalışmalarımızı finanse eder. Kadınlar ve genç kızlar üretim, depolama ve dağıtıma katılır.",
+        "body": "SCA her yıl tarım arazilerinde mısır, darı, sorgum, pirinç ve yer fıstığı yetiştirir. Hasat depolanır ve stokların tükendiği, fiyatların yükseldiği haziran-eylül arasındaki kıtlık döneminde kâr marjı olmadan maliyet fiyatına satılır. Bu sürece farkındalık ve çocukların korunmasına yönelik faaliyetlerimiz eşlik eder. Kadınlar ve genç kızlar üretim, depolama ve dağıtıma katılır.",
         "facts": [
           "2023 yılında 6.550 hane",
           "2024 yılında 6.720 hane",
@@ -107,29 +107,29 @@
       {
         "id": "children",
         "title": "Çocukların korunması",
-        "line": "Sokakta yaşayan çocuklar için sıcak bir yemek ve onları dinleyen bir kulak.",
-        "body": "Garoua ve Maroua'da sokakta yaşayan çocuklara yerel gıdalardan hazırlanan sıcak ve dengeli yemekler, temiz su ve atıştırmalıklar sunulur. Yemekler hijyen eğitimlerine, sağlık hizmetlerine yönlendirmeye, psikososyal desteğe ve mümkün olduğunda aileye veya okula dönüşe kapı açar. Eğitici sohbetlerde hijyen, çocuk hakları, uyuşturucu ve şiddet, HIV ve erken gebeliğin önlenmesi, barışçıl çatışma çözümü ve yaşam becerileri ele alınır.",
+        "line": "Sokakta yaşayan çocuklar için sıcak bir yemek ve onları dinleyen biri.",
+        "body": "Garoua ve Maroua’da sokakta yaşayan çocuklara yerel gıdalardan hazırlanan sıcak ve dengeli yemekler, temiz su ve atıştırmalıklar sunulur. Yemekler hijyen eğitimlerine, sağlık hizmetlerine yönlendirmeye, psikososyal desteğe ve mümkün olduğunda aileye veya okula dönüşe kapı açar. Eğitici sohbetlerde hijyen, çocuk hakları, uyuşturucu ve şiddet, HIV ve erken gebeliğin önlenmesi, barışçıl çatışma çözümü ve yaşam becerileri ele alınır.",
         "facts": [
           "2024 yılında her gün 130 çocuğa yemek verildi",
-          "2025 yılında 198 çocuk: 125'i Maroua'da, 73'ü Garoua'da"
+          "2025 yılında 198 çocuk: 125’i Maroua’da, 73’ü Garoua’da"
         ]
       },
       {
         "id": "health",
         "title": "Sağlık ve farkındalık",
-        "line": "On binlerce insana ulaşan önleme kampanyaları.",
+        "line": "On binlerce insana ulaşan önleyici sağlık kampanyaları.",
         "body": "SCA, topluluk toplantıları, radyo programları, afişler, ev ziyaretleri ve gönüllü taramalar aracılığıyla Kuzey ve Uzak Kuzey bölgelerinde önleyici sağlık mesajları yayar. 2023 yılında sosyal değişim iletişimi, aile hijyeni ve sağlık risklerinin izlenmesi konularında eğitim aldık.",
         "facts": [
-          "2025: Diyabet, kanser, kalp hastalıkları ve çevresel hastalıklar konusunda 35.265 kişi",
-          "2025: Tütün ve uyuşturucu konusunda 21.646 genç ve yetişkin",
-          "2023: Erken gebelik ve HIV/AIDS konusunda 38.125 kız çocuğu ve genç kadın"
+          "2025: Diyabet, kanser, kalp hastalıkları ve çevreyle ilişkili hastalıklar konusunda 35.265 kişi bilinçlendirildi",
+          "2025: Tütün ve uyuşturucu konusunda 21.646 genç ve yetişkin bilinçlendirildi",
+          "2023: Erken gebelik ve HIV/AIDS konusunda 38.125 kız çocuğu ve genç kadın bilinçlendirildi"
         ]
       },
       {
         "id": "wash",
         "title": "Su, hijyen ve sanitasyon",
         "line": "Temiz eller, güvenli su ve daha az hastalık salgını.",
-        "body": "2023 yılında SCA, Garoua ve Maroua'nın düşük gelirli mahallelerinde el yıkama, sabun kullanımı, su arıtma, atık yönetimi, tuvalet bakımı ve koleranın önlenmesi konularında hijyen eğitimleri düzenledi. Bir sonraki aşamada tuvaletlerin inşası ve su noktalarının iyileştirilmesi planlanıyor.",
+        "body": "2023 yılında SCA, Garoua ve Maroua’nın düşük gelirli mahallelerinde el yıkama, sabun kullanımı, su arıtma, atık yönetimi, tuvalet bakımı ve koleranın önlenmesi konularında hijyen eğitimleri düzenledi. Bir sonraki aşamada tuvaletlerin inşası ve su noktalarının iyileştirilmesi planlanıyor.",
         "facts": [
           "2023 yılında 5.794 haneye ulaşıldı",
           "44.054 kişiye ulaşıldı"
@@ -140,15 +140,15 @@
     "coming": [
       {
         "title": "İklim eylemi",
-        "text": "Fidanlıklar, ağaç dikimi, canlı çitler, topluluk meyve bahçeleri ve okullarda farkındalık çalışmalarının yanı sıra, 2030 iklim hedeflerimiz doğrultusunda bilinçlendirme ve eğitim faaliyetleri."
+        "text": "Fidanlıklar, ağaç dikimi, canlı çitler, topluluk meyve bahçeleri ve okullarda farkındalık çalışmalarının yanı sıra, 2030 hedeflerimizin bir bölümü doğrultusunda bilinçlendirme ve eğitim faaliyetleri."
       },
       {
         "title": "Sürdürülebilir tarım",
-        "text": "Çiftçi eğitimi, kuraklığa dayanıklı tohumlar, sebze bahçeleri, damla sulama, kompost ve kooperatifler."
+        "text": "Çiftçi eğitimi, kuraklığa dayanıklı tohumlar, sebze yetiştiriciliği, damla sulama, kompost ve kooperatifler."
       },
       {
         "title": "Toplumsal cinsiyet hakkaniyeti",
-        "text": "Kadın liderliği ve kooperatifleri, girişimcilik eğitimi ve krediye erişim."
+        "text": "Kadın liderliği, kadın kooperatifleri, girişimcilik eğitimi ve krediye erişim."
       },
       {
         "title": "Atık yönetimi",
@@ -160,45 +160,41 @@
       },
       {
         "title": "Genişletilmiş sosyal koruma",
-        "text": "Okul malzemeleri, savunmasız çocuklara sponsorluk ve sosyal izolasyon yaşayan yaşlılara destek."
+        "text": "Okul malzemesi kitleri, savunmasız çocuklara sponsorluk ve yalnız yaşayan yaşlılara destek."
       }
     ]
   },
   "impact": {
     "title": "Ortaya koyduğumuz sonuçlar",
-    "intro": "SCA, 2023 ile 2025 arasında iki yıl içinde 13.270 haneye gıda desteği sağladı ve 180.000'den fazla kişiye ulaşan farkındalık kampanyaları yürüttü.",
+    "intro": "SCA, 2023 ile 2025 arasında iki yıl içinde 13.270 haneye gıda desteği sağladı ve 180.000’den fazla kişiye ulaşan farkındalık kampanyaları yürüttü.",
     "tableT": "Yıllara göre sonuçlar",
     "cols": ["Sonuç", "2023", "2024", "2025"],
     "na": "_",
     "rows": [
       ["Tahıl ve yer fıstığı verilen haneler", "6.550", "6.720", "_"],
       ["Günlük yemek verilen sokakta yaşayan çocuklar", "_", "130", "198"],
-      ["Hijyen ve su konusunda ulaşılan kişiler", "44.054", "_", "_"],
+      ["Hijyen ve su konusunda bilinçlendirilen kişiler", "44.054", "_", "_"],
       [
-        "Sağlık ve hastalıkların önlenmesi konusunda ulaşılan kişiler",
+        "Sağlık ve hastalıkların önlenmesi konusunda bilinçlendirilen kişiler",
         "38.125",
         "_",
         "56.911"
       ],
-      ["İklim eylemi konusunda ulaşılan kişiler", "_", "22.034", "21.208"]
+      [
+        "İklim eylemi konusunda bilinçlendirilen kişiler",
+        "_",
+        "22.034",
+        "21.208"
+      ]
     ],
     "chartT": "Farkındalık kampanyalarıyla ulaşılan kişiler",
     "chartNote": "Sayılar kampanya başına hesaplanır, bu nedenle bazı kişiler birden fazla kez sayılır.",
     "chart": [
-      {
-        "year": "2023",
-        "value": 82179
-      },
-      {
-        "year": "2024",
-        "value": 22034
-      },
-      {
-        "year": "2025",
-        "value": 78119
-      }
+      { "year": "2023", "value": 82179 },
+      { "year": "2024", "value": 22034 },
+      { "year": "2025", "value": 78119 }
     ],
-    "goalsT": "2030 yılına kadar ulaşmayı hedeflediğimiz stratejik hedefler",
+    "goalsT": "2030 yılına kadar stratejik hedeflerimiz",
     "goals": [
       ["100.000", "gıda desteği alan hane"],
       ["3.000.000", "dikilen ağaç"],
@@ -207,7 +203,7 @@
       ["15.000", "destek alan kadın"],
       ["15.000", "koruma hizmetlerinden yararlanan çocuk"],
       ["15.000", "yetersiz beslenme nedeniyle tedavi gören çocuk"],
-      ["6.000", "istihdama geçişte desteklenen genç"],
+      ["6.000", "istihdama erişim konusunda desteklenen genç"],
       ["5.000", "yardım alan yaşlı"],
       ["5.000", "inşa edilen tuvalet"],
       ["300", "iklim farkındalığı kampanyalarıyla ulaşılan köy"],
@@ -220,20 +216,20 @@
         "who": "Yararlanıcı, Garoua"
       },
       {
-        "text": "Hijyen eğitimleri çocuklarımızı hastalıklardan daha iyi korumayı öğretti.",
+        "text": "Hijyen eğitimleri bize çocuklarımızı hastalıklardan nasıl daha iyi koruyacağımızı öğretti.",
         "who": "Yararlanıcı, Maroua"
       }
     ]
   },
   "partners": {
     "title": "Ortaklarımız",
-    "intro": "Sorunlara en yakın kişiler ve kurumlarla el ele çalışıyoruz. Yerel yönetimler kapıları açıyor, toplum kuruluşları çalışmaları yürütüyor, teknik ve mali ortaklarımız ise büyümemize yardımcı oluyor.",
+    "intro": "Soruna en yakın kişiler ve kurumlarla el ele çalışıyoruz. Yerel yönetimler kapıları açıyor, toplum kuruluşları çalışmaları yürütüyor, teknik ve mali ortaklarımız ise büyümemize yardımcı oluyor.",
     "types": [
       "Yerel idari ve geleneksel otoriteler",
       "Garoua ve Maroua belediyeleri",
       "İlgili bakanlıklar ve yerel yönetimler",
       "Toplum liderleri ve kuruluşları",
-      "Çiftçi kooperatifleri, kadın ve gençlik dernekleri",
+      "Tarım kooperatifleri, kadın ve gençlik dernekleri",
       "Üniversiteler ve araştırma merkezleri",
       "Birleşmiş Milletler kuruluşları ve uluslararası kuruluşlar",
       "Ulusal ve uluslararası sivil toplum kuruluşları",
@@ -252,7 +248,7 @@
   },
   "involved": {
     "title": "Bize katılın",
-    "intro": "Maddi destek, yardım etmenin bir yoludur. İşte diğer yollar.",
+    "intro": "Maddi destek, yardım etmenin bir yoludur. İşte diğer yardım yolları.",
     "items": [
       {
         "title": "Gönüllü olun",
@@ -266,7 +262,7 @@
       },
       {
         "title": "Ayni bağış yapın",
-        "text": "Tohumlar, tarım araçları, hijyen kitleri ve okul malzemeleri ailelere ulaştırılır.",
+        "text": "Tohumlar, tarım araçları, hijyen kitleri ve okul malzemesi kitleri ailelere ulaştırılır.",
         "cta": "Nasıl yapabileceğinizi öğrenin"
       },
       {
@@ -304,7 +300,7 @@
     "intro": "Kamerun’un kuzeyindeki topluluklarla yürüttüğümüz çalışmaları destekleyin. Her katkı fark yaratır.",
     "close": "Bağış penceresini kapat",
     "howT": "Nasıl bağış yapılır?",
-    "mobile": "Mobil ödeme",
+    "mobile": "Mobil ödeme (Mobile Money)",
     "bank": "Banka havalesi",
     "card": "Kart",
     "number": "Telefon numarası",
@@ -324,12 +320,12 @@
     "trust": "Sahel Climate Action’a verdiğiniz destek için teşekkür ederiz."
   },
   "footer": {
-    "tag": "Bugün harekete geç, yarın sürdürülebilirlik.",
+    "tag": "Bugün eylem, yarın sürdürülebilirlik.",
     "explore": "Keşfet",
     "where": "Çalışma bölgelerimiz",
     "leadership": "Yönetim",
     "reports": "Yıllık raporlar",
-    "legal": "[Original legal statement]",
+    "legal": "[Orijinal yasal beyan]",
     "rights": "Tüm hakları saklıdır."
   }
 }

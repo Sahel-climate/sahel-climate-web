@@ -48,13 +48,13 @@ const leadership: LeadershipMember[] = [
 // ─────────────────────────────────────────
 
 const renamedDate: Record<LanguageCode, string> = {
-  en: "15 September 2024",
-  fr: "15 septembre 2024",
-  ar: "15 سبتمبر 2024",
-  tr: "15 Eylül 2024",
-  es: "15 de septiembre de 2024",
-  pt: "15 de setembro de 2024",
-  de: "15. September 2024",
+  en: "16 May 2025",
+  fr: "16 mai 2025",
+  ar: "16 مايو 2025",
+  tr: "16 Mayıs 2025",
+  es: "16 de mayo de 2025",
+  pt: "16 de maio de 2025",
+  de: "16. Mai 2025",
 };
 
 // ─────────────────────────────────────────
@@ -109,7 +109,7 @@ const partners: Partner[] = [
 // ─────────────────────────────────────────
 
 const contact: ContactConfig = {
-  phone: "+237 6XX XX XX XX",
+  phone: "+237 692 86 83 81",
   whatsapp: "+237 6XX XX XX XX",
   email: "contact@sahelclimateaction.org",
 
@@ -135,7 +135,7 @@ const contact: ContactConfig = {
         pt: "Extremo Norte (sede)",
         de: "Hoher Norden (Hauptsitz)",
       },
-      address: "[Street address, Maroua]",
+      address: "Dougoi, Dix Villas, 10m Hotel Oasis ",
     },
     {
       city: "Garoua",
@@ -192,12 +192,13 @@ const contact: ContactConfig = {
 const donate: DonateConfig = {
   mobileMoney: [
     {
-      provider: "MTN Mobile Money",
-      number: "",
-      holder: "",
-    },
-    {
       provider: "Orange Money",
+      number: "692868381",
+      holder: "Sahel Climate Action",
+    },
+
+    {
+      provider: "MTN Mobile Money",
       number: "",
       holder: "",
     },

@@ -10,7 +10,7 @@
     "programmes": "Programas",
     "impact": "Impacto",
     "involved": "Participa",
-    "partners": "Colaboradores",
+    "partners": "Socios",
     "news": "Noticias",
     "contact": "Contacto",
     "donate": "Donar",
@@ -22,21 +22,21 @@
   "hero": {
     "eyebrow": "Sahel Climate Action · Camerún, África Central",
     "title": "Construir comunidades del Sahel resilientes al cambio climático",
-    "sub": "Luchamos contra la pobreza extrema, el hambre y los efectos del cambio climático en el norte de Camerún mediante la reforestación, la restauración de tierras, la equidad de género, los programas de protección social y el fortalecimiento de la seguridad alimentaria, la salud, la higiene, el acceso al agua potable y la protección infantil.",
+    "sub": "Luchamos contra la pobreza extrema, el hambre y los efectos del cambio climático en Camerún mediante la reforestación, la restauración de tierras, la equidad de género y programas de protección social que integran el fortalecimiento de la seguridad alimentaria, la salud, la higiene, el acceso al agua potable y la protección infantil.",
     "donate": "Dona ahora",
     "programmes": "Nuestros programas",
     "imagePlaceholder": "Nuestro impacto en imágenes",
     "imageAlt": "Proyecto comunitario de Sahel Climate Action"
   },
   "about": {
-    "title": "Una organización juvenil que se convirtió en una ONG dedicada a los problemas climáticos y la lucha contra la pobreza extrema",
+    "title": "Una organización juvenil que evolucionó hasta convertirse en una ONG dedicada a la acción climática y la lucha contra la pobreza extrema",
     "intro": "Sahel Climate Action (SCA) es una organización sin ánimo de lucro que combate la pobreza extrema, los efectos del cambio climático y la desigualdad social en el Sahel, dando prioridad a la protección del medio ambiente. Desarrollamos programas integrados que fortalecen la resiliencia de los hogares más vulnerables frente al cambio climático.",
     "visionT": "Visión",
     "vision": "Comunidades del Sahel resilientes, inclusivas y prósperas, donde todas las personas puedan vivir con dignidad a pesar de los desafíos climáticos, económicos y sociales. Promovemos un enfoque basado en el desarrollo sostenible.",
     "missionT": "Misión",
     "mission": [
-      "Llevar a cabo acciones climáticas adecuadas mediante la reforestación, la restauración de tierras y la sensibilizaciós",
-      "Mejorar la resiliencia de los grupos sociales más vulnerables frente al cambio climático, dado que el Sahel es una de las regiones más pobres del mundo."
+      "Llevar a cabo acciones climáticas adecuadas mediante la reforestación, la restauración de tierras, la sensibilización y la educación.",
+      "Mejorar la resiliencia de los grupos sociales y las comunidades más vulnerables frente al cambio climático, dado que el Sahel es una de las regiones más pobres del mundo."
     ],
     "valuesT": "Nuestros valores",
     "values": [
@@ -73,7 +73,7 @@
       "Los beneficiarios participan activamente y se fortalecen las capacidades locales.",
       "Los resultados se supervisan mediante indicadores claros y se revisan cada año.",
       "Rendimos cuentas a los beneficiarios y a nuestros socios.",
-      "Nadie se queda atrás: se incluye a las mujeres, los jóvenes, las personas desplazadas y las personas con discapacidad."
+      "Nadie se queda atrás: se incluye a las mujeres, los jóvenes, los niños, las personas mayores, las personas desplazadas y las personas con discapacidad."
     ],
     "leadersT": "Gobernanza",
     "leadersIntro": "SCA está dirigida por una Asamblea General, un Consejo de Administración y una Dirección Ejecutiva, con delegaciones regionales y comités comunitarios.",
@@ -86,7 +86,7 @@
       {
         "id": "climate",
         "title": "Acción climática",
-        "line": "Soluciones prácticas para que las familias agricultoras afronten las sequías y las inundaciones.",
+        "line": "Soluciones prácticas para adaptar la agricultura y ayudar a las familias a afrontar las sequías y las inundaciones.",
         "body": "Nuestras campañas enseñan la conservación del agua y del suelo, la agricultura climáticamente inteligente, el uso de semillas resistentes a la sequía, la agroforestería y la plantación comunitaria de árboles, la recuperación de tierras y la alerta temprana ante riesgos climáticos. También fomentan acciones cotidianas: plantar árboles, gestionar los residuos, ahorrar agua y energía y reducir los incendios de matorrales.",
         "facts": [
           "2024: 22.034 personas alcanzadas",
@@ -97,7 +97,7 @@
         "id": "food",
         "title": "Seguridad alimentaria",
         "line": "Cereales cultivados, almacenados y revendidos a precio de coste.",
-        "body": "Cada año, SCA cultiva maíz, mijo, sorgo, arroz y cacahuetes en tierras agrícolas. La cosecha se almacena y luego se vende a precio de coste, sin margen de beneficio, durante el periodo de escasez de junio a septiembre, cuando se agotan las reservas y suben los precios. Parte de los ingresos financia nuestras actividades de sensibilización y protección infantil. Las mujeres y las jóvenes participan en la producción, el almacenamiento y la distribución.",
+        "body": "Cada año, SCA cultiva maíz, mijo, sorgo, arroz y cacahuetes en tierras agrícolas. La cosecha se almacena y luego se vende a precio de coste, sin margen de beneficio, durante el periodo de escasez de junio a septiembre, cuando se agotan las reservas y suben los precios. Este proceso va acompañado de nuestras actividades de sensibilización y protección infantil. Las mujeres y las jóvenes participan en la producción, el almacenamiento y la distribución.",
         "facts": [
           "6.550 hogares en 2023",
           "6.720 hogares en 2024",
@@ -140,15 +140,15 @@
     "coming": [
       {
         "title": "Acción climática",
-        "text": "Viveros de árboles, plantación de árboles, setos vivos, huertos frutales comunitarios y sensibilización escolar, así como actividades de sensibilización y educación, en consonancia con nuestros objetivos climáticos para 2030."
+        "text": "Viveros de árboles, plantación de árboles, setos vivos, huertos frutales comunitarios y sensibilización escolar, así como actividades de sensibilización y educación, en consonancia con parte de nuestros objetivos para 2030."
       },
       {
         "title": "Agricultura sostenible",
-        "text": "Formación de agricultores, semillas resistentes a la sequía, huertos, riego por goteo, compost y cooperativas."
+        "text": "Formación de agricultores, semillas resistentes a la sequía, cultivos hortícolas, riego por goteo, compost y cooperativas."
       },
       {
         "title": "Equidad de género",
-        "text": "Liderazgo femenino y cooperativas de mujeres, formación empresarial y acceso al crédito."
+        "text": "Liderazgo femenino y cooperativas de mujeres, formación en emprendimiento y acceso al crédito."
       },
       {
         "title": "Gestión de residuos",
@@ -160,7 +160,7 @@
       },
       {
         "title": "Protección social ampliada",
-        "text": "Material escolar, apadrinamiento de niños vulnerables y apoyo a personas mayores aisladas."
+        "text": "Kits escolares, apadrinamiento de niños vulnerables y apoyo a personas mayores aisladas."
       }
     ]
   },
@@ -208,7 +208,7 @@
       ["15.000", "mujeres que reciben apoyo"],
       ["15.000", "niños que se benefician de servicios de protección"],
       ["15.000", "niños con desnutrición que reciben tratamiento"],
-      ["6.000", "jóvenes acompañados hacia el empleo"],
+      ["6.000", "jóvenes que reciben apoyo para acceder al empleo"],
       ["5.000", "personas mayores que reciben asistencia"],
       ["5.000", "letrinas construidas"],
       ["300", "aldeas alcanzadas por campañas de sensibilización climática"],
@@ -253,7 +253,7 @@
   },
   "involved": {
     "title": "Participa",
-    "intro": "El dinero es una forma de ayudar. Estas son las demás.",
+    "intro": "El dinero es una forma de ayudar. Estas son otras formas de hacerlo.",
     "items": [
       {
         "title": "Hazte voluntario",
@@ -267,7 +267,7 @@
       },
       {
         "title": "Dona en especie",
-        "text": "Las semillas, las herramientas agrícolas, los kits de higiene y los materiales escolares llegan a las familias.",
+        "text": "Las semillas, las herramientas agrícolas, los kits de higiene y los kits escolares llegan a las familias.",
         "cta": "Pregunta cómo"
       },
       {
@@ -311,7 +311,7 @@
     "intro": "Apoya nuestro trabajo con las comunidades del norte de Camerún. Cada contribución marca la diferencia.",
     "close": "Cerrar ventana de donación",
     "howT": "Cómo donar",
-    "mobile": "Dinero móvil",
+    "mobile": "Mobile Money",
     "bank": "Transferencia bancaria",
     "card": "Tarjeta",
     "number": "Número de teléfono",
@@ -334,9 +334,9 @@
     "tag": "Acción hoy, sostenibilidad mañana.",
     "explore": "Explorar",
     "where": "Dónde trabajamos",
-    "leadership": "Dirección",
+    "leadership": "Gobernanza",
     "reports": "Informes anuales",
-    "legal": "[Original legal statement]",
+    "legal": "[Declaración legal original]",
     "rights": "Todos los derechos reservados."
   }
 }

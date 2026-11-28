@@ -23,7 +23,7 @@
   "hero": {
     "eyebrow": "Sahel Climate Action · Cameroon, Central Africa",
     "title": "Building Sahelian communities resilient to climate change",
-    "sub": "We fight extreme poverty, hunger and the effects of climate change in northern Cameroon through reforestation, land restoration, gender equity, social safety net programs involving broadly strengthened food security, health, hygiene, clean water, and child protection.",
+    "sub": "We fight extreme poverty, hunger and the effects of climate change in Cameroon through reforestation, land restoration, gender equity, social safety net programs involving broadly strengthened food security, health, hygiene, clean water, and child protection.",
     "donate": "Donate now",
     "programmes": "Our programmes",
     "imagePlaceholder": "Our impact in pictures",
@@ -32,13 +32,13 @@
 
   "about": {
     "title": "A youth organization that grew up  into NGO focusing on climate issues and extreme poverty fighting ",
-    "intro": "Sahel Climate Action (SCA) is a non-profit organisation fighting extreme poverty, the effects of climate change and social inequality in the Sahel, while giving priority to environment protection. we run integrated programmes that strengthen most vulnerable households resilience to climate change.",
+    "intro": "Sahel Climate Action (SCA) is a non-profit organisation fighting extreme poverty, the effects of climate change and social inequality in the Sahel, while giving priority to environment protection. We run integrated programmes that strengthen most vulnerable households' resilience to climate change.",
     "visionT": "Vision",
-    "vision": "Resilient, inclusive and prosperous Sahelian communities where everyone can live with dignity, despite climate, economic and social challenges. we praise Sustainable developement driven approach",
+    "vision": "Resilient, inclusive and prosperous Sahelian communities where everyone can live with dignity, despite climate, economic and social challenges.We praise Sustainable Developement driven approach",
     "missionT": "Mission",
     "mission": [
-      "Undertaking appropriate climate action through reforestation, land restoration and awareness-raising.",
-      "To improve the resilience of the most vulnerable social groups in the context of climate change, given that the Sahel is one of the world's poorest regions."
+      "Undertaking appropriate climate action through reforestation, land restoration, awareness-raising, education.",
+      "To improve resilience of the most vulnerable social groups and communities in the context of climate change, given that the Sahel is one of the world's poorest regions."
     ],
 
     "valuesT": "Our values",
@@ -59,7 +59,7 @@
     "history": [
       {
         "date": "{{renamedDate}}",
-        "text": "The association denomination turned to Sahel Climate Action, undelying it core objectives in term of climate as wells as its related achievements over years."
+        "text": "The association denomination turned to Sahel Climate Action, underlying it core objectives in terms of climate as well as its related achievements over years."
       },
       {
         "date": "1 February 2012",
@@ -75,8 +75,8 @@
       "Projects start from needs the communities express.",
       "Beneficiaries take an active part and local skills are built up.",
       "Results are tracked with clear indicators and reviewed every year.",
-      "we report to beneficiaries and  partners.",
-      "No one is left behind: women, young people, displaced people and people with disabilities are included."
+      "We report to beneficiaries and  partners.",
+      "No one is left behind: women, young people, children elderly, displaced people and people with disabilities are included."
     ],
     "leadersT": "Leadership",
     "leadersIntro": "SCA is run by a General Assembly, a Board of Directors and an Executive Directorate, with regional branches and community committees.",
@@ -90,8 +90,8 @@
       {
         "id": "climate",
         "title": "Climate action",
-        "line": "Practical ways for farming families to cope with drought and floods.",
-        "body": "Our campaigns teach water and soil conservation, climate-smart farming, drought-resistant seeds, agroforestry and community tree planting, land recovery, and early warning of climate risks. They also encourage everyday actions: planting trees, managing waste, saving water and energy, and fewer bush fires.",
+        "line": "Practical ways for farming, families to cope with drought and floods.",
+        "body": "Our campaigns teach water and soil conservation, climate-smart farming, drought-resistant seeds, agroforestry and community trees planting, land recovery, and early warning of climate risks. They also encourage everyday actions: planting trees, managing waste, saving water and energy, and fewer bush fires.",
         "facts": [
           "2024: 22,034 people reached",
           "2025: 21,208 people reached, including 1,701 households"
@@ -101,7 +101,7 @@
         "id": "food",
         "title": "Food security",
         "line": "Grain grown, stored and resold at cost.",
-        "body": "Each year SCA grows maize, millet, sorghum, rice and groundnuts on farmlands. The harvest is stored, then sold at cost price, with no profit margin, during the June to September lean season when stocks run out and prices climb. Part of the proceeds funds our awareness and child-protection work. Women and young girls take part in production, storage and distribution.",
+        "body": "Each year SCA grows maize, millet, sorghum, rice and groundnuts on farmlands. The harvest is stored, then sold at cost price, with no profit margin, during the June to September lean season when stocks run out and prices climb. As part of the process, our awareness and child-protection work. Women and young girls take part in production, storage and distribution.",
         "facts": [
           "6,550 households in 2023",
           "6,720 households in 2024",

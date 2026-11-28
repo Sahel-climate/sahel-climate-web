@@ -17,26 +17,26 @@
     "language": "Langue",
     "openMenu": "Ouvrir le menu",
     "closeMenu": "Fermer le menu",
-    "tagline": "Agir aujourd'hui, durer demain"
+    "tagline": "Agir aujourd’hui pour un avenir durable demain"
   },
   "hero": {
     "eyebrow": "Sahel Climate Action · Cameroun, Afrique centrale",
     "title": "Construire des communautés sahéliennes résilientes face au changement climatique",
-    "sub": "Nous luttons contre l’extrême pauvreté, la faim et les effets du changement climatique dans le nord du Cameroun grâce au reboisement, à la restauration des terres, à l’équité de genre, aux programmes de protection sociale, ainsi qu’au renforcement de la sécurité alimentaire, de la santé, de l’hygiène, de l’accès à l’eau potable et de la protection de l’enfance.",
+    "sub": "Nous luttons contre l’extrême pauvreté, la faim et les effets du changement climatique au Cameroun grâce au reboisement, à la restauration des terres, à l’équité de genre et à des programmes de protection sociale intégrant le renforcement de la sécurité alimentaire, de la santé, de l’hygiène, de l’accès à l’eau potable et de la protection de l’enfance.",
     "donate": "Faire un don maintenant",
     "programmes": "Nos programmes",
     "imagePlaceholder": "Notre impact en images",
     "imageAlt": "Projet communautaire de Sahel Climate Action"
   },
   "about": {
-    "title": "Une organisation de jeunes devenue une ONG engagée dans la lutte contre les enjeux climatiques et l’extrême pauvreté",
+    "title": "Une organisation de jeunes devenue une ONG engagée dans l’action climatique et la lutte contre l’extrême pauvreté",
     "intro": "Sahel Climate Action (SCA) est une organisation à but non lucratif qui lutte contre l’extrême pauvreté, les effets du changement climatique et les inégalités sociales au Sahel, en donnant la priorité à la protection de l’environnement. Nous menons des programmes intégrés qui renforcent la résilience des ménages les plus vulnérables face au changement climatique.",
     "visionT": "Vision",
     "vision": "Des communautés sahéliennes résilientes, inclusives et prospères, où chacun peut vivre dignement malgré les défis climatiques, économiques et sociaux. Nous privilégions une approche fondée sur le développement durable.",
     "missionT": "Mission",
     "mission": [
-      "Mener des actions climatiques adaptées à travers le reboisement, la restauration des terres et la sensibilisation.",
-      "Renforcer la résilience des groupes sociaux les plus vulnérables face au changement climatique, étant donné que le Sahel est l’une des régions les plus pauvres du monde."
+      "Mener des actions climatiques adaptées à travers le reboisement, la restauration des terres, la sensibilisation et l’éducation.",
+      "Renforcer la résilience des groupes sociaux et des communautés les plus vulnérables face au changement climatique, étant donné que le Sahel est l’une des régions les plus pauvres du monde."
     ],
     "valuesT": "Nos valeurs",
     "values": [
@@ -73,7 +73,7 @@
       "Les bénéficiaires participent activement et les compétences locales sont renforcées.",
       "Les résultats sont suivis à l'aide d'indicateurs clairs et évalués chaque année.",
       "Nous rendons compte aux bénéficiaires et aux partenaires.",
-      "Personne n'est laissé de côté : les femmes, les jeunes, les personnes déplacées et les personnes en situation de handicap sont inclus."
+      "Personne n’est laissé de côté : les femmes, les jeunes, les enfants, les personnes âgées, les personnes déplacées et les personnes en situation de handicap sont inclus."
     ],
     "leadersT": "Gouvernance",
     "leadersIntro": "SCA est dirigée par une Assemblée générale, un Conseil d'administration et une Direction exécutive, avec des antennes régionales et des comités communautaires.",
@@ -86,7 +86,7 @@
       {
         "id": "climate",
         "title": "Action climatique",
-        "line": "Des solutions pratiques pour aider les familles agricoles à faire face aux sécheresses et aux inondations.",
+        "line": "Des solutions pratiques pour adapter l’agriculture et aider les familles à faire face aux sécheresses et aux inondations.",
         "body": "Nos campagnes enseignent la conservation de l’eau et des sols, l’agriculture intelligente face au climat, l’utilisation de semences résistantes à la sécheresse, l’agroforesterie et la plantation communautaire d’arbres, la restauration des terres et l’alerte précoce face aux risques climatiques. Elles encouragent également des gestes quotidiens : planter des arbres, gérer les déchets, économiser l’eau et l’énergie et réduire les feux de brousse.",
         "facts": [
           "2024 : 22 034 personnes touchées",
@@ -97,7 +97,7 @@
         "id": "food",
         "title": "Sécurité alimentaire",
         "line": "Des céréales cultivées, stockées et revendues au prix coûtant.",
-        "body": "Chaque année, SCA cultive du maïs, du mil, du sorgho, du riz et des arachides sur des terres agricoles. Les récoltes sont stockées, puis vendues au prix coûtant, sans marge bénéficiaire, pendant la période de soudure de juin à septembre, lorsque les stocks s’épuisent et que les prix augmentent. Une partie des recettes finance nos activités de sensibilisation et de protection de l’enfance. Les femmes et les jeunes filles participent à la production, au stockage et à la distribution.",
+        "body": "Chaque année, SCA cultive du maïs, du mil, du sorgho, du riz et des arachides sur des terres agricoles. Les récoltes sont stockées, puis vendues au prix coûtant, sans marge bénéficiaire, pendant la période de soudure de juin à septembre, lorsque les stocks s’épuisent et que les prix augmentent. Ce processus s’accompagne de nos activités de sensibilisation et de protection de l’enfance. Les femmes et les jeunes filles participent à la production, au stockage et à la distribution.",
         "facts": [
           "6 550 ménages en 2023",
           "6 720 ménages en 2024",
@@ -137,7 +137,7 @@
     "coming": [
       {
         "title": "Action climatique",
-        "text": "Pépinières, plantations, haies vives, vergers communautaires, sensibilisation en milieu scolaire, sensibilisation et éducation, en cohérence avec les objectifs climatiques que nous nous sommes fixés pour 2030."
+        "text": "Pépinières, plantation d’arbres, haies vives, vergers communautaires, sensibilisation en milieu scolaire, sensibilisation et éducation, en cohérence avec une partie de nos objectifs à l’horizon 2030."
       },
       {
         "title": "Agriculture durable",
@@ -267,7 +267,7 @@
       },
       {
         "title": "Faire un don en nature",
-        "text": "Semences, outils agricoles, kits d’hygiène et kits scolaires parviennent directement aux familles.",
+        "text": "Semences, outils agricoles, kits d’hygiène et kits scolaires parviennent aux familles.",
         "cta": "Savoir comment"
       },
       {
@@ -331,12 +331,12 @@
     "trust": "Merci de soutenir Sahel Climate Action."
   },
   "footer": {
-    "tag": "Agir aujourd’hui, pour un avenir durable demain.",
+    "tag": "Agir aujourd’hui pour un avenir durable demain.",
     "explore": "Explorer",
     "where": "Nos zones d’intervention",
     "leadership": "Direction",
     "reports": "Rapports annuels",
-    "legal": "[Original legal statement]",
+    "legal": "[Mention légale originale]",
     "rights": "Tous droits réservés."
   }
 }
